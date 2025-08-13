@@ -1,0 +1,42 @@
+\usepackage[letterpaper,margin=.75in]{geometry}
+
+\usepackage[autocompile]{gregoriotex}
+
+% Red lines instead of black lines
+\gresetlinecolor{gregoriocolor}
+
+\grechangestaffsize{18}
+\grechangestyle{initial}{\fontsize{72}{72}\selectfont\color{gregoriocolor}}{}
+\grechangedim{baselineskip}{72pt}{fixed}
+
+\usepackage{fontspec}
+\defaultfontfeatures{Ligatures=TeX}
+\newfontfeature{Microtype}{protrusion=default;expansion=default;}
+\setmainfont[Microtype,Ligatures=TeX,Numbers=OldStyle]{Minion Pro}
+
+%\pagestyle{empty}
+
+% Initialize empty internal macros
+\newcommand{\theyearcycle}{}
+\newcommand{\thescriptureref}{}
+\newcommand{\thetone}{}
+
+% Setter commands
+\newcommand{\yearcycle}[1]{\renewcommand{\theyearcycle}{#1}}
+\newcommand{\scriptureref}[1]{\renewcommand{\thescriptureref}{#1}}
+\newcommand{\tone}[1]{\renewcommand{\thetone}{#1}}
+
+% Print command
+\makeatletter
+\newcommand{\makereadingtitle}{%
+  \begin{center}
+    {\large \@title\par}
+    \vspace{1ex}
+    {\theyearcycle\par}
+    \vspace{1ex}
+    {\color{gregoriocolor} \thescriptureref\par}
+    \vspace{1ex}
+    {\small \textbf{\thetone} \par}
+  \end{center}
+}
+\makeatother
