@@ -2,7 +2,7 @@
 
 ## Temporal Cycle
 
-| SUNDAY                           | Reading 1                       | Reading 2                       | Gospel - Antiquior                     | Gospel - Evangelii                     | Date       |
+| SUNDAY                           | Reading 1                       | Reading 2                       | Gospel - Antiquior                     | Gospel - Evangelii                     | Date (ref) |
 |:---------------------------------|:-------------------------------:|:-------------------------------:|:--------------------------------------:|:--------------------------------------:|:----------:|
 | 18th Sunday in Ordinary Time (C) | [Reading 1](files/OT/c18pr.pdf) | [Reading 2](files/OT/c18ep.pdf) | [Gospel Antiquior](files/OT/c18ga.pdf) | [Gospel Evangelii](files/OT/c18ge.pdf) |  8/ 3/2025 |
 | 19th Sunday in Ordinary Time (C) | [Reading 1](files/OT/c19pr.pdf) | [Reading 2](files/OT/c19ep.pdf) | [Gospel Antiquior](files/OT/c19ga.pdf) | [Gospel Evangelii](files/OT/c19ge.pdf) |  8/10/2025 |
@@ -12,7 +12,7 @@
 
 ## Sanctoral Cycle
 
-| FEAST DAY                        | Reading 1                       | Reading 2                       | Gospel - Antiquior                     | Gospel - Evangelii                     | Date       |
+| FEAST DAY                        | Reading 1                       | Reading 2                       | Gospel - Antiquior                     | Gospel - Evangelii                     | Date (ref) |
 |:---------------------------------|:-------------------------------:|:-------------------------------:|:--------------------------------------:|:--------------------------------------:|:----------:|
 | Assumption of the BVM            | [Reading 1](files/SA/asmap.pdf) | [Reading 2](files/SA/asmep.pdf) | [Gospel Antiquior](files/SA/asmga.pdf) | [Gospel Evangelii](files/SA/asmge.pdf) |  8/15/2025 |
 
