@@ -2,7 +2,7 @@
 LATEXMK = latexmk -pdf -pdflatex=lualatex
 
 # Find all .tex files under PA/ and SA/
-TEXSRC := $(shell find PA SA -type f -name "*.tex")
+TEXSRC := $(shell find AD CH OT LT EA SA -type f -name "*.tex")
 
 # Convert to corresponding PDF targets
 PDFS := $(TEXSRC:.tex=.pdf)
