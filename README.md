@@ -9,6 +9,7 @@
 | 20th Sunday in Ordinary Time (C) | [Reading 1](files/OT/c20pr.pdf) | [Reading 2](files/OT/c20ep.pdf) | [Gospel Antiquior](files/OT/c20ga.pdf) | [Gospel Evangelii](files/OT/c20ge.pdf) |  8/17/2025 |
 | 21st Sunday in Ordinary Time (C) | [Reading 1](files/OT/c21pr.pdf) | [Reading 2](files/OT/c21ep.pdf) | [Gospel Antiquior](files/OT/c21ga.pdf) | [Gospel Evangelii](files/OT/c21ge.pdf) |  8/24/2025 |
 | 22nd Sunday in Ordinary Time (C) | [Reading 1](files/OT/c22pr.pdf) | [Reading 2](files/OT/c22ep.pdf) | [Gospel Antiquior](files/OT/c22ga.pdf) | [Gospel Evangelii](files/OT/c22ge.pdf) |  8/31/2025 |
+| 23rd Sunday in Ordinary Time (C) | [Reading 1](files/OT/c23pr.pdf) | Reading 2 | Gospel Antiquior | Gospel Evangelii |  9/ 7/2025 |
 
 ## Sanctoral Cycle
 
