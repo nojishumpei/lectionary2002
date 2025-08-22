@@ -1,7 +1,0 @@
-# Ignore aux and log files anywhere under files/
-files/**/*.log
-files/**/*.fls
-files/**/*.fdb_latexmk
-files/**/*.aux
-files/**/*.gaux
-
