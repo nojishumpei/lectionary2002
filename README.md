@@ -12,6 +12,7 @@
 | 23rd Sunday in Ordinary Time (C) | [Reading 1](files/OT/c23pr.pdf) | [Reading 2](files/OT/c23ep.pdf) | [Gospel Antiquior](files/OT/c23ga.pdf) | [Gospel Evangelii](files/OT/c23ge.pdf) |  9/ 7/2025        |
 | 24th Sunday in Ordinary Time (C) | [Reading 1](files/OT/c24pr.pdf) | [Reading 2](files/OT/c24ep.pdf) | [Gospel Antiquior](files/OT/c24ga.pdf) | [Gospel Evangelii](files/OT/c24ge.pdf) |  Not in 2025      |
 | 25th Sunday in Ordinary Time (C) | [Reading 1](files/OT/c25pr.pdf) | [Reading 2](files/OT/c25ep.pdf) | [Gospel Antiquior](files/OT/c25ga.pdf) | [Gospel Evangelii](files/OT/c25ge.pdf) |  9/21/2025        |
+| 26th Sunday in Ordinary Time (C) | [Reading 1](files/OT/c26pr.pdf) | | | |  9/28/2025        |
 
 ## Sanctoral Cycle
 
