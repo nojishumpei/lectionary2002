@@ -14,6 +14,7 @@
 | 25th Sunday in Ordinary Time (C) | [Reading 1](files/OT/c25pr.pdf) | [Reading 2](files/OT/c25ep.pdf) | [Gospel Antiquior](files/OT/c25ga.pdf) | [Gospel Evangelii](files/OT/c25ge.pdf) |  9/21/2025        |
 | 26th Sunday in Ordinary Time (C) | [Reading 1](files/OT/c26pr.pdf) | [Reading 2](files/OT/c26ep.pdf) | [Gospel Antiquior](files/OT/c26ga.pdf) | [Gospel Evangelii](files/OT/c26ge.pdf) |  9/28/2025        |
 | 27th Sunday in Ordinary Time (C) | [Reading 1](files/OT/c27pr.pdf) | [Reading 2](files/OT/c27ep.pdf) | [Gospel Antiquior](files/OT/c27ga.pdf) | [Gospel Evangelii](files/OT/c27ge.pdf) | 10/05/2025        |
+| 28th Sunday in Ordinary Time (C) | [Reading 1](files/OT/c28pr.pdf) | [Reading 2](files/OT/c28ep.pdf) | [Gospel Antiquior](files/OT/c28ga.pdf) | [Gospel Evangelii](files/OT/c28ge.pdf) | 10/12/2025        |
 
 ## Sanctoral Cycle
 
