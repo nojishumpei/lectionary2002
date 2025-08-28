@@ -15,7 +15,12 @@
 | 26th Sunday in Ordinary Time (C) | [Reading 1](files/OT/c26pr.pdf) | [Reading 2](files/OT/c26ep.pdf) | [Gospel Antiquior](files/OT/c26ga.pdf) | [Gospel Evangelii](files/OT/c26ge.pdf) |  9/28/2025        |
 | 27th Sunday in Ordinary Time (C) | [Reading 1](files/OT/c27pr.pdf) | [Reading 2](files/OT/c27ep.pdf) | [Gospel Antiquior](files/OT/c27ga.pdf) | [Gospel Evangelii](files/OT/c27ge.pdf) | 10/05/2025        |
 | 28th Sunday in Ordinary Time (C) | [Reading 1](files/OT/c28pr.pdf) | [Reading 2](files/OT/c28ep.pdf) | [Gospel Antiquior](files/OT/c28ga.pdf) | [Gospel Evangelii](files/OT/c28ge.pdf) | 10/12/2025        |
-| 29th Sunday in Ordinary Time (C) | [Reading 1](files/OT/c29pr.pdf) | [Reading 2](files/OT/c29ep.pdf) | | | 10/19/2025        |
+| 29th Sunday in Ordinary Time (C) | [Reading 1](files/OT/c29pr.pdf) | [Reading 2](files/OT/c29ep.pdf) | [Gospel Antiquior](files/OT/c29ga.pdf) | [Gospel Evangelii](files/OT/c29ge.pdf) | 10/19/2025        |
+| 30th Sunday in Ordinary Time (C) | [Reading 1](files/OT/c30pr.pdf) | [Reading 2](files/OT/c30ep.pdf) | | | 10/26/2025        |
+| 31st Sunday in Ordinary Time (C) | | | | |  Not in 2025      |
+| 32nd Sunday in Ordinary Time (C) | | | | |  Not in 2025      |
+| 33rd Sunday in Ordinary Time (C) | | | | | 11/16/2025        |
+| Christ the King (C)              | | | | | 11/23/2025        |
 
 ## Sanctoral Cycle
 
@@ -23,6 +28,9 @@
 |:---------------------------------|:-------------------------------:|:-------------------------------:|:--------------------------------------:|:--------------------------------------:|:-----------------:|
 | Assumption of the BVM            | [Reading 1](files/SA/asmap.pdf) | [Reading 2](files/SA/asmep.pdf) | [Gospel Antiquior](files/SA/asmga.pdf) | [Gospel Evangelii](files/SA/asmge.pdf) |  8/15/2025        |
 | Exaltation of the Holy Cross     | [Reading 1](files/SA/ehcpr.pdf) | [Reading 2](files/SA/ehcep.pdf) | [Gospel Antiquior](files/SA/ehcga.pdf) | [Gospel Evangelii](files/SA/ehcge.pdf) |  9/14/2025        |
+| All Saints                       | | | | | 11/01/2025        |
+| All Souls                        | | | | | 11/02/2025        |
+| Dedication of the Lateran Basilica in Rome | | 11/09/2025        |
 
 ## Resources
 
