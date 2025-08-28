@@ -30,7 +30,7 @@
 | Exaltation of the Holy Cross     | [Reading 1](files/SA/ehcpr.pdf) | [Reading 2](files/SA/ehcep.pdf) | [Gospel Antiquior](files/SA/ehcga.pdf) | [Gospel Evangelii](files/SA/ehcge.pdf) |  9/14/2025        |
 | All Saints                       | | | | | 11/01/2025        |
 | All Souls                        | | | | | 11/02/2025        |
-| Dedication of the Lateran Basilica in Rome | | 11/09/2025        |
+| Dedication of the Lateran Basilica in Rome | | | | | 11/09/2025        |
 
 ## Resources
 
