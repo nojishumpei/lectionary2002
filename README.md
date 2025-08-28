@@ -41,4 +41,6 @@
     - [Latin syllabificator](https://gregorio-project.github.io/hyphen-la/)
     - [Online GABC editor](https://www.sourceandsummit.com/editor/legacy/)
 - [Daily Readings by USCCB](https://bible.usccb.org/readings/calendar)
+- [Lectionary Study Aids by Matthew Hazell](https://catholiclectionary.blogspot.com/)
 - [Scripture Readings (1962 Missal) pointed in chant notation](http://www.windsorlatinmass.org/latin/chant.htm)
+- [Nova Vulgata](https://www.vatican.va/archive/bible/nova_vulgata/documents/nova-vulgata_index_lt.html)
