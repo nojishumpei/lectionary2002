@@ -28,7 +28,7 @@
 |:---------------------------------|:-------------------------------:|:-------------------------------:|:--------------------------------------:|:--------------------------------------:|:-----------------:|
 | Assumption of the BVM            | [Reading 1](files/SA/asmap.pdf) | [Reading 2](files/SA/asmep.pdf) | [Gospel Antiquior](files/SA/asmga.pdf) | [Gospel Evangelii](files/SA/asmge.pdf) |  8/15/2025        |
 | Exaltation of the Holy Cross     | [Reading 1](files/SA/ehcpr.pdf) | [Reading 2](files/SA/ehcep.pdf) | [Gospel Antiquior](files/SA/ehcga.pdf) | [Gospel Evangelii](files/SA/ehcge.pdf) |  9/14/2025        |
-| All Saints                       | | | | | 11/01/2025        |
+| All Saints                       | [Reading 1](files/SA/astap.pdf) | [Reading 2](files/SA/astep.pdf) | | | 11/01/2025        |
 | All Souls                        | | | | | 11/02/2025        |
 | Dedication of the Lateran Basilica in Rome | | | | | 11/09/2025        |
 
