@@ -35,8 +35,8 @@
 
 | Reading 1                                  | Reading 2                       | Gospel - Antiquior                     | Gospel - Evangelii                     |
 |:------------------------------------------:|:-------------------------------:|:--------------------------------------:|:--------------------------------------:|
-| [Wisdom 3:1-9](files/DA/dr102.pdf)         | | | |
-| [2 Maccabees 12:43-46](files/DA/dr107.pdf) | | | |
+| [Wisdom 3:1-9](files/DE/dr102.pdf)         | | | |
+| [2 Maccabees 12:43-46](files/DE/dr107.pdf) | | | |
 
 ## Resources
 
