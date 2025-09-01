@@ -33,10 +33,10 @@
 
 ## Mass for the Dead
 
-| Reading 1                                  | Reading 2                           | Gospel - Antiquior                     | Gospel - Evangelii                     |
-|:------------------------------------------:|:-----------------------------------:|:--------------------------------------:|:--------------------------------------:|
-| [Wisdom 3:1-9](files/DE/dr102.pdf)         | [Romans 5:5-11](files/DE/dr201.pdf) | | |
-| [2 Maccabees 12:43-46](files/DE/dr107.pdf) | | | |
+| Reading 1                                     | Reading 2                              | Gospel - Antiquior                     | Gospel - Evangelii                     |
+|:---------------------------------------------:|:--------------------------------------:|:--------------------------------------:|:--------------------------------------:|
+| 2: [Wisdom 3:1-9](files/DE/dr102.pdf)         | 1: [Romans 5:5-11](files/DE/dr201.pdf) | | |
+| 7: [2 Maccabees 12:43-46](files/DE/dr107.pdf) | 3: [Romans 6:9-3](files/DE/dr203.pdf)  | | |
 
 ## Resources
 
