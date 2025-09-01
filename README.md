@@ -35,7 +35,7 @@
 
 | Reading 1                                     | Reading 2                                         | Gospel - Antiquior                     | Gospel - Evangelii                     |
 |:---------------------------------------------:|:-------------------------------------------------:|:--------------------------------------:|:--------------------------------------:|
-| 2: [Wisdom 3:1-9](files/DE/dr102.pdf)         | 1: [Romans 5:5-11](files/DE/dr201.pdf)            | | |
+| 2: [Wisdom 3:1-9](files/DE/dr102.pdf)         | 1: [Romans 5:5-11](files/DE/dr201.pdf)            | | 10: [John 5:24-29](files/DE/dge10.pdf) |
 | 7: [2 Maccabees 12:43-46](files/DE/dr107.pdf) | 3: [Romans 6:9-3](files/DE/dr203.pdf)             | | |
 |                                               | 8: [1 Corinthians 15:51-57](files/DE/dr208.pdf)   | | |
 |                                               | 12: [1 Thessalonians 4:13-18](files/DE/dr212.pdf) | | |
