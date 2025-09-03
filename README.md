@@ -35,10 +35,10 @@
 
 | Reading 1                                     | Reading 2                                         | Gospel - Antiquior                      | Gospel - Evangelii                      |
 |:---------------------------------------------:|:-------------------------------------------------:|:---------------------------------------:|:---------------------------------------:|
-| 2: [Wisdom 3:1-9](files/DE/dr102.pdf)         | 1: [Romans 5:5-11](files/DE/dr201.pdf)            | 10: [John 5:24-29](files/DE/dga10.pdf)  | 10: [John 5:24-29](files/DE/dge10.pdf)  |
-| 7: [2 Maccabees 12:43-46](files/DE/dr107.pdf) | 3: [Romans 6:9-3](files/DE/dr203.pdf)             | 11: [John 6:37-40](files/DE/dga11.pdf)  | 11: [John 6:37-40](files/DE/dge11.pdf)  |
-|                                               | 8: [1 Corinthians 15:51-57](files/DE/dr208.pdf)   | 12: [John 6:51-59](files/DE/dga12.pdf)  | 12: [John 6:51-59](files/DE/dge12.pdf)  |
-|                                               | 12: [1 Thessalonians 4:13-18](files/DE/dr212.pdf) | 13: [John 11:17-27](files/DE/dga13.pdf) | 13: [John 11:17-27](files/DE/dge13.pdf) |
+| 2: [Wisdom 3:1-9](files/DE/d02ot.pdf)         | 1: [Romans 5:5-11](files/DE/d01ep.pdf)            | 10: [John 5:24-29](files/DE/dga10.pdf)  | 10: [John 5:24-29](files/DE/dge10.pdf)  |
+| 7: [2 Maccabees 12:43-46](files/DE/d07ot.pdf) | 3: [Romans 6:9-3](files/DE/d03ep.pdf)             | 11: [John 6:37-40](files/DE/dga11.pdf)  | 11: [John 6:37-40](files/DE/dge11.pdf)  |
+|                                               | 8: [1 Corinthians 15:51-57](files/DE/d08ep.pdf)   | 12: [John 6:51-59](files/DE/dga12.pdf)  | 12: [John 6:51-59](files/DE/dge12.pdf)  |
+|                                               | 12: [1 Thessalonians 4:13-18](files/DE/d12ep.pdf) | 13: [John 11:17-27](files/DE/dga13.pdf) | 13: [John 11:17-27](files/DE/dge13.pdf) |
 
 ## Resources
 
