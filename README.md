@@ -24,8 +24,8 @@
 
 ## Sanctoral Cycle
 
-| Date              | FEAST DAY                                          | Reading 1                                      | Reading 2                            | Gospel - Antiquior                                        | Gospel - Evangelii                                        |
-|:-----------------:|:---------------------------------------------------|:----------------------------------------------:|:------------------------------------:|:---------------------------------------------------------:|:---------------------------------------------------------:|
+| Date              | Feast                                              | Reading 1                                      | Reading 2                            | Gospel - Antiquior                                        | Gospel - Evangelii                                        |
+|:------------------|:---------------------------------------------------|:----------------------------------------------:|:------------------------------------:|:---------------------------------------------------------:|:---------------------------------------------------------:|
 | February 2        | Presentation of the Lord                           | Mal. 3:1-4                                     | Heb. 2:14-18                         | Luke 2:22-40 Antiquior                                    | Luke 2:22-40 Evangelii                                    |
 | March 19          | St. Joseph, Husband of the BVM                     | 2 Sam. 7:4-5a,12-14a,16                        | Rom. 4:13,16-18,22                   | Matt. 1:16,18-21,24a Antiquior or Luke 2:41-51a Antiquior | Matt. 1:16,18-21,24a Evangelii or Luke 2:41-51a Evangelii |
 | March 25          | Annunciation of the Lord                           | Isa. 7:10-14;8:10                              | Heb. 10:4-10                         | Luke 1:26-38 Antiquior                                    | Luke 1:26-38 Evangelii                                    |
