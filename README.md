@@ -3,7 +3,7 @@
 ## Temporal Cycle
 
 | SUNDAY                           | Reading 1                                 | Reading 2                                  | Gospel - Antiquior                             | Gospel - Evangelii                             | Recent occurrence                          |
-|:---------------------------------|:-----------------------------------------:|:-----------=------------------------------:|:----------------------------------------------:|:----------------------------------------------:|:------------------------------------------:|
+|:---------------------------------|:-----------------------------------------:|:------------------------------------------:|:----------------------------------------------:|:----------------------------------------------:|:------------------------------------------:|
 | 18th Sunday in Ordinary Time (C) | [Ecc. 1:2;2:21-23](files/OT/c18pr.pdf)    | [Col. 3:1-5,9-11](files/OT/c18ep.pdf)      | [Luke 12:13-21 Antiquior](files/OT/c18ga.pdf)  | [Luke 12:13-21 Evangelii](files/OT/c18ge.pdf)  |  8/ 3/2025                                 |
 | 19th Sunday in Ordinary Time (C) | [Wis. 18:6-9](files/OT/c19pr.pdf)         | [Heb. 11:1-2,8-19](files/OT/c19ep.pdf)     | [Luke 12:32-48 Antiquior](files/OT/c19ga.pdf)  | [Luke 12:32-48 Evangelii](files/OT/c19ge.pdf)  |  8/10/2025                                 |
 | 20th Sunday in Ordinary Time (C) | [Jer. 38:4-6,8-10](files/OT/c20pr.pdf)    | [Heb. 12:1-4](files/OT/c20ep.pdf)          | [Luke 12:49-53 Antiquior](files/OT/c20ga.pdf)  | [Luke 12:49-53 Evangelii](files/OT/c20ge.pdf)  |  8/17/2025                                 |
