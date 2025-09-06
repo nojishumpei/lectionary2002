@@ -42,26 +42,26 @@
 
 ## Mass for the Dead
 
-| Reading 1                                     | Reading 2                                              | Gospel - Antiquior                      | Gospel - Evangelii                      |
-|:---------------------------------------------:|:------------------------------------------------------:|:---------------------------------------:|:---------------------------------------:|
-| 1: [Job 19:1,23-27A](files/DE/d01ot.pdf)      | 1: [Romans 5:5-11](files/DE/d01ep.pdf)                 | 1: Matthew 5:1-12A                      | 1: Matthew 5:1-12A                      |
-| 2: [Wisdom 3:1-9](files/DE/d02ot.pdf)         | 2: [Romans 5:17-21](files/DE/d02ep.pdf)                | 2: Matthew 11:25-30                     | 2: Matthew 11:25-30                     |
-| 3: [Wisdom 4:7-15](files/DE/d03ot.pdf)        | 3: [Romans 6:9-3](files/DE/d03ep.pdf)                  | 3: Matthew 25:1-3                       | 3: Matthew 25:1-3                       |
-| 4: [Isaiah 25:6A,7-9](files/DE/d04ot.pdf)     | 4: [Romans 8:14-23](files/DE/d04ep.pdf)                | 4: Matthew 25:31-46                     | 4: Matthew 25:31-46                     |
-| 5: [Lamentations 3:17-26](files/DE/d05ot.pdf) | 5: [Romans 8:31B-35,37--39](files/DE/d05ep.pdf)        | 5: Luke 7:11-17                         | 5: Luke 7:11-17                         |
-| 6: [Daniel 12:1-3](files/DE/d06ot.pdf)        | 6: [Romans 14:7-9,10B-12](files/DE/d06ep.pdf)          | 6: Luke 12:35-40                        | 6: Luke 12:35-40                        |
-| 7: [2 Maccabees 12:43-46](files/DE/d07ot.pdf) | 7: [1 Corinthians 15:20-24A,25-28](files/DE/d07ep.pdf) | 7: Luke 23:33,39-43                     | 7: Luke 23:33,39-43                     |
-|                                               | 8: [1 Corinthians 15:51-57](files/DE/d08ep.pdf)        | 8: Luke 23:44-46,50,52-53;24:1-6A       | 8: Luke 23:44-46,50,52-53;24:1-6A       |
-|                                               | 9: [2 Corinthians 4:14-5:1](files/DE/d09ep.pdf)        | 9: Luke 24:13-35                        | 9: Luke 24:13-35                        |
-|                                               | 10: [2 Corinthians 5:1,6-10](files/DE/d10ep.pdf)       | 10: [John 5:24-29](files/DE/dga10.pdf)  | 10: [John 5:24-29](files/DE/dge10.pdf)  |
-|                                               | 11: [Philippians 2:8-13](files/DE/d11ep.pdf)           | 11: [John 6:37-40](files/DE/dga11.pdf)  | 11: [John 6:37-40](files/DE/dge11.pdf)  |
-|                                               | 12: [1 Thessalonians 4:13-18](files/DE/d12ep.pdf)      | 12: [John 6:51-59](files/DE/dga12.pdf)  | 12: [John 6:51-59](files/DE/dge12.pdf)  |
-|                                               | 13: [2 Timothy 2:8-13](files/DE/d13ep.pdf)             | 13: [John 11:17-27](files/DE/dga13.pdf) | 13: [John 11:17-27](files/DE/dge13.pdf) |
-|                                               | 14: [1 John 3:1-2](files/DE/d14ep.pdf)                 | 14: John 11:32-45                       | 14: John 11:32-45                       |
-|                                               | 15: [1 John 3:14-16](files/DE/d15ep.pdf)               | 15: John 12:23-28                       | 15: John 12:23-28                       |
-|                                               |                                                        | 16: John 14:1-6                         | 16: John 14:1-6                         |
-|                                               |                                                        | 17: John 17:24-26                       | 17: John 17:24-26                       |
-|                                               |                                                        | 18: John 19:17-18,25-30                 | 18: John 19:17-18,25-30                 |
+| Reading 1                                     | Reading 2                                               | Gospel - Antiquior                          | Gospel - Evangelii                         |
+|:---------------------------------------------:|:-------------------------------------------------------:|:-------------------------------------------:|:------------------------------------------:|
+| 1: [Job 19:1,23-27A](files/DE/d01ot.pdf)      | 1: [Romans 5:5-11](files/DE/d01ep.pdf)                  | 1: [Matthew 5:1-12A](files/DE/dga01.pdf)    | 1: [Matthew 5:1-12A](files/DE/dge01.pdf)   |
+| 2: [Wisdom 3:1-9](files/DE/d02ot.pdf)         | 2: [Romans 5:17-21](files/DE/d02ep.pdf)                 | 2: Matthew 11:25-30                         | 2: Matthew 11:25-30                        |
+| 3: [Wisdom 4:7-15](files/DE/d03ot.pdf)        | 3: [Romans 6:9-3](files/DE/d03ep.pdf)                   | 3: Matthew 25:1-3                           | 3: Matthew 25:1-3                          |
+| 4: [Isaiah 25:6A,7-9](files/DE/d04ot.pdf)     | 4: [Romans 8:14-23](files/DE/d04ep.pdf)                 | 4: Matthew 25:31-46                         | 4: Matthew 25:31-46                        |
+| 5: [Lamentations 3:17-26](files/DE/d05ot.pdf) | 5: [Romans 8:31B-35, 37--39](files/DE/d05ep.pdf)        | 5: Luke 7:11-17                             | 5: Luke 7:11-17                            |
+| 6: [Daniel 12:1-3](files/DE/d06ot.pdf)        | 6: [Romans 14:7-9, 10B-12](files/DE/d06ep.pdf)          | 6: Luke 12:35-40                            | 6: Luke 12:35-40                           |
+| 7: [2 Maccabees 12:43-46](files/DE/d07ot.pdf) | 7: [1 Corinthians 15:20-24A, 25-28](files/DE/d07ep.pdf) | 7: Luke 23:33, 39-43                        | 7: Luke 23:33, 39-43                       |
+|                                               | 8: [1 Corinthians 15:51-57](files/DE/d08ep.pdf)         | 8: Luke 23:44-46, 50, 52-53;24:1-6A         | 8: Luke 23:44-46, 50, 52-53;24:1-6A        |
+|                                               | 9: [2 Corinthians 4:14-5:1](files/DE/d09ep.pdf)         | 9: Luke 24:13-35                            | 9: Luke 24:13-35                           |
+|                                               | 10: [2 Corinthians 5:1,6-10](files/DE/d10ep.pdf)        | 10: [John 5:24-29](files/DE/dga10.pdf)      | 10: [John 5:24-29](files/DE/dge10.pdf)     |
+|                                               | 11: [Philippians 2:8-13](files/DE/d11ep.pdf)            | 11: [John 6:37-40](files/DE/dga11.pdf)      | 11: [John 6:37-40](files/DE/dge11.pdf)     |
+|                                               | 12: [1 Thessalonians 4:13-18](files/DE/d12ep.pdf)       | 12: [John 6:51-59](files/DE/dga12.pdf)      | 12: [John 6:51-59](files/DE/dge12.pdf)     |
+|                                               | 13: [2 Timothy 2:8-13](files/DE/d13ep.pdf)              | 13: [John 11:17-27](files/DE/dga13.pdf)     | 13: [John 11:17-27](files/DE/dge13.pdf)    |
+|                                               | 14: [1 John 3:1-2](files/DE/d14ep.pdf)                  | 14: John 11:32-45                           | 14: John 11:32-45                          |
+|                                               | 15: [1 John 3:14-16](files/DE/d15ep.pdf)                | 15: John 12:23-28                           | 15: John 12:23-28                          |
+|                                               |                                                         | 16: John 14:1-6                             | 16: John 14:1-6                            |
+|                                               |                                                         | 17: John 17:24-26                           | 17: John 17:24-26                          |
+|                                               |                                                         | 18: John 19:17-18, 25-30                    | 18: John 19:17-18, 25-30                   |
 
 ## Resources
 
