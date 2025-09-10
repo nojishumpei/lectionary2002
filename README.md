@@ -48,7 +48,7 @@
 | 2: [Wisdom 3:1-9](files/DE/d02ot.pdf)         | 2: [Romans 5:17-21](files/DE/d02ep.pdf)                 | 2: [Matthew 11:25-30](files/DE/d02ga.pdf)   | 2: [Matthew 11:25-30](files/DE/d02ge.pdf)  |
 | 3: [Wisdom 4:7-15](files/DE/d03ot.pdf)        | 3: [Romans 6:9-3](files/DE/d03ep.pdf)                   | 3: [Matthew 25:1-3](files/DE/d03ga.pdf)     | 3: [Matthew 25:1-3](files/DE/d03ge.pdf)    |
 | 4: [Isaiah 25:6A,7-9](files/DE/d04ot.pdf)     | 4: [Romans 8:14-23](files/DE/d04ep.pdf)                 | 4: [Matthew 25:31-46](files/DE/d04ga.pdf)   | 4: [Matthew 25:31-46](files/DE/d04ge.pdf)  |
-| 5: [Lamentations 3:17-26](files/DE/d05ot.pdf) | 5: [Romans 8:31B-35, 37--39](files/DE/d05ep.pdf)        | 5: Luke 7:11-17                             | 5: Luke 7:11-17                            |
+| 5: [Lamentations 3:17-26](files/DE/d05ot.pdf) | 5: [Romans 8:31B-35, 37--39](files/DE/d05ep.pdf)        | 5: [Luke 7:11-17](files/DE/d05ga.pdf)       | 5: [Luke 7:11-17](files/DE/d05ge.pdf)      |
 | 6: [Daniel 12:1-3](files/DE/d06ot.pdf)        | 6: [Romans 14:7-9, 10B-12](files/DE/d06ep.pdf)          | 6: Luke 12:35-40                            | 6: Luke 12:35-40                           |
 | 7: [2 Maccabees 12:43-46](files/DE/d07ot.pdf) | 7: [1 Corinthians 15:20-24A, 25-28](files/DE/d07ep.pdf) | 7: Luke 23:33, 39-43                        | 7: Luke 23:33, 39-43                       |
 |                                               | 8: [1 Corinthians 15:51-57](files/DE/d08ep.pdf)         | 8: Luke 23:44-46, 50, 52-53;24:1-6A         | 8: Luke 23:44-46, 50, 52-53;24:1-6A        |
