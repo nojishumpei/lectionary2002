@@ -19,7 +19,7 @@
 | 30th Sunday in Ordinary Time (C) | [Sir. 35:12-14,16-18](files/OT/c30pr.pdf) | [2 Tim. 4:6-8,16-18](files/OT/c30ep.pdf)   | [Luke 18:9-14 Antiquior](files/OT/c30ga.pdf)   | [Luke 18:9-14 Evangelii](files/OT/c30ge.pdf)   | 10/26/2025                                 |
 | 31st Sunday in Ordinary Time (C) | [Wis. 11:22-12:2](files/OT/c31pr.pdf)     | [2 Thess. 1:11-2:2](files/OT/c31ep.pdf)    | [Luke 19:1-10 Antiquior](files/OT/c31ga.pdf)   | [Luke 19:1-10 Evangelii](files/OT/c31ge.pdf)   | All Souls in 2025                          |
 | 32nd Sunday in Ordinary Time (C) | [2 Mac. 7:1-2,9-14](files/OT/c32pr.pdf)   | [2 Thess. 2:16-3:5](files/OT/c32ep.pdf)    | [Luke 20:27-38 Antiquior](files/OT/c32ga.pdf)  | [Luke 20:27-38 Evangelii](files/OT/c32ge.pdf)  | Dedication of the Lateran Basilica in 2025 |
-| 33rd Sunday in Ordinary Time (C) | Mal. 3:19-20a                             | 2 Thess. 3:7-12                            | Luke 21:5-19 Antiquior                         | Luke 21:5-19  Evangelii                        | 11/16/2025                                 |
+| 33rd Sunday in Ordinary Time (C) | [Mal. 3:19-20a](files/OT/c33pr.pdf)       | [2 Thess. 3:7-12](files/OT/c33ep.pdf)      | [Luke 21:5-19 Antiquior](files/OT/c33ga.pdf)   | [Luke 21:5-19  Evangelii](files/OT/c33ge.pdf)  | 11/16/2025                                 |
 | Christ the King (C)              | 2 Sam. 5:1-3                              | Col. 1:12-20                               | Luke 23:35-43 Antiquior                        | Luke 23:35-43 Evangelii                        | 11/23/2025                                 |
 
 ## Sanctoral Cycle
