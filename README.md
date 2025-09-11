@@ -26,6 +26,7 @@
 
 | Date              | Feast                                              | Reading 1                                       | Reading 2                                  | Gospel - Antiquior                                        | Gospel - Evangelii                                        |
 |:------------------|:---------------------------------------------------|:-----------------------------------------------:|:------------------------------------------:|:---------------------------------------------------------:|:---------------------------------------------------------:|
+| December 8        | Immaculate Conception of the BVM                   | Gen. 3:9-15,20                                  | Eph. 1:3-6, 11-12                          | Luke 1:26-38 Antiquior                                    | Luke 1:26-38 Evangelii                                    |
 | February 2        | Presentation of the Lord                           | Mal. 3:1-4                                      | Heb. 2:14-18                               | Luke 2:22-40 Antiquior                                    | Luke 2:22-40 Evangelii                                    |
 | March 19          | St. Joseph, Husband of the BVM                     | 2 Sam. 7:4-5a, 12-14a,16                        | Rom. 4:13, 16-18,22                        | Matt. 1:16,18-21,24a Antiquior or Luke 2:41-51a Antiquior | Matt. 1:16,18-21,24a Evangelii or Luke 2:41-51a Evangelii |
 | March 25          | Annunciation of the Lord                           | Isa. 7:10-14;8:10                               | Heb. 10:4-10                               | Luke 1:26-38 Antiquior                                    | Luke 1:26-38 Evangelii                                    |
@@ -38,7 +39,6 @@
 | September 14      | Exaltation of the Holy Cross                       | [Num. 21:4b-9](files/SA/ehcpr.pdf)              | [Phil 2:6-11](files/SA/ehcep.pdf)          | [John 3:13-17 Antiquior](files/SA/ehcga.pdf)              | [John 3:13-17 Evangelii](files/SA/ehcge.pdf)              |
 | November 1        | All Saints                                         | [Rev. 7:2-4;9-14](files/SA/astap.pdf)           | [1 John 3:1-3](files/SA/astep.pdf)         | [Matt. 5:1-12a Antiquior](files/SA/astga.pdf)             | [Matt 5:1-12a Evangelii](files/SA/astge.pdf)              |
 | November 9        | Dedication of the Lateran Basilica                 | [Ezek. 47:1-2, 8-9, 12](files/SA/dedpr.pdf)     | [1 Cor 3:9c-11, 16-17](files/SA/dedep.pdf) | [John 2:13-22 Antiquior](files/SA/dedga.pdf)              | [John 2:13-22 Evangelii](files/SA/dedge.pdf)              |
-| December 8        | Immaculate Conception of the BVM                   | Gen. 3:9-15,20                                  | Eph. 1:3-6, 11-12                          | Luke 1:26-38 Antiquior                                    | Luke 1:26-38 Evangelii                                    |
 
 ## Mass for the Dead
 
@@ -49,7 +49,7 @@
 | 3: [Wisdom 4:7-15](files/DE/d03ot.pdf)        | 3: [Romans 6:9-3](files/DE/d03ep.pdf)                   | 3: [Matthew 25:1-3](files/DE/d03ga.pdf)     | 3: [Matthew 25:1-3](files/DE/d03ge.pdf)    |
 | 4: [Isaiah 25:6A,7-9](files/DE/d04ot.pdf)     | 4: [Romans 8:14-23](files/DE/d04ep.pdf)                 | 4: [Matthew 25:31-46](files/DE/d04ga.pdf)   | 4: [Matthew 25:31-46](files/DE/d04ge.pdf)  |
 | 5: [Lamentations 3:17-26](files/DE/d05ot.pdf) | 5: [Romans 8:31B-35, 37--39](files/DE/d05ep.pdf)        | 5: [Luke 7:11-17](files/DE/d05ga.pdf)       | 5: [Luke 7:11-17](files/DE/d05ge.pdf)      |
-| 6: [Daniel 12:1-3](files/DE/d06ot.pdf)        | 6: [Romans 14:7-9, 10B-12](files/DE/d06ep.pdf)          | 6: Luke 12:35-40                            | 6: Luke 12:35-40                           |
+| 6: [Daniel 12:1-3](files/DE/d06ot.pdf)        | 6: [Romans 14:7-9, 10B-12](files/DE/d06ep.pdf)          | 6: [Luke 12:35-40](files/DE/d06ga.pdf)      | 6: [Luke 12:35-40](files/DE/d06ge.pdf)     |
 | 7: [2 Maccabees 12:43-46](files/DE/d07ot.pdf) | 7: [1 Corinthians 15:20-24A, 25-28](files/DE/d07ep.pdf) | 7: Luke 23:33, 39-43                        | 7: Luke 23:33, 39-43                       |
 |                                               | 8: [1 Corinthians 15:51-57](files/DE/d08ep.pdf)         | 8: Luke 23:44-46, 50, 52-53;24:1-6A         | 8: Luke 23:44-46, 50, 52-53;24:1-6A        |
 |                                               | 9: [2 Corinthians 4:14-5:1](files/DE/d09ep.pdf)         | 9: Luke 24:13-35                            | 9: Luke 24:13-35                           |
