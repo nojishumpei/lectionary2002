@@ -59,7 +59,7 @@
 |                                               | 13: [2 Timothy 2:8-13](files/DE/d13ep.pdf)              | 13: [John 11:17-27](files/DE/d13ga.pdf)                   | 13: [John 11:17-27](files/DE/d13ge.pdf)                   |
 |                                               | 14: [1 John 3:1-2](files/DE/d14ep.pdf)                  | 14: [John 11:32-45](files/DE/d14ga.pdf)                   | 14: [John 11:32-45](files/DE/d14ge.pdf)                   |
 |                                               | 15: [1 John 3:14-16](files/DE/d15ep.pdf)                | 15: [John 12:23-28](files/DE/d15ga.pdf)                   | 15: [John 12:23-28](files/DE/d15ge.pdf)                   |
-|                                               |                                                         | 16: John 14:1-6                                           | 16: John 14:1-6                                           |
+|                                               |                                                         | 16: [John 14:1-6](files/DE/d16ga.pdf)                     | 16: [John 14:1-6](files/DE/d16ge.pdf)                     |
 |                                               |                                                         | 17: John 17:24-26                                         | 17: John 17:24-26                                         |
 |                                               |                                                         | 18: John 19:17-18, 25-30                                  | 18: John 19:17-18, 25-30                                  |
 
