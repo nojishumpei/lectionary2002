@@ -60,8 +60,8 @@
 |                                               | 14: [1 John 3:1-2](files/DE/d14ep.pdf)                  | 14: [John 11:32-45](files/DE/d14ga.pdf)                   | 14: [John 11:32-45](files/DE/d14ge.pdf)                   |
 |                                               | 15: [1 John 3:14-16](files/DE/d15ep.pdf)                | 15: [John 12:23-28](files/DE/d15ga.pdf)                   | 15: [John 12:23-28](files/DE/d15ge.pdf)                   |
 |                                               |                                                         | 16: [John 14:1-6](files/DE/d16ga.pdf)                     | 16: [John 14:1-6](files/DE/d16ge.pdf)                     |
-|                                               |                                                         | 17: John 17:24-26                                         | 17: John 17:24-26                                         |
-|                                               |                                                         | 18: John 19:17-18, 25-30                                  | 18: John 19:17-18, 25-30                                  |
+|                                               |                                                         | 17: [John 17:24-26](files/DE/d17ga.pdf)                   | 17: [John 17:24-26](files/DE/d17ge.pdf)                   |
+|                                               |                                                         | 18: [John 19:17-18, 25-30](files/DE/d18ga.pdf)            | 18: [John 19:17-18, 25-30](files/DE/d18ge.pdf)            |
 
 ## Resources
 
