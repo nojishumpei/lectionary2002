@@ -4,9 +4,9 @@
 
 ### Advent
 
-| SUNDAY                           | Reading 1                                 | Reading 2                                  | Gospel - Antiquior                   | Gospel - Evangelii                   | Recent occurrence                          |
-|:---------------------------------|:-----------------------------------------:|:------------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------------:|
-| 1st Sunday of Advent (A)         | [Isaiah 2:1-5](files/AD/a01pr.pdf)        | Romans 13:11-14                            | Matthew 23:37-44                     | Matthrew 23:37-44                    | 11/30/2025                                 |
+| SUNDAY                           | Reading 1                                 | Reading 2                                  | Gospel - Antiquior                     | Gospel - Evangelii                      | Recent occurrence |
+|:---------------------------------|:-----------------------------------------:|:------------------------------------------:|:--------------------------------------:|:---------------------------------------:|:-----------------:|
+| 1st Sunday of Advent (A)         | [Isaiah 2:1-5](files/AD/a01pr.pdf)        | [Romans 13:11-14](files/AD/a01ep.pdf)      | [Matthew 23:37-44](files/AD/a01ga.pdf) | [Matthrew 23:37-44](files/AD/a01ge.pdf) | 11/30/2025        |
 
 ### Ordinary Time
 
