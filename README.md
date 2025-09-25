@@ -2,6 +2,14 @@
 
 ## Temporal Cycle
 
+### Advent
+
+| SUNDAY                           | Reading 1                                 | Reading 2                                  | Gospel - Antiquior                   | Gospel - Evangelii                   | Recent occurrence                          |
+|:---------------------------------|:-----------------------------------------:|:------------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------------:|
+| 1st Sunday of Advent (A)         | [Isaiah](files/AD/a01pr.pdf)              | Romans 13:11-14                            | Matthew 23:37-44                     | Matthrew 23:37-44                    | 11/30/2025                                 |
+
+### Ordinary Time
+
 | SUNDAY                           | Reading 1                                 | Reading 2                                  | Gospel - Antiquior                   | Gospel - Evangelii                   | Recent occurrence                          |
 |:---------------------------------|:-----------------------------------------:|:------------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------------:|
 | 18th Sunday in Ordinary Time (C) | [Ecc. 1:2;2:21-23](files/OT/c18pr.pdf)    | [Col. 3:1-5,9-11](files/OT/c18ep.pdf)      | [Luke 12:13-21](files/OT/c18ga.pdf)  | [Luke 12:13-21](files/OT/c18ge.pdf)  |  8/ 3/2025                                 |
