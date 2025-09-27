@@ -1,14 +1,39 @@
 # Lectiones Missalis Romani MMII notatione gregoriana
 
-## Temporal Cycle
+## Proprium de Tempore
 
-### Advent
+### Tempus Adventus
 
 | SUNDAY                           | Reading 1                                 | Reading 2                                  | Gospel - Antiquior                     | Gospel - Evangelii                      | Recent occurrence |
 |:---------------------------------|:-----------------------------------------:|:------------------------------------------:|:--------------------------------------:|:---------------------------------------:|:-----------------:|
 | 1st Sunday of Advent (A)         | [Isaiah 2:1-5](files/AD/a01pr.pdf)        | [Romans 13:11-14](files/AD/a01ep.pdf)      | [Matthew 23:37-44](files/AD/a01ga.pdf) | [Matthrew 23:37-44](files/AD/a01ge.pdf) | 11/30/2025        |
+| 2nd Sunday of Advent (A)         | [Isaiah 11:1-10](files/AD/a02pr.pdf)      | [Romans 15:4-9](files/AD/a02ep.pdf)        | [Matthew 3:1-12](files/AD/a02ga.pdf)   | [Matthew 3:1-12](files/AD/a02ge.pdf)    | 12/ 7/2025        |
+| 3rd Sunday of Advent (A)         | Isaiah 35:1-6A                            | James 5:7-10                               | Matthew 11:2-11                        | Matthew 11:2-11                         | 12/14/2025        |
+| 4th Sunday of Advent (A)         | Isaiah 7:10-14                            | Romans 1:1-7                               | Matthew 1:18-24                        | Matthew 1:18-24                         | 12/21/2025        |
 
-### Ordinary Time
+### Tempus Nativitatis
+
+| Feast                                                                      | Reading 1                 | Reading 2              | Gospel          | Recent occurence |
+|:--------------------------------------------------------------------------:|:-------------------------:|:----------------------:|:---------------:|:----------------:|
+| In Nativitate Domini - Ad Missam in vigilia                                | Isaiah 62:1-5             | Acts 13:16-17, 27, 29  | Matthew 1:1-25  | 12/24/2025       |
+| Ad Missam in nocte                                                         | Isaiah 9:1-6              | Titus 2:11-14          | Luke 2:1-14     | 12/25/2025       |
+| Ad Missam in aurora                                                        | Isaiah 62:11-12           | Titus 3:4-7            | Luke 2:15-20    | 12/25/2025       |
+| Ad Missam in die                                                           | Isaiah 52:7-10            | Hebrews 1:1-6          | John 1:1-18     | 12/25/2025       |
+| Dominica infra octavam Nativitatis - Sanctae Familiae Iesu, Mariae, Ioseph | Sirach 3:3-7              | Colossians 3:12-21     | Matthew 2:13-15 | 12/28/2025       |
+| Year B                                                                     | (Genesis 15:1-6; 21:1-3)  | (Hebrews 11:8, 11-12)  | Luke 2:22-40    |                  |
+| Year C                                                                     | (1 Samuel 1:20-22, 24-28) | (1 John 3:1-2, 21-24)  | Luke 2:41-52    |                  |
+| In Octava Nativitatis Domini - Sollemnitas Sanctae Dei Genetricis Mariae   | Numbers 6:22-27           | Galatians 4:4-7        | Luke 2:16-21    |  1/ 1/2026       |
+| Dominica II post Nativitatem                                               | Sirach 24:1-4, 12-16      | Ephesians 1:3-6        | John 1:1-18     | Epiphania DNIC   |
+| In Epiphania Domini                                                        | Isaiah 60:1-6             | Ephesians 3:2-3A, 5-6  | Matthew 2:1-12  |  1/ 4/2026       |
+| In Baptismate Domini                                                       | Isaiah 42:1-4, 6-7        | Acts 10:34-38          | Matthew 3:13-17 |  1/11/2026       |
+| Year B                                                                     | (Isaiah 55:1-11)          | (1 John 5:1-9)         | Marc 1:7-11     |                  |
+| Year C                                                                     | (Isaiah 40:1-5, 9-11)     | (Titus 2:11-14; 3:4-7) | Luke 3:15-16    |                  |
+
+### Tempus Quadragesimae
+
+### Triduum Paschale et Tempus Paschale
+
+### Tempus «Per Annum»
 
 | SUNDAY                           | Reading 1                                 | Reading 2                                  | Gospel - Antiquior                   | Gospel - Evangelii                   | Recent occurrence                          |
 |:---------------------------------|:-----------------------------------------:|:------------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------------:|
@@ -30,7 +55,7 @@
 | 33rd Sunday in Ordinary Time (C) | [Mal. 3:19-20a](files/OT/c33pr.pdf)       | [2 Thess. 3:7-12](files/OT/c33ep.pdf)      | [Luke 21:5-19](files/OT/c33ga.pdf)   | [Luke 21:5-19 ](files/OT/c33ge.pdf)  | 11/16/2025                                 |
 | Christ the King (C)              | [2 Sam. 5:1-3](files/OT/c34pr.pdf)        | [Col. 1:12-20](files/OT/c34ep.pdf)         | [Luke 23:35-43](files/OT/c34ga.pdf)  | [Luke 23:35-43](files/OT/c34ge.pdf)  | 11/23/2025                                 |
 
-## Sanctoral Cycle
+## Proprium de Sanctis
 
 | Date              | Feast                                              | Reading 1                                          | Reading 2                                  | Gospel - Antiquior                                                                | Gospel - Evangelii                                                                |
 |:------------------|:---------------------------------------------------|:--------------------------------------------------:|:------------------------------------------:|:---------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|
