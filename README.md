@@ -9,7 +9,7 @@
 | 1st Sunday of Advent (A)         | [Isaiah 2:1-5](files/AD/a01pr.pdf)        | [Romans 13:11-14](files/AD/a01ep.pdf)      | [Matthew 23:37-44](files/AD/a01ga.pdf) | [Matthrew 23:37-44](files/AD/a01ge.pdf) | 11/30/2025        |
 | 2nd Sunday of Advent (A)         | [Isaiah 11:1-10](files/AD/a02pr.pdf)      | [Romans 15:4-9](files/AD/a02ep.pdf)        | [Matthew 3:1-12](files/AD/a02ga.pdf)   | [Matthew 3:1-12](files/AD/a02ge.pdf)    | 12/ 7/2025        |
 | 3rd Sunday of Advent (A)         | [Isaiah 35:1-6A](files/AD/a03pr.pdf)      | [James 5:7-10](files/AD/a03ep.pdf)         | [Matthew 11:2-11](files/AD/a03ga.pdf)  | [Matthew 11:2-11](files/AD/a03ge.pdf)   | 12/14/2025        |
-| 4th Sunday of Advent (A)         | Isaiah 7:10-14                            | Romans 1:1-7                               | Matthew 1:18-24                        | Matthew 1:18-24                         | 12/21/2025        |
+| 4th Sunday of Advent (A)         | [Isaiah 7:10-14](files/AD/a04pr.pdf)      | Romans 1:1-7                               | Matthew 1:18-24                        | Matthew 1:18-24                         | 12/21/2025        |
 
 ### Tempus Nativitatis
 
