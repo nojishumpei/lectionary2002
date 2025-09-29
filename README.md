@@ -13,21 +13,21 @@
 
 ### Tempus Nativitatis
 
-| Feast                                                                      | Reading 1                 | Reading 2              | Gospel          | Recent occurence |
-|:--------------------------------------------------------------------------:|:-------------------------:|:----------------------:|:---------------:|:----------------:|
-| In Nativitate Domini - Ad Missam in vigilia                                | Isaiah 62:1-5             | Acts 13:16-17, 27, 29  | Matthew 1:1-25  | 12/24/2025       |
-| Ad Missam in nocte                                                         | Isaiah 9:1-6              | Titus 2:11-14          | Luke 2:1-14     | 12/25/2025       |
-| Ad Missam in aurora                                                        | Isaiah 62:11-12           | Titus 3:4-7            | Luke 2:15-20    | 12/25/2025       |
-| Ad Missam in die                                                           | Isaiah 52:7-10            | Hebrews 1:1-6          | John 1:1-18     | 12/25/2025       |
-| Dominica infra octavam Nativitatis - Sanctae Familiae Iesu, Mariae, Ioseph | Sirach 3:3-7              | Colossians 3:12-21     | Matthew 2:13-15 | 12/28/2025       |
-| Year B                                                                     | (Genesis 15:1-6; 21:1-3)  | (Hebrews 11:8, 11-12)  | Luke 2:22-40    |                  |
-| Year C                                                                     | (1 Samuel 1:20-22, 24-28) | (1 John 3:1-2, 21-24)  | Luke 2:41-52    |                  |
-| In Octava Nativitatis Domini - Sollemnitas Sanctae Dei Genetricis Mariae   | Numbers 6:22-27           | Galatians 4:4-7        | Luke 2:16-21    |  1/ 1/2026       |
-| Dominica II post Nativitatem                                               | Sirach 24:1-4, 12-16      | Ephesians 1:3-6        | John 1:1-18     | Epiphania DNIC   |
-| In Epiphania Domini                                                        | Isaiah 60:1-6             | Ephesians 3:2-3A, 5-6  | Matthew 2:1-12  |  1/ 4/2026       |
-| In Baptismate Domini                                                       | Isaiah 42:1-4, 6-7        | Acts 10:34-38          | Matthew 3:13-17 |  1/11/2026       |
-| Year B                                                                     | (Isaiah 55:1-11)          | (1 John 5:1-9)         | Marc 1:7-11     |                  |
-| Year C                                                                     | (Isaiah 40:1-5, 9-11)     | (Titus 2:11-14; 3:4-7) | Luke 3:15-16    |                  |
+| Feast                                                                      | Reading 1                           | Reading 2              | Gospel - Antiquior | Gospel - Evangelii | Recent occurence |
+|:--------------------------------------------------------------------------:|:-----------------------------------:|:----------------------:|:------------------:|:------------------:|:----------------:|
+| In Nativitate Domini - Ad Missam in vigilia                                | [Isaiah 62:1-5](files/CH/cvgpr.pdf) | Acts 13:16-17, 27, 29  | Matthew 1:1-25     | Matthew 1:1-25     | 12/24/2025       |
+| Ad Missam in nocte                                                         | Isaiah 9:1-6                        | Titus 2:11-14          | Luke 2:1-14        | Luke 2:1-14        | 12/25/2025       |
+| Ad Missam in aurora                                                        | Isaiah 62:11-12                     | Titus 3:4-7            | Luke 2:15-20       | Luke 2:15-20       | 12/25/2025       |
+| Ad Missam in die                                                           | Isaiah 52:7-10                      | Hebrews 1:1-6          | John 1:1-18        | John 1:1-18        | 12/25/2025       |
+| Dominica infra octavam Nativitatis - Sanctae Familiae Iesu, Mariae, Ioseph | Sirach 3:3-7                        | Colossians 3:12-21     | Matthew 2:13-15    | Matthew 2:13-15    | 12/28/2025       |
+| Year B                                                                     | (Genesis 15:1-6; 21:1-3)            | (Hebrews 11:8, 11-12)  | Luke 2:22-40       | Luke 2:22-40       |                  |
+| Year C                                                                     | (1 Samuel 1:20-22, 24-28)           | (1 John 3:1-2, 21-24)  | Luke 2:41-52       | Luke 2:41-52       |                  |
+| In Octava Nativitatis Domini - Sollemnitas Sanctae Dei Genetricis Mariae   | Numbers 6:22-27                     | Galatians 4:4-7        | Luke 2:16-21       | Luke 2:16-21       |  1/ 1/2026       |
+| Dominica II post Nativitatem                                               | Sirach 24:1-4, 12-16                | Ephesians 1:3-6        | John 1:1-18        | John 1:1-18        | Epiphania DNIC   |
+| In Epiphania Domini                                                        | Isaiah 60:1-6                       | Ephesians 3:2-3A, 5-6  | Matthew 2:1-12     | Matthew 2:1-12     |  1/ 4/2026       |
+| In Baptismate Domini                                                       | Isaiah 42:1-4, 6-7                  | Acts 10:34-38          | Matthew 3:13-17    | Matthew 3:13-17    |  1/11/2026       |
+| Year B                                                                     | (Isaiah 55:1-11)                    | (1 John 5:1-9)         | Marc 1:7-11        | Marc 1:7-11        |                  |
+| Year C                                                                     | (Isaiah 40:1-5, 9-11)               | (Titus 2:11-14; 3:4-7) | Luke 3:15-16       | Luke 3:15-16       |                  |
 
 ### Tempus Quadragesimae
 
