@@ -31,6 +31,16 @@
 
 ### Tempus Quadragesimae
 
+| SUNDAY                                   | Reading 1                                 | Reading 2                                  | Gospel - Antiquior                   | Gospel - Evangelii                   | Recent occurrence                          |
+|:-----------------------------------------|:-----------------------------------------:|:------------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------------:|
+|  1st Sunday in Lent (A)                  | Gen. 2:7-9; 3:1-7                         | Rom. 5:12-19                               | Matt. 4:1-11                         | Matt. 4:1-11                         |  2/22/2026                                 |
+|  2nd Sunday in Lent (A)                  | Gen. 12:1-4a                              | 2 Tim. 1:8b-10                             | Matt. 17:1-9                         | Matt. 17:1-9                         |  3/ 1/2026                                 |
+|  3rd Sunday in Lent (A)                  | Exod. 17:3-7                              | Rom. 5:1-2, 5-8                            | John 4:5-42                          | John 4:5-42                          |  3/ 8/2026                                 |
+|  4th Sunday in Lent (A)                  | 1 Sam. 16:1b, 6-7, 10-13a                 | Eph. 5:8-14                                | John 9:1-41                          | John 9:1-41                          |  3/15/2026                                 |
+|  5th Sunday in Lent (A)                  | Ezek. 37:12-14                            | Rom. 8:8-11                                | John 11:1-45                         | John 11:1-45                         |  3/22/2026                                 |
+| Palm Sunday (A) ad Processionem palmarum |                                           |                                            | Matt. 21:1-11                        | Matt. 1-11                           |  3/29/2026                                 |
+| Palm Sunday (A) ad Missam                | Isa. 50:4-7                               | Phil. 2:6-11                               | Matt. 26:14-27:66                    | Matt. 26:14-27:66                    |  3/29/2026                                 |
+
 ### Triduum Paschale et Tempus Paschale
 
 ### Tempus «Per Annum»
@@ -38,6 +48,10 @@
 | SUNDAY                           | Reading 1                                 | Reading 2                                  | Gospel - Antiquior                   | Gospel - Evangelii                   | Recent occurrence                          |
 |:---------------------------------|:-----------------------------------------:|:------------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------------:|
 |  2nd Sunday in Ordinary Time (A) | [Isa. 49:3, 5-6](files/OT/a02pr.pdf)      | [1 Cor. 1:1-3](files/OT/a02ep.pdf)         | [John 1:29-34](files/OT/a02ga.pdf)   | [John 1:29-34](files/OT/a02ge.pdf)   |  1/18/2026                                 |
+|  3rd Sunday in Ordinary Time (A) | [Isa. 8:23b-9:3](files/OT/a03pr.pdf)      | [1 Cor. 1:10-13, 17](files/OT/a03ep.pdf)   | [Matt. 4:12-23](files/OT/a03ga.pdf)  | [Matt. 4:12-23](files/OT/a03ge.pdf)  |  1/25/2026                                 |
+|  4th Sunday in Ordinary Time (A) | Zeph. 2:3, 3:12-13                        | 1 Cor. 1:26-31                             | [Matt. 5:1-12a](files/OT/a04ga.pdf)  | [Matt. 5:1-12a](files/OT/a04ge.pdf)  |  2/ 1/2026                                 |
+|  5th Sunday in Ordinary Time (A) | Isa. 58:7-10                              | 1 Cor. 2:1-5                               | Matt. 5:13-16                        | Matt. 5:13-16                        |  2/ 8/2026                                 |
+|  6th Sunday in Ordinary Time (A) | Sir. 15:16-21                             | 1 Cor. 2:6-10                              | Matt. 5:17-37                        | Matt. 5:17-37                        |  2/15/2026                                 |
 
 | SUNDAY                           | Reading 1                                 | Reading 2                                  | Gospel - Antiquior                   | Gospel - Evangelii                   | Recent occurrence                          |
 |:---------------------------------|:-----------------------------------------:|:------------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------------:|
