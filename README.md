@@ -51,7 +51,7 @@
 |  3rd Sunday in Ordinary Time (A) | [Isa. 8:23b-9:3](files/OT/a03pr.pdf)      | [1 Cor. 1:10-13, 17](files/OT/a03ep.pdf)   | [Matt. 4:12-23](files/OT/a03ga.pdf)  | [Matt. 4:12-23](files/OT/a03ge.pdf)  |  1/25/2026                                 |
 |  4th Sunday in Ordinary Time (A) | [Zeph. 2:3, 3:12-13](files/OT/a04pr.pdf)  | [1 Cor. 1:26-31](files/OT/a04ep.pdf)       | [Matt. 5:1-12a](files/OT/a04ga.pdf)  | [Matt. 5:1-12a](files/OT/a04ge.pdf)  |  2/ 1/2026                                 |
 |  5th Sunday in Ordinary Time (A) | [Isa. 58:7-10](files/OT/a05pr.pdf)        | [1 Cor. 2:1-5](files/OT/a05ep.pdf)         | [Matt. 5:13-16](files/OT/a05ga.pdf)  | [Matt. 5:13-16](files/OT/a05ge.pdf)  |  2/ 8/2026                                 |
-|  6th Sunday in Ordinary Time (A) | Sir. 15:16-21                             | 1 Cor. 2:6-10                              | Matt. 5:17-37                        | Matt. 5:17-37                        |  2/15/2026                                 |
+|  6th Sunday in Ordinary Time (A) | [Sir. 15:16-21](files/OT/a06pr.pdf)       | [1 Cor. 2:6-10](files/OT/a06ep.pdf)        | [Matt. 5:17-37](files/OT/a06ga.pdf)  | [Matt. 5:17-37](files/OT/a06ge.pdf)  |  2/15/2026                                 |
 
 | SUNDAY                           | Reading 1                                 | Reading 2                                  | Gospel - Antiquior                   | Gospel - Evangelii                   | Recent occurrence                          |
 |:---------------------------------|:-----------------------------------------:|:------------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------------:|
