@@ -31,15 +31,15 @@
 
 ### Tempus Quadragesimae
 
-| SUNDAY                                   | Reading 1                                 | Reading 2                                  | Gospel - Antiquior                   | Gospel - Evangelii                   | Recent occurrence                          |
-|:-----------------------------------------|:-----------------------------------------:|:------------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------------:|
-|  1st Sunday in Lent (A)                  | [Gen. 2:7-9; 3:1-7](files/LT/a01pr.pdf)   | [Rom. 5:12-19](files/LT/a01ep.pdf)         | [Matt. 4:1-11](files/LT/a01ga.pdf)   | [Matt. 4:1-11](files/LT/a01ge.pdf)   |  2/22/2026                                 |
-|  2nd Sunday in Lent (A)                  | [Gen. 12:1-4a](files/LT/a02pr.pdf)        | [2 Tim. 1:8b-10](files/LT/a02ep.pdf)       | [Matt. 17:1-9](files/LT/a02ga.pdf)   | [Matt. 17:1-9](files/LT/a02ga.pdf)   |  3/ 1/2026                                 |
-|  3rd Sunday in Lent (A)                  | [Exod. 17:3-7](files/LT/a03pr.pdf)        | [Rom. 5:1-2, 5-8](files/LT/a03ep.pdf)      | [John 4:5-42](files/LT/a03ga.pdf)    | [John 4:5-42](files/LT/a03ga.pdf)    |  3/ 8/2026                                 |
-|  4th Sunday in Lent (A)                  | 1 Sam. 16:1b, 6-7, 10-13a                 | Eph. 5:8-14                                | John 9:1-41                          | John 9:1-41                          |  3/15/2026                                 |
-|  5th Sunday in Lent (A)                  | Ezek. 37:12-14                            | Rom. 8:8-11                                | John 11:1-45                         | John 11:1-45                         |  3/22/2026                                 |
-| Palm Sunday (A) ad Processionem palmarum |                                           |                                            | Matt. 21:1-11                        | Matt. 1-11                           |  3/29/2026                                 |
-| Palm Sunday (A) ad Missam                | Isa. 50:4-7                               | Phil. 2:6-11                               | Matt. 26:14-27:66                    | Matt. 26:14-27:66                    |  3/29/2026                                 |
+| SUNDAY                                   | Reading 1                                       | Reading 2                             | Gospel - Antiquior                 | Gospel - Evangelii                 | Recent occurrence |
+|:-----------------------------------------|:-----------------------------------------------:|:-------------------------------------:|:----------------------------------:|:----------------------------------:|:-----------------:|
+| 1st Sunday in Lent (A)                   | [Gen. 2:7-9; 3:1-7](files/LT/a01pr.pdf)         | [Rom. 5:12-19](files/LT/a01ep.pdf)    | [Matt. 4:1-11](files/LT/a01ga.pdf) | [Matt. 4:1-11](files/LT/a01ge.pdf) | 2/22/2026         |
+| 2nd Sunday in Lent (A)                   | [Gen. 12:1-4a](files/LT/a02pr.pdf)              | [2 Tim. 1:8b-10](files/LT/a02ep.pdf)  | [Matt. 17:1-9](files/LT/a02ga.pdf) | [Matt. 17:1-9](files/LT/a02ga.pdf) | 3/ 1/2026         |
+| 3rd Sunday in Lent (A)                   | [Exod. 17:3-7](files/LT/a03pr.pdf)              | [Rom. 5:1-2, 5-8](files/LT/a03ep.pdf) | [John 4:5-42](files/LT/a03ga.pdf)  | [John 4:5-42](files/LT/a03ga.pdf)  | 3/ 8/2026         |
+| 4th Sunday in Lent (A)                   | [1 Sam. 16:1b, 6-7, 10-13a](files/LT/a04pr.pdf) | Eph. 5:8-14                           | John 9:1-41                        | John 9:1-41                        | 3/15/2026         |
+| 5th Sunday in Lent (A)                   | Ezek. 37:12-14                                  | Rom. 8:8-11                           | John 11:1-45                       | John 11:1-45                       | 3/22/2026         |
+| Palm Sunday (A) ad Processionem palmarum |                                                 |                                       | Matt. 21:1-11                      | Matt. 1-11                         | 3/29/2026         |
+| Palm Sunday (A) ad Missam                | Isa. 50:4-7                                     | Phil. 2:6-11                          | Matt. 26:14-27:66                  | Matt. 26:14-27:66                  | 3/29/2026         |
 
 ### Triduum Paschale et Tempus Paschale
 
