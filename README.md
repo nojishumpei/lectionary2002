@@ -39,7 +39,7 @@
 | 4th Sunday in Lent (A)                   | [1 Sam. 16:1b, 6-7, 10-13a](files/LT/a04pr.pdf) | [Eph. 5:8-14](files/LT/a04ep.pdf)     | [John 9:1-41](files/LT/a04ga.pdf)   | [John 9:1-41](files/LT/a04ge.pdf)   | 3/15/2026         |
 | 5th Sunday in Lent (A)                   | [Ezek. 37:12-14](files/LT/a05pr.pdf)            | [Rom. 8:8-11](files/LT/a05ep.pdf)     | [John 11:1-45](files/LT/a05ga.pdf)  | [John 11:1-45](files/LT/a05ge.pdf)  | 3/22/2026         |
 | Palm Sunday (A) ad Processionem palmarum |                                                 |                                       | [Matt. 21:1-11](files/LT/ppaga.pdf) | [Matt. 21:1-11](files/LT/ppage.pdf) | 3/29/2026         |
-| Palm Sunday (A) ad Missam                | Isa. 50:4-7                                     | Phil. 2:6-11                          | Matt. 26:14-27:66                   | Matt. 26:14-27:66                   | 3/29/2026         |
+| Palm Sunday (A) ad Missam                | [Isa. 50:4-7](files/LT/plmpr.pdf)               | [Phil. 2:6-11](files/LT/plmep.pdf)    | Matt. 26:14-27:66                   | Matt. 26:14-27:66                   | 3/29/2026         |
 
 ### Triduum Paschale et Tempus Paschale
 
