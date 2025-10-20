@@ -43,15 +43,50 @@
 
 ### Triduum Paschale et Tempus Paschale
 
+| SUNDAY                                        | Reading 1             | Reading 2      | Gospel - Antiquior | Gospel - Evangelii | Recent occurrence |
+|:----------------------------------------------|:---------------------:|:--------------:|:------------------:|:------------------:|:-----------------:|
+| Holy Thursday ad Missam in Cena Domini        | Exod. 12:1-8, 11-14   | 1 Cor 11:23-26 | John 13:1-15       | John 13:1-15       | 4/ 2/2026         |
+| Good Friday                                   | Iaiah 52:13-53:12     | Heb. 4:14-16   | John 18:1-19:42    | John 18:1-19:42    | 4/ 3/2026         |
+| Easter Vigil                                  | Gen. 1:1-2:2          | Rom. 6:3-11    | A: Matt. 28:1-10   | A: Matt. 28:1-10   | 4/ 4/2026         |
+|                                               | Gen 22:1-18           |                | B. Mark 16:1-7     | B. Mark 16:1-7     |                   |
+|                                               | Exod. 14:15-15:1      |                | C. Luke 24:1-12    | C. Luke 24:1-12    |                   |
+|                                               | Isaiah 54:5-14        |                |                    |                    |                   |
+|                                               | Isaiah 55:1-11        |                |                    |                    |                   |
+|                                               | Bar. 3:9-15, 32-4:4   |                |                    |                    |                   |
+|                                               | Exod. 36:16-17a,18-28 |                |                    |                    |                   |
+| Easter Sunday                                 | Acts 10:34a,37-43     | Col. 3:1-4     | John 20:1-9        | John 20:1-9        | 4/ 5/2026         |
+|                                               |                       |                | (or Luke 24:13-35) | (or Luke 24:13-35) |                   |
+| 2nd Sunday of Easter (Sunday of Divine Mercy) |                       |                |                    |                    | 4/12/2026         |
+| 3rd Sunday of Easter                          |                       |                |                    |                    | 4/19/2026         |
+| 4th Sunday of Easter                          |                       |                |                    |                    | 4/26/2026         |
+| 5th Sunday of Easter                          |                       |                |                    |                    | 5/ 3/2026         |
+| 6th Sunday of Easter                          |                       |                |                    |                    | 5/10/2026         |
+| Ascension of Our Lord                         |                       |                |                    |                    | 5/17/2026         |
+| 7th Sunday of Easter                          |                       |                |                    |                    |                   |
+| Pentecost Sunday                              |                       |                |                    |                    | 5/24/2026         |
+| Trinity Sunday                                |                       |                |                    |                    | 5/31/2026         |
+| Corpus Christi Sunday                         |                       |                |                    |                    | 6/ 7/2026         |
+
 ### Tempus «Per Annum»
 
-| SUNDAY                           | Reading 1                                 | Reading 2                                  | Gospel - Antiquior                   | Gospel - Evangelii                   | Recent occurrence                          |
-|:---------------------------------|:-----------------------------------------:|:------------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------------:|
-|  2nd Sunday in Ordinary Time (A) | [Isa. 49:3, 5-6](files/OT/a02pr.pdf)      | [1 Cor. 1:1-3](files/OT/a02ep.pdf)         | [John 1:29-34](files/OT/a02ga.pdf)   | [John 1:29-34](files/OT/a02ge.pdf)   |  1/18/2026                                 |
-|  3rd Sunday in Ordinary Time (A) | [Isa. 8:23b-9:3](files/OT/a03pr.pdf)      | [1 Cor. 1:10-13, 17](files/OT/a03ep.pdf)   | [Matt. 4:12-23](files/OT/a03ga.pdf)  | [Matt. 4:12-23](files/OT/a03ge.pdf)  |  1/25/2026                                 |
-|  4th Sunday in Ordinary Time (A) | [Zeph. 2:3, 3:12-13](files/OT/a04pr.pdf)  | [1 Cor. 1:26-31](files/OT/a04ep.pdf)       | [Matt. 5:1-12a](files/OT/a04ga.pdf)  | [Matt. 5:1-12a](files/OT/a04ge.pdf)  |  2/ 1/2026                                 |
-|  5th Sunday in Ordinary Time (A) | [Isa. 58:7-10](files/OT/a05pr.pdf)        | [1 Cor. 2:1-5](files/OT/a05ep.pdf)         | [Matt. 5:13-16](files/OT/a05ga.pdf)  | [Matt. 5:13-16](files/OT/a05ge.pdf)  |  2/ 8/2026                                 |
-|  6th Sunday in Ordinary Time (A) | [Sir. 15:16-21](files/OT/a06pr.pdf)       | [1 Cor. 2:6-10](files/OT/a06ep.pdf)        | [Matt. 5:17-37](files/OT/a06ga.pdf)  | [Matt. 5:17-37](files/OT/a06ge.pdf)  |  2/15/2026                                 |
+| SUNDAY                           | Reading 1                                | Reading 2                                | Gospel - Antiquior                  | Gospel - Evangelii                  | Recent occurrence |
+|:---------------------------------|:----------------------------------------:|:----------------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------:|
+|  2nd Sunday in Ordinary Time (A) | [Isa. 49:3, 5-6](files/OT/a02pr.pdf)     | [1 Cor. 1:1-3](files/OT/a02ep.pdf)       | [John 1:29-34](files/OT/a02ga.pdf)  | [John 1:29-34](files/OT/a02ge.pdf)  | 1/18/2026         |
+|  3rd Sunday in Ordinary Time (A) | [Isa. 8:23b-9:3](files/OT/a03pr.pdf)     | [1 Cor. 1:10-13, 17](files/OT/a03ep.pdf) | [Matt. 4:12-23](files/OT/a03ga.pdf) | [Matt. 4:12-23](files/OT/a03ge.pdf) | 1/25/2026         |
+|  4th Sunday in Ordinary Time (A) | [Zeph. 2:3, 3:12-13](files/OT/a04pr.pdf) | [1 Cor. 1:26-31](files/OT/a04ep.pdf)     | [Matt. 5:1-12a](files/OT/a04ga.pdf) | [Matt. 5:1-12a](files/OT/a04ge.pdf) | 2/ 1/2026         |
+|  5th Sunday in Ordinary Time (A) | [Isa. 58:7-10](files/OT/a05pr.pdf)       | [1 Cor. 2:1-5](files/OT/a05ep.pdf)       | [Matt. 5:13-16](files/OT/a05ga.pdf) | [Matt. 5:13-16](files/OT/a05ge.pdf) | 2/ 8/2026         |
+|  6th Sunday in Ordinary Time (A) | [Sir. 15:16-21](files/OT/a06pr.pdf)      | [1 Cor. 2:6-10](files/OT/a06ep.pdf)      | [Matt. 5:17-37](files/OT/a06ga.pdf) | [Matt. 5:17-37](files/OT/a06ge.pdf) | 2/15/2026         |
+|  7th Sunday in Ordinary Time (A) |                                          |                                          |                                     |                                     |                   |
+|  8th Sunday in Ordinary Time (A) |                                          |                                          |                                     |                                     |                   |
+|  9th Sunday in Ordinary Time (A) |                                          |                                          |                                     |                                     |                   |
+| 10th Sunday in Ordinary Time (A) |                                          |                                          |                                     |                                     |                   |
+| 11th Sunday in Ordinary Time (A) |                                          |                                          |                                     |                                     | 6/14/2026         |
+| 12th Sunday in Ordinary Time (A) |                                          |                                          |                                     |                                     | 6/21/2026         |
+| 13th Sunday in Ordinary Time (A) |                                          |                                          |                                     |                                     | 6/28/2026         |
+| 14th Sunday in Ordinary Time (A) |                                          |                                          |                                     |                                     | 7/ 5/2026         |
+| 15th Sunday in Ordinary Time (A) |                                          |                                          |                                     |                                     | 7/12/2026         |
+| 16th Sunday in Ordinary Time (A) |                                          |                                          |                                     |                                     | 7/19/2026         |
+| 17th Sunday in Ordinary Time (A) |                                          |                                          |                                     |                                     | 7/26/2026         |
 
 | SUNDAY                           | Reading 1                                 | Reading 2                                  | Gospel - Antiquior                   | Gospel - Evangelii                   | Recent occurrence                          |
 |:---------------------------------|:-----------------------------------------:|:------------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------------:|
