@@ -70,7 +70,7 @@
 |                                         | [Ezek. 37:1-14](files/EA/pv3ot.pdf)         |                                             |                                          |                                         |                   |
 |                                         | [Joel 3:1-5](files/EA/pv4ot.pdf)            |                                             |                                          |                                         |                   |
 | Ad Missam in die                        | [Acts 2:1-11](files/EA/penac.pdf)           | [1 Cor. 12:3b-7, 12-13](files/EA/penep.pdf) | [John 20:19-23](files/EA/penga.pdf)      | [John 20:19-23](files/EA/penge.pdf)     | 5/24/2026         |
-| Trinity Sunday (A)                      | Deut. 8:2-3                                 | 1 Cor. 10:16-17                             | John 6:51-58                             | John 6:51-58                            | 5/31/2026         |
+| Trinity Sunday (A)                      | [Exod. 34:4b-6,8-9](files/EA/trapr.pdf)     | 2 Cor. 13:11-13                             | John 3:16-18                             | John 3:16-18                            | 5/31/2026         |
 | Corpus Christi                          | Deut. 7:6-11                                | 1 John 4:7-16                               | Matt. 11:25-30                           | Matt. 11:25-30                          | 6/ 7/2026         |
 
 ### Tempus «Per Annum»
