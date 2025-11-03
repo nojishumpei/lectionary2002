@@ -70,8 +70,15 @@
 |                                         | [Ezek. 37:1-14](files/EA/pv3ot.pdf)         |                                             |                                          |                                         |                   |
 |                                         | [Joel 3:1-5](files/EA/pv4ot.pdf)            |                                             |                                          |                                         |                   |
 | Ad Missam in die                        | [Acts 2:1-11](files/EA/penac.pdf)           | [1 Cor. 12:3b-7, 12-13](files/EA/penep.pdf) | [John 20:19-23](files/EA/penga.pdf)      | [John 20:19-23](files/EA/penge.pdf)     | 5/24/2026         |
-| Trinity Sunday (A)                      | [Exod. 34:4b-6,8-9](files/EA/trapr.pdf)     | 2 Cor. 13:11-13                             | John 3:16-18                             | John 3:16-18                            | 5/31/2026         |
-| Corpus Christi                          | Deut. 7:6-11                                | 1 John 4:7-16                               | Matt. 11:25-30                           | Matt. 11:25-30                          | 6/ 7/2026         |
+| Trinity Sunday (A)                      | [Exod. 34:4b-6,8-9](files/EA/trapr.pdf)     | [2 Cor. 13:11-13](files/EA/traep.pdf)       | [John 3:16-18](files/EA/traga.pdf)       | [John 3:16-18](files/EA/trage.pdf)      | 5/31/2026         |
+| Year B                                  | Deut. 4:32-34, 39-40                        | Rom. 8:14-17                                | Matt. 26:16-20                           | Matt. 26:16-20                          |                   |
+| Year C                                  | Prob. 8:22-31                               | Rom. 5:1-5                                  | John 16:12-15                            | John 16:12-15                           |                   |
+| Corpus Christi (A)                      | Deut. 7:6-11                                | 1 John 4:7-16                               | [Matt. 11:25-30](files/EA/ccaga.pdf)     | [Matt. 11:25-30](files/EA/ccage.pdf)    | 6/ 7/2026         |
+| Year B                                  | Exod. 24:3-8                                | Heb. 9:11-15                                | Mark 14:12-16, 22-26                     | Mark 14:12-16, 22-26                    |                   |
+| Year C                                  | Gen. 14:18-20                               | 1 Cor. 11:23-26                             | Luke 9:11b-17                            | Luke 9:11b-17                           |                   |
+| Sacred Heart of Jesus (A)               | Deut. 7:6-11                                | 1 John 4:7-16                               | Matt. 11:25-30                           | Matt. 11:25-30                          | 6/12/2026         |
+| Year B                                  | Hos. 11:1,3-4,8c-9                          | Eph. 3:8-12, 14-19                          | John 19:31-37                            | John 19:31-37                           |                   |
+| Year C                                  | Ezek. 34:11-16                              | Rom. 5:5b-11                                | Luke 15:3-7                              | Luke 15:3-7                             |                   |
 
 ### Tempus «Per Annum»
 
