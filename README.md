@@ -73,9 +73,9 @@
 | Trinity Sunday (A)                      | [Exod. 34:4b-6,8-9](files/EA/trapr.pdf)     | [2 Cor. 13:11-13](files/EA/traep.pdf)       | [John 3:16-18](files/EA/traga.pdf)         | [John 3:16-18](files/EA/trage.pdf)         | 5/31/2026         |
 | Year B                                  | Deut. 4:32-34, 39-40                        | Rom. 8:14-17                                | Matt. 26:16-20                             | Matt. 26:16-20                             |                   |
 | Year C                                  | Prob. 8:22-31                               | Rom. 5:1-5                                  | John 16:12-15                              | John 16:12-15                              |                   |
-| Corpus Christi (A)                      | [Deut. 7:6-11](files/EA/ccapr.pdf)          | [1 John 4:7-16](files/EA/ccaep.pdf)         | [Matt. 11:25-30](files/EA/ccaga.pdf)       | [Matt. 11:25-30](files/EA/ccage.pdf)       | 6/ 7/2026         |
+| Corpus Christi (A)                      | [Deut. 8:2-3,14b-16a](files/EA/ccapr.pdf)   | [1 Cor 10:16-17](files/EA/ccaep.pdf)        | [John 6:51-59](files/EA/ccaga.pdf)         | [John 6:51-59](files/EA/ccage.pdf)         | 6/ 7/2026         |
 | Year B                                  | [Exod. 24:3-8](files/EA/ccbpr.pdf)          | [Heb. 9:11-15](files/EA/ccbep.pdf)          | [Mark 14:12-16, 22-26](files/EA/ccbga.pdf) | [Mark 14:12-16, 22-26](files/EA/ccbge.pdf) |                   |
-| Year C                                  | Gen. 14:18-20                               | 1 Cor. 11:23-26                             | Luke 9:11b-17                              | Luke 9:11b-17                              |                   |
+| Year C                                  | [Gen. 14:18-20](files/EA/cccpr.pdf)         | [1 Cor. 11:23-26](files/EA/cccep.pdf)       | [Luke 9:11b-17](files/EA/cccga.pdf)        | [Luke 9:11b-17](files/EA/cccge.pdf)        |                   |
 | Sacred Heart of Jesus (A)               | Deut. 7:6-11                                | 1 John 4:7-16                               | Matt. 11:25-30                             | Matt. 11:25-30                             | 6/12/2026         |
 | Year B                                  | Hos. 11:1,3-4,8c-9                          | Eph. 3:8-12, 14-19                          | John 19:31-37                              | John 19:31-37                              |                   |
 | Year C                                  | Ezek. 34:11-16                              | Rom. 5:5b-11                                | Luke 15:3-7                                | Luke 15:3-7                                |                   |
@@ -141,6 +141,19 @@
 | September 14      | Exaltation of the Holy Cross                       | [Num. 21:4b-9](files/SA/ehcpr.pdf)                 | [Phil 2:6-11](files/SA/ehcep.pdf)          | [John 3:13-17](files/SA/ehcga.pdf)                                                | [John 3:13-17](files/SA/ehcge.pdf)                                                |
 | November 1        | All Saints                                         | [Rev. 7:2-4;9-14](files/SA/astap.pdf)              | [1 John 3:1-3](files/SA/astep.pdf)         | [Matt. 5:1-12a](files/SA/astga.pdf)                                               | [Matt 5:1-12a](files/SA/astge.pdf)                                                |
 | November 9        | Dedication of the Lateran Basilica                 | [Ezek. 47:1-2, 8-9, 12](files/SA/dedpr.pdf)        | [1 Cor 3:9c-11, 16-17](files/SA/dedep.pdf) | [John 2:13-22](files/SA/dedga.pdf)                                                | [John 2:13-22](files/SA/dedge.pdf)                                                |
+
+## Missæ votivæ
+
+|                            | Reading 1               | Reading 2          | Gospel - Antiquior      | Gospel - Evangelii       |
+|:--------------------------:|:-----------------------:|:------------------:|:-----------------------:|:------------------------:|
+| De sanctissima Eucharistia | 1: Gen. 14:18-20        | 1: 1 Cor. 10:16-17 | 1: Mark 14:12-16, 22-26 | 1: Mark 14:12-16, 22-26  |
+|                            | 2: Exod. 16:2-4, 12-15  | 2: 1 Cor. 11:23-26 | 2: Luke 9:11b-17        | 2: Luke 9:11b-17         |
+|                            | 3: Exod. 24:3-8         | 3: Heb. 9:11-15    | 3: Luke 24:13-35        | 3: Luke 24:13-35         |
+|                            | 4: Deut. 8:2-3, 14b-16a |                    | 4: John 6:1-15          | 4: John 6:1-15           |
+|                            | 5: 1 Kgs. 19:4-8        |                    | 5: John 6:24-35         | 5: John 6:24-35          |
+|                            | 6: Prov. 9:1-6          |                    | 6: John 6:41-52a        | 6: John 6:41-52a         |
+|                            |                         |                    | 7: John 6:51-59         | 7: John 6:51-59          |
+|                            |                         |                    | 8: John 21:1-14         | 8: John 21:1-14          |
 
 ## Mass for the Dead
 
