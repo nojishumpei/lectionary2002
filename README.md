@@ -147,12 +147,12 @@
 |                            | Reading 1                                     | Reading 2                                | Gospel - Antiquior                            | Gospel - Evangelii                            |
 |:--------------------------:|:---------------------------------------------:|:----------------------------------------:|:---------------------------------------------:|:---------------------------------------------:|
 | De sanctissima Eucharistia | 1: [Gen. 14:18-20](files/VO/he1pr.pdf)        | 1: [1 Cor. 10:16-17](files/VO/he1ep.pdf) | 1: [Mark 14:12-16, 22-26](files/VO/he1ga.pdf) | 1: [Mark 14:12-16, 22-26](files/VO/he1ge.pdf) |
-|                            | 2: Exod. 16:2-4, 12-15                        | 2: [1 Cor. 11:23-26](files/VO/he2ep.pdf) | 2: [Luke 9:11b-17](files/VO/he2ga.pdf)        | 2: [Luke 9:11b-17](files/VO/he2ge.pdf)        |
+|                            | 2: [Exod. 16:2-4, 12-15](files/VO/he2pr.pdf)  | 2: [1 Cor. 11:23-26](files/VO/he2ep.pdf) | 2: [Luke 9:11b-17](files/VO/he2ga.pdf)        | 2: [Luke 9:11b-17](files/VO/he2ge.pdf)        |
 |                            | 3: [Exod. 24:3-8](files/VO/he3pr.pdf)         | 3: [Heb. 9:11-15](files/VO/he3ep.pdf)    | 3: [Luke 24:13-35](files/VO/he3ga.pdf)        | 3: [Luke 24:13-35](files/VO/he3ge.pdf)        |
 |                            | 4: [Deut. 8:2-3, 14b-16a](files/VO/he4pr.pdf) |                                          | 4: John 6:1-15                                | 4: John 6:1-15                                |
-|                            | 5: 1 Kgs. 19:4-8                              |                                          | 5: John 6:24-35                               | 5: John 6:24-35                               |
-|                            | 6: Prov. 9:1-6                                |                                          | 6: John 6:41-52a                              | 6: John 6:41-52a                              |
-|                            |                                               |                                          | 7: John 6:51-59                               | 7: John 6:51-59                               |
+|                            | 5: [1 Kgs. 19:4-8](files/VO/he5pr.pdf)        |                                          | 5: John 6:24-35                               | 5: John 6:24-35                               |
+|                            | 6: [Prov. 9:1-6](files/VO/he6pr.pdf)          |                                          | 6: John 6:41-52a                              | 6: John 6:41-52a                              |
+|                            |                                               |                                          | 7: [John 6:51-59](files/VO/he7ga.pdf)         | 7: [John 6:51-59](files/VO/he7ge.pdf)         |
 |                            |                                               |                                          | 8: John 21:1-14                               | 8: John 21:1-14                               |
 
 ## Mass for the Dead
