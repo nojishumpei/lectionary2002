@@ -77,8 +77,8 @@
 | Year B                                  | [Exod. 24:3-8](files/EA/ccbpr.pdf)          | [Heb. 9:11-15](files/EA/ccbep.pdf)          | [Mark 14:12-16, 22-26](files/EA/ccbga.pdf) | [Mark 14:12-16, 22-26](files/EA/ccbge.pdf) |                   |
 | Year C                                  | [Gen. 14:18-20](files/EA/cccpr.pdf)         | [1 Cor. 11:23-26](files/EA/cccep.pdf)       | [Luke 9:11b-17](files/EA/cccga.pdf)        | [Luke 9:11b-17](files/EA/cccge.pdf)        |                   |
 | Sacred Heart of Jesus (A)               | [Deut. 7:6-11](files/EA/shapr.pdf)          | [1 John 4:7-16](files/EA/shaep.pdf)         | [Matt. 11:25-30](files/EA/shaga.pdf)       | [Matt. 11:25-30](files/EA/shage.pdf)       | 6/12/2026         |
-| Year B                                  | [Hos. 11:1b,3-4,8c-9](files/EA/shbpr.pdf)   | Eph. 3:8-12, 14-19                          | John 19:31-37                              | John 19:31-37                              |                   |
-| Year C                                  | Ezek. 34:11-16                              | Rom. 5:5b-11                                | Luke 15:3-7                                | Luke 15:3-7                                |                   |
+| Year B                                  | [Hos. 11:1b,3-4,8c-9](files/EA/shbpr.pdf)   | [Eph. 3:8-12, 14-19](files/EA/shbep.pdf)    | [John 19:31-37](files/EA/shbga.pdf)        | [John 19:31-37](files/EA/shbge.pdf)        |                   |
+| Year C                                  | [Ezek. 34:11-16](files/EA/shcpr.pdf)        | [Rom. 5:5b-11](files/EA/shcep.pdf)          | [Luke 15:3-7](files/EA/shcga.pdf)          | [Luke 15:3-7](files/EA/shcge.pdf)          |                   |
 
 ### Tempus «Per Annum»
 
