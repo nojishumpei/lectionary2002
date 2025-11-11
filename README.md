@@ -89,7 +89,7 @@
 | 4th Sunday in Ordinary Time (A)  | [Zeph. 2:3, 3:12-13](files/OT/a04pr.pdf) | [1 Cor. 1:26-31](files/OT/a04ep.pdf)     | [Matt. 5:1-12a](files/OT/a04ga.pdf) | [Matt. 5:1-12a](files/OT/a04ge.pdf) | 2/ 1/2026         |
 | 5th Sunday in Ordinary Time (A)  | [Isa. 58:7-10](files/OT/a05pr.pdf)       | [1 Cor. 2:1-5](files/OT/a05ep.pdf)       | [Matt. 5:13-16](files/OT/a05ga.pdf) | [Matt. 5:13-16](files/OT/a05ge.pdf) | 2/ 8/2026         |
 | 6th Sunday in Ordinary Time (A)  | [Sir. 15:16-21](files/OT/a06pr.pdf)      | [1 Cor. 2:6-10](files/OT/a06ep.pdf)      | [Matt. 5:17-37](files/OT/a06ga.pdf) | [Matt. 5:17-37](files/OT/a06ge.pdf) | 2/15/2026         |
-| 7th Sunday in Ordinary Time (A)  | Lev. 19:1-2, 17-18                       | 1 Cor. 3:16-23                           | Matt. 5:38-48                       | Matt. 5:38-48                       |                   |
+| 7th Sunday in Ordinary Time (A)  | [Lev. 19:1-2, 17-18](files/OT/a07pr.pdf) | [1 Cor. 3:16-23](files/OR/a07ep.pdf)     | [Matt. 5:38-48](files/OR/a07ga.pdf) | [Matt. 5:38-48](files/OR/a07ge.pdf) |                   |
 | 8th Sunday in Ordinary Time (A)  | Isa. 49:14-15                            | 1 Cor. 4:1-5                             | Matt. 6:24-34                       | Matt. 6:24-34                       |                   |
 | 9th Sunday in Ordinary Time (A)  | Deut. 11:18, 26-28, 32                   | Rom. 3:21-25a, 28                        | Matt. 7:21-27                       | Matt. 7:21-27                       |                   |
 | 10th Sunday in Ordinary Time (A) | Hos. 6:3-6                               | Rom. 4:18-25                             | Matt. 9:9-13                        | Matt. 9:9-13                        |                   |
