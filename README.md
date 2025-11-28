@@ -116,7 +116,7 @@
 | 31st Sunday in Ordinary Time (A) | [Mal. 1:14b-2:2b, 8-10](files/OT/a31pr.pdf)      | [1 Thess. 2:7b-9,13](files/OT/a31ep.pdf) | Matt. 23:1-12                         | Matt. 23:1-12                         | 11/ 1/2026        |
 | 32nd Sunday in Ordinary Time (A) | [Wis. 6:12-16](files/OT/a32pr.pdf)               | [1 Thess. 4:13-18](files/OT/a32ep.pdf)   | Matt. 25:1-13                         | Matt. 25:1-13                         | 11/ 8/2026        |
 | 33rd Sunday in Ordinary Time (A) | [Prov. 31:10-13,19-20,30-31](files/OT/a33pr.pdf) | [1 Thess. 5:1-6](files/OT/a33ep.pdf)     | Matt. 25:14-30                        | Matt. 25:14-30                        | 11/15/2026        |
-| Christ the King (A)              | [Ezek. 34:11-12,15-17](files/OT/a34pr.pdf)       | [1 Cor. 15:20-26,28](files/OT/a34ep.pdf) | Matt. 25:31-46                        | Matt. 25:31-46                        | 11/22/2026        |
+| Christ the King (A)              | [Ezek. 34:11-12,15-17](files/OT/a34pr.pdf)       | [1 Cor. 15:20-26,28](files/OT/a34ep.pdf) | [Matt. 25:31-46](files/OT/a34ga.pdf)  | [Matt. 25:31-46](files/OT/a34ge.pdf)  | 11/22/2026        |
 
 | SUNDAY                           | Reading 1                                 | Reading 2                                  | Gospel - Antiquior                   | Gospel - Evangelii                   | Recent occurrence                          |
 |:---------------------------------|:-----------------------------------------:|:------------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------------:|
