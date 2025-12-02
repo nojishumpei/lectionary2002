@@ -11,6 +11,13 @@
 | 3rd Sunday of Advent (A)         | [Isaiah 35:1-6A](files/AD/a03pr.pdf)      | [James 5:7-10](files/AD/a03ep.pdf)         | [Matthew 11:2-11](files/AD/a03ga.pdf)  | [Matthew 11:2-11](files/AD/a03ge.pdf)   | 12/14/2025        |
 | 4th Sunday of Advent (A)         | [Isaiah 7:10-14](files/AD/a04pr.pdf)      | [Romans 1:1-7](files/AD/a04ep.pdf)         | [Matthew 1:18-24](files/AD/a04ga.pdf)  | [Matthew 1:18-24](files/AD/a04ge.pdf)   | 12/21/2025        |
 
+| SUNDAY                   | Reading 1                                          | Reading 2                          | Gospel - Antiquior                  | Gospel - Evangelii                  | Recent occurrence |
+|:-------------------------|:--------------------------------------------------:|:----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------:|
+| 1st Sunday of Advent (B) | [Isaiah 63:16b-17,19b;64:2b-7](files/AD/b01pr.pdf) | [1 Cor. 1:3-9](files/AD/b01ep.pdf) | [Mark 13:33-37](files/AD/b01ga.pdf) | [Mark 13:33-37](files/AD/b01ge.pdf) |                   |
+| 2nd Sunday of Advent (B) | Isaiah 40:1-5,9-11                                 | 2 Pet. 3:8-14                      | Mark 1:1-8                          | Mark 1:1-8                          |                   |
+| 3rd Sunday of Advent (B) | Isaiah 61:1-2a,10-11                               | 1 Thess. 5:16-24                   | John 1:6-8.19-28                    | John 1:6-8.19-28                    |                   |
+| 4th Sunday of Advent (B) | 2 Sam. 7:1-5                                       | Rom 16:25-27                       | Luke 1:26-38                        | Luke 1:26-38                        |                   |
+
 ### Tempus Nativitatis
 
 | Feast                                                                      | Reading 1                                  | Reading 2                                    | Gospel - Antiquior                        | Gospel - Evangelii                        | Recent occurence |
