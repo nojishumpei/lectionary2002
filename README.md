@@ -18,12 +18,12 @@
 | 3rd Sunday of Advent (B) | [Isaiah 61:1-2a,10-11](files/AD/b03pr.pdf)         | [1 Thess. 5:16-24](files/AD/b03ep.pdf) | [John 1:6-8,19-28](files/AD/b03ga.pdf) | [John 1:6-8,19-28](files/AD/b03ge.pdf) |                   |
 | 4th Sunday of Advent (B) | [2 Sam. 7:1-5](files/AD/b04pr.pdf)                 | [Rom 16:25-27](files/AD/b04ep.pdf)     | [Luke 1:26-38](files/AD/b04ga.pdf)     | [Luke 1:26-38](files/AD/b04ge.pdf)     |                   |
 
-| SUNDAY                   | Reading 1                               | Reading 2                               | Gospel - Antiquior                        | Gospel - Evangelii                        | Recent occurrence |
-|:-------------------------|:---------------------------------------:|:---------------------------------------:|:-----------------------------------------:|:-----------------------------------------:|:-----------------:|
-| 1st Sunday of Advent (C) | [Jeremias 33:14-16](files/AD/c01pr.pdf) | [1 Thess. 3:12-4:2](files/AD/c01ep.pdf) | [Luke 21:25-28,34-36](files/AD/c01ga.pdf) | [Luke 21:25-28,34-36](files/AD/c01ge.pdf) |                   |
-| 2nd Sunday of Advent (C) | Baruch 5:1-9                            | Phil. 1:4-6,8-11                        | Luke 3:1-6                                | Luke 3:1-6                                |                   |
-| 3rd Sunday of Advent (C) | Zephaniah 3:14-18a                      | Phil. 4:4-7                             | Luke 3:10-18                              | Luke 3:10-18                              |                   |
-| 4th Sunday of Advent (C) | Micah 5:1-4a                            | Heb. 10:5-10                            | Luke 1:39-45                              | Luke 1:39-45                              |                   |
+| SUNDAY                   | Reading 1                                | Reading 2                               | Gospel - Antiquior                        | Gospel - Evangelii                        | Recent occurrence |
+|:-------------------------|:----------------------------------------:|:---------------------------------------:|:-----------------------------------------:|:-----------------------------------------:|:-----------------:|
+| 1st Sunday of Advent (C) | [Jeremias 33:14-16](files/AD/c01pr.pdf)  | [1 Thess. 3:12-4:2](files/AD/c01ep.pdf) | [Luke 21:25-28,34-36](files/AD/c01ga.pdf) | [Luke 21:25-28,34-36](files/AD/c01ge.pdf) |                   |
+| 2nd Sunday of Advent (C) | [Baruch 5:1-9](files/AD/c02pr.pdf)       | [Phil. 1:4-6,8-11](files/AD/c02ep.pdf)  | [Luke 3:1-6](files/AD/c02ga.pdf)          | [Luke 3:1-6](files/AD/c02ge.pdf)          |                   |
+| 3rd Sunday of Advent (C) | [Zephaniah 3:14-18a](files/AD/c03pr.pdf) | [Phil. 4:4-7](files/AD/c03ep.pdf)       | [Luke 3:10-18](files/AD/c03ga.pdf)        | [Luke 3:10-18](files/AD/c03ge.pdf)        |                   |
+| 4th Sunday of Advent (C) | [Micah 5:1-4a](files/AD/c04pr.pdf)       | [Heb. 10:5-10](files/AD/c04ep.pdf)      | [Luke 1:39-45](files/AD/c04ga.pdf)        | [Luke 1:39-45](files/AD/c04ge.pdf)        |                   |
 
 ### Tempus Nativitatis
 
