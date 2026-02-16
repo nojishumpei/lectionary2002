@@ -287,6 +287,7 @@
 - [Missale Romanum cum Lectionibus, editio iuxta typicam alteram (1977, 4 vols.)](https://archive.org/details/MissaleRomanumCumLectionibus1977Vol34/)
 - [Ordo Lectionum Missæ (editio typica altera, 1981)](https://archive.org/details/OLM1981/)
 - [The Liber Usualis 1961](https://archive.org/details/TheLiberUsualis1961/)
+- [Graduale Romanum 1974](https://media.churchmusicassociation.org/books/graduale-romanum-1974.pdf)
 - [Gregorio Chant Engraving Software (and related tools)](http://www.gregoriochant.org/)
     - [The Gregorio project](https://gregorio-project.github.io/index.html)
     - [Latin syllabificator](https://gregorio-project.github.io/hyphen-la/)
