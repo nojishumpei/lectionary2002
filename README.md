@@ -150,7 +150,7 @@
 | 30th Sunday in Ordinary Time (A) | [Exod. 22:20-26](files/OT/a30ot.pdf)             | [1 Thess. 1:5c-10](files/OT/a30ep.pdf)   | [Matt. 22:34-40](files/OT/a30ga.pdf)  | [Matt. 22:34-40](files/OT/a30ge.pdf)  | 10/25/2026 |
 | 31st Sunday in Ordinary Time (A) | [Mal. 1:14b-2:2b, 8-10](files/OT/a31ot.pdf)      | [1 Thess. 2:7b-9,13](files/OT/a31ep.pdf) | [Matt. 23:1-12](files/OT/a31ga.pdf)   | [Matt. 23:1-12](files/OT/a31ge.pdf)   | 11/ 1/2026 |
 | 32nd Sunday in Ordinary Time (A) | [Wis. 6:12-16](files/OT/a32ot.pdf)               | [1 Thess. 4:13-18](files/OT/a32ep.pdf)   | [Matt. 25:1-13](files/OT/a32ga.pdf)   | [Matt. 25:1-13](files/OT/a32ge.pdf)   | 11/ 8/2026 |
-| 33rd Sunday in Ordinary Time (A) | [Prov. 31:10-13,19-20,30-31](files/OT/a33ot.pdf) | [1 Thess. 5:1-6](files/OT/a33ep.pdf)     | [Matt. 25:14-30](files/OT/a33ga.pdf)  | [Matt. 25:14-30](files/OT/a33ge.pdf)  | 11/15/2026 |
+| 33rd Sunday in Ordinary Time (A) | [Prov. 31:10-13,19-20,30-31](files/OT/a33ot.pdf) | [1 Thess. 5:1-6](files/OT/a33ep.pdf)     | [Matt. 25:14-30](files/OT/a33ga.pdf) ([Matt. 25:14-15,19-20](files/OT/a33ga_br.pdf))  | [Matt. 25:14-30](files/OT/a33ge.pdf) ([Matt. 25:14-15,19-20](files/OT/a33ge_br.pdf)) | 11/15/2026 |
 | Christ the King (A)              | [Ezek. 34:11-12,15-17](files/OT/a34ot.pdf)       | [1 Cor. 15:20-26,28](files/OT/a34ep.pdf) | [Matt. 25:31-46](files/OT/a34ga.pdf)  | [Matt. 25:31-46](files/OT/a34ge.pdf)  | 11/22/2026 |
 
 | SUNDAY                           | Reading 1                                        | Reading 2                                    | Gospel - Antiquior                           | Gospel - Evangelii                           | 2027       |
