@@ -2,6 +2,15 @@
 
 \usepackage[autocompile]{gregoriotex}
 
+% Prevent automatic line breaks within words
+\grechangecount{endofsyllablepenalty}{10000}
+
+% Prevent breaks within a syllable's group of notes
+\grechangecount{endofelementpenalty}{10000}
+
+% Allow looser spacing as a fallback while keeping words intact
+\grechangedim{emergencystretch}{1em}{fixed}
+
 % Red lines instead of black lines
 \gresetlinecolor{gregoriocolor}
 
@@ -18,11 +27,13 @@
 
 % Initialize empty internal macros
 \newcommand{\theyearcycle}{}
+\newcommand*{\thereadingnumber}{}
 \newcommand{\thescriptureref}{}
 \newcommand{\thetone}{}
 
 % Setter commands
 \newcommand{\yearcycle}[1]{\renewcommand{\theyearcycle}{#1}}
+\newcommand{\readingnumber}[1]{\renewcommand*{\thereadingnumber}{#1}}
 \newcommand{\scriptureref}[1]{\renewcommand{\thescriptureref}{#1}}
 \newcommand{\tone}[1]{\renewcommand{\thetone}{#1}}
 
@@ -32,11 +43,31 @@
   \begin{center}
     {\large \@title\par}
     \vspace{1ex}
-    {\theyearcycle\par}
+    {% A reading option number occupies the same line as a year cycle.
+      \ifx\thereadingnumber\@empty
+        \theyearcycle
+      \else
+        \thereadingnumber
+      \fi\par}
     \vspace{1ex}
     {\color{gregoriocolor} \thescriptureref\par}
     \vspace{1ex}
     {\small \textbf{\thetone} \par}
   \end{center}
+}
+\makeatother
+
+% A shared introduction with a custos pointing to this reading's first note.
+\makeatletter
+\newcommand{\readingintro}[2][h]{%
+  \def\reading@startpitch{#1}%
+  \input{../common/#2}%
+}
+\def\reading@startpitch{h}
+\long\def\readingintrosnippet#1{%
+  \expandafter\reading@introsnippet\expandafter{\reading@startpitch}{#1}%
+}
+\long\def\reading@introsnippet#1#2{%
+  \gabcsnippet{#2 (::#1+)}%
 }
 \makeatother
