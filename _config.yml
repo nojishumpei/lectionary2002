@@ -1,0 +1,12 @@
+title: Lectiones Missalis Romani MMII notatione gregoriana
+description: Latin Mass readings in Gregorian chant notation
+url: https://nojishumpei.github.io
+baseurl: /lectionary2002
+markdown: kramdown
+kramdown:
+  input: GFM
+exclude:
+  - README.md
+  - tools
+  - docs
+  - collation

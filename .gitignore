@@ -1,0 +1,17 @@
+# Ignore aux and log files anywhere under files/
+files/**/*.log
+files/**/*.fls
+files/**/*.fdb_latexmk
+files/**/*.aux
+files/**/*.gaux
+files/**/*.gsnippet
+
+# Maintenance tools, reports, and build archives stay local.
+/tools/
+/docs/
+/collation/
+
+# Python/macOS intermediates.
+__pycache__/
+*.py[cod]
+.DS_Store

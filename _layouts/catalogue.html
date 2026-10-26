@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Latin Mass readings in Gregorian chant notation, with PDF downloads and dates of celebrations.">
+  <title>{{ page.title | default: site.title | escape }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/catalogue.css' | relative_url }}">
+  <script src="{{ '/assets/js/catalogue.js' | relative_url }}" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#catalogue">Skip to the readings</a>
+  <header class="site-header">
+    <a class="wordmark" href="{{ '/' | relative_url }}">Lectionary2002</a>
+    <a href="https://github.com/nojishumpei/lectionary2002">Source repository</a>
+  </header>
+  <main id="catalogue" class="catalogue">
+    <h1>{{ page.title | default: site.title | escape }}</h1>
+    <div class="catalogue-intro">
+      <p class="eyebrow">Latin readings · Gregorian chant</p>
+      <p>Choose a reading to open its PDF. Gospel settings are provided in the Ancient and Gospel tones.</p>
+    </div>
+    <nav class="section-nav" aria-label="Catalogue sections" hidden></nav>
+    <form class="calendar-controls" aria-label="Date column display" hidden>
+      <div class="year-field">
+        <label for="first-year">First year column</label>
+        <select id="first-year" name="first-year"></select>
+      </div>
+      <label class="all-years"><input type="checkbox" id="all-years"> Show all date columns</label>
+      <p id="year-status" role="status" aria-live="polite"></p>
+      <p class="calendar-help">Three year columns are shown at a time. Christmas columns span two years. Dates are reproduced from the existing catalogue; some sections list fewer years.</p>
+    </form>
+    {{ content }}
+  </main>
+  <footer class="site-footer">
+    <p><a href="https://github.com/nojishumpei/lectionary2002/blob/main/README.md">About the project and building the scores</a></p>
+  </footer>
+</body>
+</html>
