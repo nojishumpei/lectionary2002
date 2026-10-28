@@ -4,7 +4,8 @@
   const main = document.querySelector(".catalogue");
   if (!main) return;
   const nav = document.querySelector(".section-nav");
-  const headings = [...main.querySelectorAll("h2")];
+  const headings = [...main.querySelectorAll("h2, h3")].filter(heading =>
+    heading.tagName === "H2" || /^(Tempus|Triduum)/.test(heading.textContent));
   if (nav && headings.length) {
     for (const [index, heading] of headings.entries()) {
       if (!heading.id) heading.id = `section-${index + 1}`;
@@ -24,9 +25,12 @@
     wrapper.tabIndex = 0;
     wrapper.setAttribute("role", "region");
     let heading = table.previousElementSibling;
-    while (heading && !/^H[23]$/.test(heading.tagName)) heading = heading.previousElementSibling;
-    const name = heading ? heading.textContent.trim() : `Reading table ${index + 1}`;
-    wrapper.setAttribute("aria-label", `${name} — scroll horizontally for more columns`);
+    while (heading && !/^H[234]$/.test(heading.tagName)) heading = heading.previousElementSibling;
+    const name = heading ? heading.textContent.trim() : `Lectiones ${index + 1}`;
+    wrapper.setAttribute("aria-label", name);
+    table.setAttribute("aria-label", name);
+    for (const cell of table.rows[0].cells) cell.setAttribute("scope", "col");
+    if (table.rows[0].cells[0]?.textContent.trim() === "Annus") table.classList.add("cycle-table");
     table.before(wrapper);
     wrapper.append(table);
 
@@ -42,7 +46,7 @@
     if (!dateColumns.length) continue;
     const message = document.createElement("p");
     message.className = "date-unavailable";
-    message.textContent = "This table does not list dates for the selected years. All reading links remain available.";
+    message.textContent = "Dies his annis non indicantur.";
     message.hidden = true;
     wrapper.after(message);
     tables.push({ table, dateColumns, message });
@@ -77,8 +81,8 @@
       message.hidden = shown > 0;
     }
     status.textContent = showAll.checked
-      ? `All date columns: ${available[0]}–${available.at(-1)}`
-      : `Year columns: ${first}${first === last ? "" : `–${last}`}`;
+      ? `Omnes anni: ${available[0]}–${available.at(-1)}`
+      : `Anni civiles: ${first}${first === last ? "" : `–${last}`}`;
   };
   form.addEventListener("submit", event => event.preventDefault());
   select.addEventListener("change", update);

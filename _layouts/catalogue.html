@@ -1,39 +1,40 @@
 <!doctype html>
-<html lang="en">
+<html lang="la">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Latin Mass readings in Gregorian chant notation, with PDF downloads and dates of celebrations.">
   <title>{{ page.title | default: site.title | escape }}</title>
   <link rel="stylesheet" href="{{ '/assets/css/catalogue.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/textus.css' | relative_url }}">
   <script src="{{ '/assets/js/catalogue.js' | relative_url }}" defer></script>
+  <script src="{{ '/assets/js/textus.js' | relative_url }}" data-textus-url="{{ '/assets/data/textus.json' | relative_url }}" data-pdf-base="{{ '/files/' | relative_url }}" defer></script>
 </head>
 <body>
-  <a class="skip-link" href="#catalogue">Skip to the readings</a>
+  <a class="skip-link" href="#catalogue">Ad lectiones</a>
   <header class="site-header">
-    <a class="wordmark" href="{{ '/' | relative_url }}">Lectionary2002</a>
-    <a href="https://github.com/nojishumpei/lectionary2002">Source repository</a>
+    <a href="https://github.com/nojishumpei/lectionary2002">Repositorium (GitHub)</a>
   </header>
   <main id="catalogue" class="catalogue">
     <h1>{{ page.title | default: site.title | escape }}</h1>
     <div class="catalogue-intro">
-      <p class="eyebrow">Latin readings · Gregorian chant</p>
-      <p>Choose a reading to open its PDF. Gospel settings are provided in the Ancient and Gospel tones.</p>
+      <p class="eyebrow">Lectiones · Cantus Gregorianus</p>
+      <p>Lectiones in PDF · Evangelium: Tonus Antiquior et Tonus Evangelii · Textus: verba lectionis</p>
     </div>
-    <nav class="section-nav" aria-label="Catalogue sections" hidden></nav>
-    <form class="calendar-controls" aria-label="Date column display" hidden>
+    <nav class="section-nav" aria-label="Partes catalogi" hidden></nav>
+    <form class="calendar-controls" aria-label="Anni civiles" hidden>
       <div class="year-field">
-        <label for="first-year">First year column</label>
+        <label for="first-year">Anni civiles</label>
         <select id="first-year" name="first-year"></select>
       </div>
-      <label class="all-years"><input type="checkbox" id="all-years"> Show all date columns</label>
+      <label class="all-years"><input type="checkbox" id="all-years"> Omnes anni</label>
       <p id="year-status" role="status" aria-live="polite"></p>
-      <p class="calendar-help">Three year columns are shown at a time. Christmas columns span two years. Dates are reproduced from the existing catalogue; some sections list fewer years.</p>
+      <p class="calendar-help">Tres anni simul ostenduntur. Tempore Nativitatis, anni bini. Dies non indicati: —.</p>
     </form>
     {{ content }}
   </main>
   <footer class="site-footer">
-    <p><a href="https://github.com/nojishumpei/lectionary2002/blob/main/README.md">About the project and building the scores</a></p>
+    <p><a href="https://github.com/nojishumpei/lectionary2002/blob/main/README.md">De hac collectione</a></p>
   </footer>
 </body>
 </html>
