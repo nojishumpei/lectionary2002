@@ -25,34 +25,55 @@
 
 %\pagestyle{empty}
 
-% Initialize empty internal macros
-\newcommand{\theyearcycle}{}
+% Independent heading fields. Starred definitions keep empty fields comparable
+% with LaTeX's non-long \@empty, so absent details produce no stray separators.
+\newcommand*{\thereadingtype}{}
+\newcommand*{\theyearcycle}{}
+\newcommand*{\themassdesignation}{}
 \newcommand*{\thereadingnumber}{}
-\newcommand{\thescriptureref}{}
-\newcommand{\thetone}{}
+\newcommand*{\thescriptureref}{}
+\newcommand*{\thetone}{}
+\newcommand*{\thereadingform}{}
+\newcommand*{\thereadingnote}{}
 
 % Setter commands
-\newcommand{\yearcycle}[1]{\renewcommand{\theyearcycle}{#1}}
-\newcommand{\readingnumber}[1]{\renewcommand*{\thereadingnumber}{#1}}
-\newcommand{\scriptureref}[1]{\renewcommand{\thescriptureref}{#1}}
-\newcommand{\tone}[1]{\renewcommand{\thetone}{#1}}
+\newcommand*{\readingtype}[1]{\renewcommand*{\thereadingtype}{#1}}
+\newcommand*{\yearcycle}[1]{\renewcommand*{\theyearcycle}{#1}}
+\newcommand*{\massdesignation}[1]{\renewcommand*{\themassdesignation}{#1}}
+\newcommand*{\readingnumber}[1]{\renewcommand*{\thereadingnumber}{#1}}
+\newcommand*{\scriptureref}[1]{\renewcommand*{\thescriptureref}{#1}}
+\newcommand*{\tone}[1]{\renewcommand*{\thetone}{#1}}
+\newcommand*{\readingform}[1]{\renewcommand*{\thereadingform}{#1}}
+\newcommand*{\readingnote}[1]{\renewcommand*{\thereadingnote}{#1}}
 
-% Print command
+% Assemble only the supplied details, in their printed order.
 \makeatletter
+\newcommand*{\reading@details}{}
+\newcommand*{\reading@adddetail}[1]{%
+  \ifx\reading@details\@empty
+    \protected@edef\reading@details{#1}%
+  \else
+    \protected@edef\reading@details{\reading@details\space\textperiodcentered\space#1}%
+  \fi
+}
 \newcommand{\makereadingtitle}{%
   \begin{center}
-    {\large \@title\par}
-    \vspace{1ex}
-    {% A reading option number occupies the same line as a year cycle.
-      \ifx\thereadingnumber\@empty
-        \theyearcycle
-      \else
-        \thereadingnumber
-      \fi\par}
-    \vspace{1ex}
-    {\color{gregoriocolor} \thescriptureref\par}
-    \vspace{1ex}
-    {\small \textbf{\thetone} \par}
+    {\small\MakeUppercase{\@title}\par}
+    \vspace{2pt}
+    {\large\bfseries\thereadingtype\par}
+    \let\reading@details\@empty
+    \ifx\theyearcycle\@empty\else\reading@adddetail{Anno~\theyearcycle}\fi
+    \ifx\themassdesignation\@empty\else\reading@adddetail{\themassdesignation}\fi
+    \ifx\thereadingnumber\@empty\else\reading@adddetail{N.~\thereadingnumber}\fi
+    \ifx\thetone\@empty\else\reading@adddetail{\thetone}\fi
+    \ifx\thereadingform\@empty\else\reading@adddetail{\thereadingform}\fi
+    \ifx\thereadingnote\@empty\else\reading@adddetail{\thereadingnote}\fi
+    \ifx\reading@details\@empty\else
+      \vspace{1.5pt}
+      {\small\reading@details\par}
+    \fi
+    \vspace{2pt}
+    {\small\color{gregoriocolor}\thescriptureref\par}
   \end{center}
 }
 \makeatother
