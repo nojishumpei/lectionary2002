@@ -136,12 +136,12 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 | Annus · Missa | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| A | [Is 50:4–7](files/LT/plmot.pdf) | [Phil 2:6–11](files/LT/plmep.pdf) | Matt. 26:14–27:66 | — | 3/29/2026 | — | — | 3/25/2029 | — | — | 3/21/2032 | — | — | 3/18/2035 | — | — | 4/18/2038 | — |
-| B | [Is 50:4–7](files/LT/plmot.pdf) | [Phil 2:6–11](files/LT/plmep.pdf) | Mark 14:1–15:47 | — | — | 3/21/2027 | — | — | 4/14/2030 | — | — | 4/10/2033 | — | — | 4/ 6/2036 | — | — | 4/ 3/2039 |
-| C | [Is 50:4–7](files/LT/plmot.pdf) | [Phil 2:6–11](files/LT/plmep.pdf) | Mark 14:1–15:47 | — | — | — | 4/ 9/2028 | — | — | 4/ 6/2031 | — | — | 4/ 2/2034 | — | — | 3/29/2037 | — | — |
+| A | [Is 50:4–7](files/LT/plmot.pdf) | [Phil 2:6–11](files/LT/plmep.pdf) | Mt 26:14–27:66 | — | 3/29/2026 | — | — | 3/25/2029 | — | — | 3/21/2032 | — | — | 3/18/2035 | — | — | 4/18/2038 | — |
+| B | [Is 50:4–7](files/LT/plmot.pdf) | [Phil 2:6–11](files/LT/plmep.pdf) | Mc 14:1–15:47 | — | — | 3/21/2027 | — | — | 4/14/2030 | — | — | 4/10/2033 | — | — | 4/ 6/2036 | — | — | 4/ 3/2039 |
+| C | [Is 50:4–7](files/LT/plmot.pdf) | [Phil 2:6–11](files/LT/plmep.pdf) | Lc 22:14–23:56 | — | — | — | 4/ 9/2028 | — | — | 4/ 6/2031 | — | — | 4/ 2/2034 | — | — | 3/29/2037 | — | — |
 | A · Ad Processionem | — | — | <span class="gospel-reference" data-textus-key="LT/ppaga">Mt 21:1–11</span><br>[Tonus Antiquior](files/LT/ppaga.pdf) · [Tonus Evangelii](files/LT/ppage.pdf) | — | 3/29/2026 | — | — | 3/25/2029 | — | — | 3/21/2032 | — | — | 3/18/2035 | — | — | 4/18/2038 | — |
 | B · Ad Processionem | — | — | <span class="gospel-reference" data-textus-key="LT/ppbga">Mc 11:1–10</span><br>[Tonus Antiquior](files/LT/ppbga.pdf) · [Tonus Evangelii](files/LT/ppbge.pdf)<br><br><span class="gospel-reference" data-textus-key="LT/pplga">Io 12:12–16</span><br>[Tonus Antiquior](files/LT/pplga.pdf) · [Tonus Evangelii](files/LT/pplge.pdf) | — | — | 3/21/2027 | — | — | 4/14/2030 | — | — | 4/10/2033 | — | — | 4/ 6/2036 | — | — | 4/ 3/2039 |
-| C · Ad Processionem | — | — | <span class="gospel-reference" data-textus-key="LT/ppcga">Lc 19:28–40</span><br>[Tonus Antiquior](files/LT/ppcga.pdf) · [Tonus Evangelii](files/LT/ppcge.pdf) | — | — | — | 4/ 9/2028 | — | — | 4/ 6/2031 | — | — | 4/ 2/2034 | — | — | 3/29/3027 | — | — |
+| C · Ad Processionem | — | — | <span class="gospel-reference" data-textus-key="LT/ppcga">Lc 19:28–40</span><br>[Tonus Antiquior](files/LT/ppcga.pdf) · [Tonus Evangelii](files/LT/ppcge.pdf) | — | — | — | 4/ 9/2028 | — | — | 4/ 6/2031 | — | — | 4/ 2/2034 | — | — | 3/29/2037 | — | — |
 
 ### Triduum Paschale et Tempus Paschale
 
@@ -149,7 +149,7 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 | Missa | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Ad Missam Vespertinam | [Ex 12:1–8. 11–14](files/EA/hthot.pdf) | [1 Cor 11:23–26](files/EA/hthep.pdf) | <span class="gospel-reference" data-textus-key="EA/hthga">Io 13:1–15</span><br>[Tonus Antiquior](files/EA/hthga.pdf) · [Tonus Evangelii](files/EA/hthge.pdf) | — | 4/ 2/2026 | 3/25/2027 | 4/13/2028 | 3/29/3039 | 4/18/2030 | 4/10/2031 | 3/25/2032 | 4/14/2033 | 4/ 6/2034 | 3/22/2035 | 4/10/2036 | 4/ 2/2037 | 4/22/2038 | 4/ 7/2039 |
+| Ad Missam Vespertinam | [Ex 12:1–8. 11–14](files/EA/hthot.pdf) | [1 Cor 11:23–26](files/EA/hthep.pdf) | <span class="gospel-reference" data-textus-key="EA/hthga">Io 13:1–15</span><br>[Tonus Antiquior](files/EA/hthga.pdf) · [Tonus Evangelii](files/EA/hthge.pdf) | — | 4/ 2/2026 | 3/25/2027 | 4/13/2028 | 3/29/2029 | 4/18/2030 | 4/10/2031 | 3/25/2032 | 4/14/2033 | 4/ 6/2034 | 3/22/2035 | 4/10/2036 | 4/ 2/2037 | 4/22/2038 | 4/ 7/2039 |
 
 #### FERIA VI IN PASSIONE DOMINI
 
@@ -243,7 +243,7 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 | Missa | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Ad Missam in Vigilia | [Gen 11:1–9](files/EA/pv1ot.pdf) | [Rom 8:22–27](files/EA/pvgep.pdf) | <span class="gospel-reference" data-textus-key="EA/pvgga">Io 7:37–39</span><br>[Tonus Antiquior](files/EA/pvgga.pdf) · [Tonus Evangelii](files/EA/pvgge.pdf) | — | 5/23/2026 | 5/15/2027 | 6/ 3/2028 | 5/19/2029 | 6/8/2030 | 5/31/2031 | 5/15/2032 | 6/4/2033 | 5/38/2034 | 5/12/2035 | 5/31/2036 | 5/23/2037 | 6/12/2038 | 5/28/2039 |
+| Ad Missam in Vigilia | [Gen 11:1–9](files/EA/pv1ot.pdf) | [Rom 8:22–27](files/EA/pvgep.pdf) | <span class="gospel-reference" data-textus-key="EA/pvgga">Io 7:37–39</span><br>[Tonus Antiquior](files/EA/pvgga.pdf) · [Tonus Evangelii](files/EA/pvgge.pdf) | — | 5/23/2026 | 5/15/2027 | 6/ 3/2028 | 5/19/2029 | 6/8/2030 | 5/31/2031 | 5/15/2032 | 6/4/2033 | 5/27/2034 | 5/12/2035 | 5/31/2036 | 5/23/2037 | 6/12/2038 | 5/28/2039 |
 | Ad Missam in Vigilia | [Ex 19:3–8a, 16–20b](files/EA/pv2ot.pdf) | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — |
 | Ad Missam in Vigilia | [Ez 37:1–14](files/EA/pv3ot.pdf) | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — |
 | Ad Missam in Vigilia | [Ioel 3:1–5](files/EA/pv4ot.pdf) | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — |
