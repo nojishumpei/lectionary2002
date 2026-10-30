@@ -84,7 +84,7 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 | B | (Is 55:1–11) | (1 Io 5:1–9) | <span class="gospel-reference" data-textus-key="CH/babga">Mc 1:7–11</span><br>[Tonus Antiquior](files/CH/babga.pdf) · [Tonus Evangelii](files/CH/babge.pdf) · [Tonus ad libitum](files/CH/babgl.pdf) | — | 1/10/2027 | — | — | 1/13/2030 | — | — | 1/ 9/2033 | — | — | 1/13/2036 | — | — | 1/ 9/2039 | — |
 | C | (Is 40:1–5, 9–11) | (Tit 2:11–14; 3:4–7) | <span class="gospel-reference" data-textus-key="CH/bacga">Lc 3:15–16, 21–22</span><br>[Tonus Antiquior](files/CH/bacga.pdf) · [Tonus Evangelii](files/CH/bacge.pdf) · [Tonus ad libitum](files/CH/bacgl.pdf) | — | — | 1/ 9/2028 | — | — | 1/12/2031 | — | — | 1/15/2034 | — | — | 1/11/2037 | — | — | 1/15/2040 |
 
-### Tempus Quadragesimae
+### Tempus Quadragesimæ
 
 #### FERIA IV CINERUM
 
