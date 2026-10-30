@@ -48,8 +48,11 @@
     record.paragraphs.forEach(p => body.append(el("p", p)));
     body.append(el("p", "Verbum Dómini.", "textus-conclusion"));
     footer.replaceChildren();
-    record.pdfs.forEach((pdf, index) => {
-      const link = el("a", record.pdfs.length > 1 ? (index ? "Tonus Evangelii · PDF" : "Tonus Antiquior · PDF") : "PDF");
+    record.pdfs.forEach(pdf => {
+      const tone = /ga(?:_br)?\.pdf$/.test(pdf) ? "Tonus Antiquior"
+        : /ge(?:_br)?\.pdf$/.test(pdf) ? "Tonus Evangelii"
+        : /gl(?:_br)?\.pdf$/.test(pdf) ? "Tonus ad libitum" : "";
+      const link = el("a", record.pdfs.length > 1 && tone ? `${tone} · PDF` : "PDF");
       link.href = pdfBase + pdf; link.target = "_blank"; link.rel = "noopener noreferrer"; footer.append(link);
     });
     button.setAttribute("aria-expanded", "true");
@@ -64,8 +67,9 @@
     for (const link of main.querySelectorAll('a[href*="files/"]')) {
       const path = new URL(link.href, document.baseURI).pathname;
       const match = path.match(/\/files\/([^/]+\/[^/]+)\.pdf$/i);
-      if (!match || !records[match[1]]) continue;
-      const record = records[match[1].replace(/ge(?=_br$|$)/, "ga")] || records[match[1]];
+      if (!match) continue;
+      const record = records[match[1].replace(/g[el](?=_br$|$)/, "ga")] || records[match[1]];
+      if (!record) continue;
       const cell = link.closest?.("td");
       if (cell) {
         if (!cellReadings.has(cell)) cellReadings.set(cell, new Set());

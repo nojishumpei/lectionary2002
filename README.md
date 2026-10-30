@@ -4,7 +4,7 @@ Latin readings for Mass according to the 2002 Roman Missal, pointed in Gregorian
 
 **[Browse the readings and download PDFs](https://nojishumpei.github.io/lectionary2002/)**
 
-The catalogue includes the temporal and sanctoral cycles, votive Masses, and Masses for the Dead. Gospel readings are provided in the Ancient and Gospel tones. The repository contains 880 reading PDFs and their TeX sources.
+The catalogue includes the temporal and sanctoral cycles, votive Masses, and Masses for the Dead. Gospel readings are provided in the Ancient, Gospel, and ad libitum tones. The repository contains 1,113 reading PDFs and their TeX sources.
 
 ## Files
 
