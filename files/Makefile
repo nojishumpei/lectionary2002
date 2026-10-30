@@ -12,7 +12,14 @@ READING_DIRS := AD CH LT EA OT SA DE VO
 TEX_SOURCES := $(sort $(foreach dir,$(READING_DIRS),$(wildcard $(dir)/*.tex)))
 PDFS := $(TEX_SOURCES:.tex=.pdf)
 
-.PHONY: all rebuild clean help check-tools FORCE
+# Count the selected PDFs before starting any parallel compilation jobs.
+BUILD_GOALS := $(patsubst ./%,%,$(MAKECMDGOALS))
+SELECTED_PDFS := $(filter $(PDFS),$(BUILD_GOALS))
+COUNT_PDFS := $(if $(filter all count,$(BUILD_GOALS)),$(PDFS),$(if $(SELECTED_PDFS),$(SELECTED_PDFS),$(PDFS)))
+COUNT_FORCE_OPTIONS := $(filter -g -gg -gt -g- --g --gg --gt --g-,$(LATEXMKFLAGS))
+COUNT_FORCE := $(if $(filter -g -gg -gt --g --gg --gt,$(lastword $(COUNT_FORCE_OPTIONS))),--force)
+
+.PHONY: all rebuild clean help count build-count check-tools FORCE
 
 all: $(PDFS)
 
@@ -20,8 +27,14 @@ all: $(PDFS)
 # Without FORCE, Make could skip latexmk when only a shared input changed.
 # An unchanged document is checked without running LuaLaTeX. Each reading
 # has its own auxiliary files, so separate readings can build in parallel.
-$(PDFS): %.pdf: %.tex FORCE | check-tools
+$(PDFS): %.pdf: %.tex FORCE | build-count
 	$(LATEXMK) $(LATEXMKFLAGS) -cd "$<"
+
+# Preview the same estimate without compiling or changing auxiliary files.
+count: build-count
+
+build-count: | check-tools
+	@perl build-count.pl $(COUNT_FORCE) $(COUNT_PDFS)
 
 FORCE:
 
@@ -41,8 +54,9 @@ clean:
 
 help:
 	@printf '%s\n' \
-	  'make -C files -j10                 Check/build all 880 readings, up to ten at once.' \
+	  'make -C files -j10                 Check/build all $(words $(TEX_SOURCES)) readings, up to ten at once.' \
 	  'make -C files AD/a01ep.pdf         Check/build one reading and its shared inputs.' \
+	  'make -C files count                Estimate how many PDFs need rebuilding; do not compile.' \
 	  'make -C files -j10 rebuild         Force compilation of all readings.' \
 	  'make -C files clean                Remove auxiliary records; preserve PDFs.' \
 	  'Run clean separately from builds. Build errors return a nonzero exit status.'

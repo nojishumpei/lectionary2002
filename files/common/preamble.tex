@@ -59,8 +59,8 @@
 \newcommand{\makereadingtitle}{%
   \begin{center}
     {\small\MakeUppercase{\@title}\par}
-    \vspace{2pt}
-    {\large\bfseries\thereadingtype\par}
+    \vspace{2.5pt}
+    {\large\bfseries\MakeUppercase{\thereadingtype}\par}
     \let\reading@details\@empty
     \ifx\theyearcycle\@empty\else\reading@adddetail{Anno~\theyearcycle}\fi
     \ifx\themassdesignation\@empty\else\reading@adddetail{\themassdesignation}\fi
@@ -69,11 +69,11 @@
     \ifx\thereadingform\@empty\else\reading@adddetail{\thereadingform}\fi
     \ifx\thereadingnote\@empty\else\reading@adddetail{\thereadingnote}\fi
     \ifx\reading@details\@empty\else
-      \vspace{1.5pt}
-      {\small\reading@details\par}
+      \vspace{3.5pt}
+      {\normalsize{\reading@details}\par}
     \fi
     \vspace{2pt}
-    {\small\color{gregoriocolor}\thescriptureref\par}
+    {\normalsize\color{gregoriocolor}\thescriptureref\par}
   \end{center}
 }
 \makeatother
