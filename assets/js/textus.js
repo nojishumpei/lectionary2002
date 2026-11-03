@@ -45,7 +45,7 @@
     reference.textContent = [record.reference, record.form, record.number && `N. ${record.number}`].filter(Boolean).join(" · ");
     body.replaceChildren();
     if (record.intro) body.append(el("p", record.intro, "textus-intro"));
-    record.paragraphs.forEach(p => body.append(el("p", p)));
+    record.paragraphs.forEach(p => body.append(el("p", p.replaceAll("¿", ""))));
     body.append(el("p", "Verbum Dómini.", "textus-conclusion"));
     footer.replaceChildren();
     record.pdfs.forEach(pdf => {
