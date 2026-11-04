@@ -227,9 +227,9 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| A | [Act 1:1–11](files/EA/ascac.pdf) | [Eph 1:17–23](files/EA/ascep.pdf) | <span class="gospel-reference" data-textus-key="EA/asaga">Mt 28:16–20</span><br>[Tonus Antiquior](files/EA/asaga.pdf) · [Tonus Evangelii](files/EA/asage.pdf) · [Tonus ad libitum](files/EA/asagl.pdf) | — | 5/17/2026 | — | — | 5/13/2029 | — | — | 5/9/2032 | — | — | 5/6/2035 | — | — | 6/6/2038 | — |
-| B | — | — | <span class="gospel-reference" data-textus-key="EA/asbga">Mc 16:15–20</span><br>[Tonus Antiquior](files/EA/asbga.pdf) · [Tonus Evangelii](files/EA/asbge.pdf) · [Tonus ad libitum](files/EA/asbgl.pdf) | — | — | 5/ 9/2027 | — | — | 6/2/2030 | — | — | 5/29/2033 | — | — | 5/25/2036 | — | — | 5/22/2039 |
-| C | — | — | <span class="gospel-reference" data-textus-key="EA/ascga">Lc 24:46–53</span><br>[Tonus Antiquior](files/EA/ascga.pdf) · [Tonus Evangelii](files/EA/ascge.pdf) · [Tonus ad libitum](files/EA/ascgl.pdf) | — | — | — | 5/28/2028 | — | — | 5/25/2031 | — | — | 5/21/2034 | — | — | 5/17/2037 | — | — |
+| A | [Act 1:1–11](files/EA/ascac.pdf) | [Eph 1:17–23](files/EA/asaep.pdf) | <span class="gospel-reference" data-textus-key="EA/asaga">Mt 28:16–20</span><br>[Tonus Antiquior](files/EA/asaga.pdf) · [Tonus Evangelii](files/EA/asage.pdf) · [Tonus ad libitum](files/EA/asagl.pdf) | — | 5/17/2026 | — | — | 5/13/2029 | — | — | 5/9/2032 | — | — | 5/6/2035 | — | — | 6/6/2038 | — |
+| B | — | <span class="reading-form">Ad libitum</span> <span class="reading-form">Forma Longior</span> [Eph 4:1–13](files/EA/asbep.pdf)<br><br><span class="reading-form">Forma Brevior</span> [Eph 4:1–7, 11–13](files/EA/asbep_br.pdf) | <span class="gospel-reference" data-textus-key="EA/asbga">Mc 16:15–20</span><br>[Tonus Antiquior](files/EA/asbga.pdf) · [Tonus Evangelii](files/EA/asbge.pdf) · [Tonus ad libitum](files/EA/asbgl.pdf) | — | — | 5/ 9/2027 | — | — | 6/2/2030 | — | — | 5/29/2033 | — | — | 5/25/2036 | — | — | 5/22/2039 |
+| C | — | <span class="reading-form">Ad libitum</span> [Hebr 9:24–28; 10:19–23](files/EA/ascep.pdf) | <span class="gospel-reference" data-textus-key="EA/ascga">Lc 24:46–53</span><br>[Tonus Antiquior](files/EA/ascga.pdf) · [Tonus Evangelii](files/EA/ascge.pdf) · [Tonus ad libitum](files/EA/ascgl.pdf) | — | — | — | 5/28/2028 | — | — | 5/25/2031 | — | — | 5/21/2034 | — | — | 5/17/2037 | — | — |
 
 #### DOMINICA VII PASCHÆ
 
@@ -241,13 +241,22 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 #### DOMINICA PENTECOSTES
 
+##### AD MISSAM IN VIGILIA
+
 | Missa | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Ad Missam in Vigilia | [Gen 11:1–9](files/EA/pv1ot.pdf) | [Rom 8:22–27](files/EA/pvgep.pdf) | <span class="gospel-reference" data-textus-key="EA/pvgga">Io 7:37–39</span><br>[Tonus Antiquior](files/EA/pvgga.pdf) · [Tonus Evangelii](files/EA/pvgge.pdf) · [Tonus ad libitum](files/EA/pvggl.pdf) | — | 5/23/2026 | 5/15/2027 | 6/ 3/2028 | 5/19/2029 | 6/8/2030 | 5/31/2031 | 5/15/2032 | 6/4/2033 | 5/27/2034 | 5/12/2035 | 5/31/2036 | 5/23/2037 | 6/12/2038 | 5/28/2039 |
 | Ad Missam in Vigilia | [Ex 19:3–8a, 16–20b](files/EA/pv2ot.pdf) | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — |
 | Ad Missam in Vigilia | [Ez 37:1–14](files/EA/pv3ot.pdf) | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — |
 | Ad Missam in Vigilia | [Ioel 3:1–5](files/EA/pv4ot.pdf) | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — |
-| Ad Missam in Die | [Act 2:1–11](files/EA/penac.pdf) | [1 Cor 12:3b–7, 12–13](files/EA/penep.pdf) | <span class="gospel-reference" data-textus-key="EA/penga">Io 20:19–23</span><br>[Tonus Antiquior](files/EA/penga.pdf) · [Tonus Evangelii](files/EA/penge.pdf) · [Tonus ad libitum](files/EA/pengl.pdf) | — | 5/24/2026 | 5/16/2027 | 6/ 4/2028 | 5/20/2029 | 6/9/2030 | 6/1/2031 | 5/16/2032 | 6/5/2033 | 5/28/2034 | 5/13/2035 | 6/1/2036 | 5/24/2037 | 6/13/2038 | 5/29/2039 |
+
+##### AD MISSAM IN DIE
+
+| Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ABC | [Act 2:1–11](files/EA/penac.pdf) | [1 Cor 12:3b–7, 12–13](files/EA/peaep.pdf) | <span class="gospel-reference" data-textus-key="EA/peaga">Io 20:19–23</span><br>[Tonus Antiquior](files/EA/peaga.pdf) · [Tonus Evangelii](files/EA/peage.pdf) · [Tonus ad libitum](files/EA/peagl.pdf) | — | 5/24/2026 | 5/16/2027 | 6/ 4/2028 | 5/20/2029 | 6/9/2030 | 6/1/2031 | 5/16/2032 | 6/5/2033 | 5/28/2034 | 5/13/2035 | 6/1/2036 | 5/24/2037 | 6/13/2038 | 5/29/2039 |
+| B | — | <span class="reading-form">Ad libitum</span> [Gal 5:16–25](files/EA/pebep.pdf) | <span class="reading-form">Ad libitum</span> <span class="gospel-reference" data-textus-key="EA/pebga">Io 15:26–27; 16:12–15</span><br>[Tonus Antiquior](files/EA/pebga.pdf) · [Tonus Evangelii](files/EA/pebge.pdf) · [Tonus ad libitum](files/EA/pebgl.pdf) | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — |
+| C | — | <span class="reading-form">Ad libitum</span> [Rom 8:8–17](files/EA/pecep.pdf) | <span class="reading-form">Ad libitum</span> <span class="gospel-reference" data-textus-key="EA/pecga">Io 14:15–16, 23b–26</span><br>[Tonus Antiquior](files/EA/pecga.pdf) · [Tonus Evangelii](files/EA/pecge.pdf) · [Tonus ad libitum](files/EA/pecgl.pdf) | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — |
 
 #### SANCTISSIMÆ TRINITATIS
 
@@ -622,41 +631,122 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 ### DE SANCTISSIMA EUCHARISTIA
 
-| N. | Lectio Prima | Lectio Secunda | Evangelium |
-| --- | --- | --- | --- |
-| 1 | [Gen 14:18–20](files/VO/he1ot.pdf) | [1 Cor 10:16–17](files/VO/he1ep.pdf) | <span class="gospel-reference" data-textus-key="VO/he1ga">Mc 14:12–16, 22–26</span><br>[Tonus Antiquior](files/VO/he1ga.pdf) · [Tonus Evangelii](files/VO/he1ge.pdf) · [Tonus ad libitum](files/VO/he1gl.pdf) |
-| 2 | [Ex 16:2–4, 12–15](files/VO/he2ot.pdf) | [1 Cor 11:23–26](files/VO/he2ep.pdf) | <span class="gospel-reference" data-textus-key="VO/he2ga">Lc 9:11b–17</span><br>[Tonus Antiquior](files/VO/he2ga.pdf) · [Tonus Evangelii](files/VO/he2ge.pdf) · [Tonus ad libitum](files/VO/he2gl.pdf) |
-| 3 | [Ex 24:3–8](files/VO/he3ot.pdf) | [Hebr 9:11–15](files/VO/he3ep.pdf) | <span class="gospel-reference" data-textus-key="VO/he3ga">Lc 24:13–35</span><br>[Tonus Antiquior](files/VO/he3ga.pdf) · [Tonus Evangelii](files/VO/he3ge.pdf) · [Tonus ad libitum](files/VO/he3gl.pdf) |
-| 4 | [Deut 8:2–3, 14b–16a](files/VO/he4ot.pdf) | — | <span class="gospel-reference" data-textus-key="VO/he4ga">Io 6:1–15</span><br>[Tonus Antiquior](files/VO/he4ga.pdf) · [Tonus Evangelii](files/VO/he4ge.pdf) · [Tonus ad libitum](files/VO/he4gl.pdf) |
-| 5 | [1 Reg 19:4–8](files/VO/he5ot.pdf) | — | <span class="gospel-reference" data-textus-key="VO/he5ga">Io 6:24–35</span><br>[Tonus Antiquior](files/VO/he5ga.pdf) · [Tonus Evangelii](files/VO/he5ge.pdf) · [Tonus ad libitum](files/VO/he5gl.pdf) |
-| 6 | [Prov 9:1–6](files/VO/he6ot.pdf) | — | <span class="gospel-reference" data-textus-key="VO/he6ga">Io 6:41–51</span><br>[Tonus Antiquior](files/VO/he6ga.pdf) · [Tonus Evangelii](files/VO/he6ge.pdf) · [Tonus ad libitum](files/VO/he6gl.pdf) |
-| 7 | — | — | <span class="gospel-reference" data-textus-key="VO/he7ga">Io 6:51–58</span><br>[Tonus Antiquior](files/VO/he7ga.pdf) · [Tonus Evangelii](files/VO/he7ge.pdf) · [Tonus ad libitum](files/VO/he7gl.pdf) |
-| 8 | — | — | <span class="gospel-reference" data-textus-key="VO/he8ga">Io 21:1–14</span><br>[Tonus Antiquior](files/VO/he8ga.pdf) · [Tonus Evangelii](files/VO/he8ge.pdf) · [Tonus ad libitum](files/VO/he8gl.pdf) |
+#### LECTIONES I E VETERE TESTAMENTO
+
+| N. | Lectio Prima |
+| --- | --- |
+| 1 | [Gen 14:18–20](files/VO/e01ot.pdf) |
+| 2 | [Ex 12:21–27](files/VO/e02ot.pdf) |
+| 3 | [Ex 16:2–4, 12–15](files/VO/e03ot.pdf) |
+| 4 | [Ex 24:3–8](files/VO/e04ot.pdf) |
+| 5 | [Deut 8:2–3, 14b–16a](files/VO/e05ot.pdf) |
+| 6 | [1 Reg 19:4–8](files/VO/e06ot.pdf) |
+| 7 | [Prov 9:1–6](files/VO/e07ot.pdf) |
+
+#### LECTIONES I E NOVO TESTAMENTO TEMPORE PASCHALI
+
+| N. | Lectio Prima |
+| --- | --- |
+| 1 | [Act 2:42–47](files/VO/e01ac.pdf) |
+| 2 | [Act 10:34a, 37–43](files/VO/e02ac.pdf) |
+| 3 | [Ap 1:5–8](files/VO/e03ap.pdf) |
+| 4 | [Ap 7:9–14](files/VO/e04ap.pdf) |
+
+#### LECTIONES II E NOVO TESTAMENTO
+
+| N. | Lectio Secunda |
+| --- | --- |
+| 1 | [1 Cor 10:16–17](files/VO/e01ep.pdf) |
+| 2 | [1 Cor 11:23–26](files/VO/e02ep.pdf) |
+| 3 | [Hebr 9:11–15](files/VO/e03ep.pdf) |
+| 4 | [Hebr 12:18–19, 22–24](files/VO/e04ep.pdf) |
+| 5 | [1 Petr 1:17–21](files/VO/e05ep.pdf) |
+| 6 | [1 Io 5:4–8](files/VO/e06ep.pdf) |
+
+#### EVANGELIA
+
+| N. | Evangelium |
+| --- | --- |
+| 1 | <span class="gospel-reference" data-textus-key="VO/e01ga">Mc 14:12–16, 22–26</span><br>[Tonus Antiquior](files/VO/e01ga.pdf) · [Tonus Evangelii](files/VO/e01ge.pdf) · [Tonus ad libitum](files/VO/e01gl.pdf) |
+| 2 | <span class="gospel-reference" data-textus-key="VO/e02ga">Mc 15:16–20</span><br>[Tonus Antiquior](files/VO/e02ga.pdf) · [Tonus Evangelii](files/VO/e02ge.pdf) · [Tonus ad libitum](files/VO/e02gl.pdf) |
+| 3 | <span class="gospel-reference" data-textus-key="VO/e03ga">Lc 9:11b–17</span><br>[Tonus Antiquior](files/VO/e03ga.pdf) · [Tonus Evangelii](files/VO/e03ge.pdf) · [Tonus ad libitum](files/VO/e03gl.pdf) |
+| 4 | <span class="gospel-reference" data-textus-key="VO/e04ga">Lc 22:39–44</span><br>[Tonus Antiquior](files/VO/e04ga.pdf) · [Tonus Evangelii](files/VO/e04ge.pdf) · [Tonus ad libitum](files/VO/e04gl.pdf) |
+| 5 | <span class="reading-form">Forma Longior</span> <span class="gospel-reference" data-textus-key="VO/e05ga">Lc 24:13–35</span><br>[Tonus Antiquior](files/VO/e05ga.pdf) · [Tonus Evangelii](files/VO/e05ge.pdf) · [Tonus ad libitum](files/VO/e05gl.pdf)<br><br><span class="reading-form">Forma Brevior</span> <span class="gospel-reference" data-textus-key="VO/e05ga_br">Lc 24:13–16, 28–35</span><br>[Tonus Antiquior](files/VO/e05ga_br.pdf) · [Tonus Evangelii](files/VO/e05ge_br.pdf) · [Tonus ad libitum](files/VO/e05gl_br.pdf) |
+| 6 | <span class="gospel-reference" data-textus-key="VO/e06ga">Io 6:1–15</span><br>[Tonus Antiquior](files/VO/e06ga.pdf) · [Tonus Evangelii](files/VO/e06ge.pdf) · [Tonus ad libitum](files/VO/e06gl.pdf) |
+| 7 | <span class="gospel-reference" data-textus-key="VO/e07ga">Io 6:24–35</span><br>[Tonus Antiquior](files/VO/e07ga.pdf) · [Tonus Evangelii](files/VO/e07ge.pdf) · [Tonus ad libitum](files/VO/e07gl.pdf) |
+| 8 | <span class="gospel-reference" data-textus-key="VO/e08ga">Io 6:41–51</span><br>[Tonus Antiquior](files/VO/e08ga.pdf) · [Tonus Evangelii](files/VO/e08ge.pdf) · [Tonus ad libitum](files/VO/e08gl.pdf) |
+| 9 | <span class="gospel-reference" data-textus-key="VO/e09ga">Io 6:51–58</span><br>[Tonus Antiquior](files/VO/e09ga.pdf) · [Tonus Evangelii](files/VO/e09ge.pdf) · [Tonus ad libitum](files/VO/e09gl.pdf) |
+| 10 | <span class="gospel-reference" data-textus-key="VO/e10ga">Io 19:31–37</span><br>[Tonus Antiquior](files/VO/e10ga.pdf) · [Tonus Evangelii](files/VO/e10ge.pdf) · [Tonus ad libitum](files/VO/e10gl.pdf) |
+| 11 | <span class="gospel-reference" data-textus-key="VO/e11ga">Io 21:1–14</span><br>[Tonus Antiquior](files/VO/e11ga.pdf) · [Tonus Evangelii](files/VO/e11ge.pdf) · [Tonus ad libitum](files/VO/e11gl.pdf) |
 
 ## Missæ Defunctorum
 
 ### MISSÆ DEFUNCTORUM
 
-| N. | Lectio Prima | Lectio Secunda | Evangelium |
-| --- | --- | --- | --- |
-| 1 | [Iob 19:1, 23–27a](files/DE/d01ot.pdf) | [Rom 5:5–11](files/DE/d01ep.pdf) | <span class="gospel-reference" data-textus-key="DE/d01ga">Mt 5:1–12a</span><br>[Tonus Antiquior](files/DE/d01ga.pdf) · [Tonus Evangelii](files/DE/d01ge.pdf) · [Tonus ad libitum](files/DE/d01gl.pdf) |
-| 2 | [Sap 3:1–9](files/DE/d02ot.pdf) | [Rom 5:17–21](files/DE/d02ep.pdf) | <span class="gospel-reference" data-textus-key="DE/d02ga">Mt 11:25–30</span><br>[Tonus Antiquior](files/DE/d02ga.pdf) · [Tonus Evangelii](files/DE/d02ge.pdf) · [Tonus ad libitum](files/DE/d02gl.pdf) |
-| 3 | [Sap 4:7–15](files/DE/d03ot.pdf) | [Rom 6:3–9](files/DE/d03ep.pdf) | <span class="gospel-reference" data-textus-key="DE/d03ga">Mt 25:1–13</span><br>[Tonus Antiquior](files/DE/d03ga.pdf) · [Tonus Evangelii](files/DE/d03ge.pdf) · [Tonus ad libitum](files/DE/d03gl.pdf) |
-| 4 | [Is 25:6a, 7–9](files/DE/d04ot.pdf) | [Rom 8:14–23](files/DE/d04ep.pdf) | <span class="gospel-reference" data-textus-key="DE/d04ga">Mt 25:31–46</span><br>[Tonus Antiquior](files/DE/d04ga.pdf) · [Tonus Evangelii](files/DE/d04ge.pdf) · [Tonus ad libitum](files/DE/d04gl.pdf) |
-| 5 | [Lam 3:17–26](files/DE/d05ot.pdf) | [Rom 8:31b–35, 37–39](files/DE/d05ep.pdf) | <span class="gospel-reference" data-textus-key="DE/d05ga">Lc 7:11–17</span><br>[Tonus Antiquior](files/DE/d05ga.pdf) · [Tonus Evangelii](files/DE/d05ge.pdf) · [Tonus ad libitum](files/DE/d05gl.pdf) |
-| 6 | [Dan 12:1–3](files/DE/d06ot.pdf) | [Rom 14:7–9, 10c–12](files/DE/d06ep.pdf) | <span class="gospel-reference" data-textus-key="DE/d06ga">Lc 12:35–40</span><br>[Tonus Antiquior](files/DE/d06ga.pdf) · [Tonus Evangelii](files/DE/d06ge.pdf) · [Tonus ad libitum](files/DE/d06gl.pdf) |
-| 7 | [2 Mac 12:43–46](files/DE/d07ot.pdf) | [1 Cor 15:20–24a, 25–28](files/DE/d07ep.pdf) | <span class="gospel-reference" data-textus-key="DE/d07ga">Lc 23:33, 39–43</span><br>[Tonus Antiquior](files/DE/d07ga.pdf) · [Tonus Evangelii](files/DE/d07ge.pdf) · [Tonus ad libitum](files/DE/d07gl.pdf) |
-| 8 | — | [1 Cor 15:51–57](files/DE/d08ep.pdf) | <span class="gospel-reference" data-textus-key="DE/d08ga">Lc 23:44–46, 50, 52–53; 24:1–6a</span><br>[Tonus Antiquior](files/DE/d08ga.pdf) · [Tonus Evangelii](files/DE/d08ge.pdf) · [Tonus ad libitum](files/DE/d08gl.pdf) |
-| 9 | — | [2 Cor 4:14–5:1](files/DE/d09ep.pdf) | <span class="gospel-reference" data-textus-key="DE/d09ga">Lc 24:13–35</span><br>[Tonus Antiquior](files/DE/d09ga.pdf) · [Tonus Evangelii](files/DE/d09ge.pdf) · [Tonus ad libitum](files/DE/d09gl.pdf) |
-| 10 | — | [2 Cor 5:1, 6–10](files/DE/d10ep.pdf) | <span class="gospel-reference" data-textus-key="DE/d10ga">Io 5:24–29</span><br>[Tonus Antiquior](files/DE/d10ga.pdf) · [Tonus Evangelii](files/DE/d10ge.pdf) · [Tonus ad libitum](files/DE/d10gl.pdf) |
-| 11 | — | [Phil 3:20–21](files/DE/d11ep.pdf) | <span class="gospel-reference" data-textus-key="DE/d11ga">Io 6:37–40</span><br>[Tonus Antiquior](files/DE/d11ga.pdf) · [Tonus Evangelii](files/DE/d11ge.pdf) · [Tonus ad libitum](files/DE/d11gl.pdf) |
-| 12 | — | [1 Th 4:13–18](files/DE/d12ep.pdf) | <span class="gospel-reference" data-textus-key="DE/d12ga">Io 6:51–58</span><br>[Tonus Antiquior](files/DE/d12ga.pdf) · [Tonus Evangelii](files/DE/d12ge.pdf) · [Tonus ad libitum](files/DE/d12gl.pdf) |
-| 13 | — | [2 Tim 2:8–13](files/DE/d13ep.pdf) | <span class="gospel-reference" data-textus-key="DE/d13ga">Io 11:17–27</span><br>[Tonus Antiquior](files/DE/d13ga.pdf) · [Tonus Evangelii](files/DE/d13ge.pdf) · [Tonus ad libitum](files/DE/d13gl.pdf) |
-| 14 | — | [1 Io 3:1–2](files/DE/d14ep.pdf) | <span class="gospel-reference" data-textus-key="DE/d14ga">Io 11:32–45</span><br>[Tonus Antiquior](files/DE/d14ga.pdf) · [Tonus Evangelii](files/DE/d14ge.pdf) · [Tonus ad libitum](files/DE/d14gl.pdf) |
-| 15 | — | [1 Io 3:14–16](files/DE/d15ep.pdf) | <span class="gospel-reference" data-textus-key="DE/d15ga">Io 12:23–28</span><br>[Tonus Antiquior](files/DE/d15ga.pdf) · [Tonus Evangelii](files/DE/d15ge.pdf) · [Tonus ad libitum](files/DE/d15gl.pdf) |
-| 16 | — | — | <span class="gospel-reference" data-textus-key="DE/d16ga">Io 14:1–6</span><br>[Tonus Antiquior](files/DE/d16ga.pdf) · [Tonus Evangelii](files/DE/d16ge.pdf) · [Tonus ad libitum](files/DE/d16gl.pdf) |
-| 17 | — | — | <span class="gospel-reference" data-textus-key="DE/d17ga">Io 17:24–26</span><br>[Tonus Antiquior](files/DE/d17ga.pdf) · [Tonus Evangelii](files/DE/d17ge.pdf) · [Tonus ad libitum](files/DE/d17gl.pdf) |
-| 18 | — | — | <span class="gospel-reference" data-textus-key="DE/d18ga">Io 19:17–18, 25–39</span><br>[Tonus Antiquior](files/DE/d18ga.pdf) · [Tonus Evangelii](files/DE/d18ge.pdf) · [Tonus ad libitum](files/DE/d18gl.pdf) |
+#### LECTIONES I E VETERE TESTAMENTO
+
+| N. | Lectio Prima |
+| --- | --- |
+| 1 | [2 Mac 12:43–46](files/DE/d01ot.pdf) |
+| 2 | [Iob 19:1, 23–27a](files/DE/d02ot.pdf) |
+| 3 | <span class="reading-form">Forma Longior</span> [Sap 3:1–9](files/DE/d03ot.pdf)<br><br><span class="reading-form">Forma Brevior</span> [Sap 3:1–6, 9](files/DE/d03ot_br.pdf) |
+| 4 | [Sap 4:7–15](files/DE/d04ot.pdf) |
+| 5 | [Is 25:6a, 7–9](files/DE/d05ot.pdf) |
+| 6 | [Lam 3:17–26](files/DE/d06ot.pdf) |
+| 7 | [Dan 12:1–3](files/DE/d07ot.pdf) |
+
+#### LECTIONES I E NOVO TESTAMENTO TEMPORE PASCHALI
+
+| N. | Lectio Prima |
+| --- | --- |
+| 1 | <span class="reading-form">Forma Longior</span> [Act 10:34–43](files/DE/d01ac.pdf)<br><br><span class="reading-form">Forma Brevior</span> [Act 10:34–36, 42–43](files/DE/d01ac_br.pdf) |
+| 2 | [Ap 14:13](files/DE/d02ap.pdf) |
+| 3 | [Ap 20:11–21:1](files/DE/d03ap.pdf) |
+| 4 | [Ap 21:1–5a, 6b–7](files/DE/d04ap.pdf) |
+
+#### LECTIONES II E NOVO TESTAMENTO
+
+| N. | Lectio Secunda |
+| --- | --- |
+| 1 | [Rom 5:5–11](files/DE/d01ep.pdf) |
+| 2 | [Rom 5:17–21](files/DE/d02ep.pdf) |
+| 3 | <span class="reading-form">Forma Longior</span> [Rom 6:3–9](files/DE/d03ep.pdf)<br><br><span class="reading-form">Forma Brevior</span> [Rom 6:3–4, 8–9](files/DE/d03ep_br.pdf) |
+| 4 | [Rom 8:14–23](files/DE/d04ep.pdf) |
+| 5 | [Rom 8:31b–35, 37–39](files/DE/d05ep.pdf) |
+| 6 | [Rom 14:7–9, 10c–12](files/DE/d06ep.pdf) |
+| 7 | <span class="reading-form">Forma Longior</span> [1 Cor 15:20–24a, 25–28](files/DE/d07ep.pdf)<br><br><span class="reading-form">Forma Brevior</span> [1 Cor 15:20–23](files/DE/d07ep_br.pdf) |
+| 8 | [1 Cor 15:51–57](files/DE/d08ep.pdf) |
+| 9 | [2 Cor 4:14–5:1](files/DE/d09ep.pdf) |
+| 10 | [2 Cor 5:1, 6–10](files/DE/d10ep.pdf) |
+| 11 | [Phil 3:20–21](files/DE/d11ep.pdf) |
+| 12 | [1 Th 4:13–18](files/DE/d12ep.pdf) |
+| 13 | [2 Tim 2:8–13](files/DE/d13ep.pdf) |
+| 14 | [1 Io 3:1–2](files/DE/d14ep.pdf) |
+| 15 | [1 Io 3:14–16](files/DE/d15ep.pdf) |
+
+#### EVANGELIA
+
+| N. | Evangelium |
+| --- | --- |
+| 1 | <span class="gospel-reference" data-textus-key="DE/d01ga">Mt 5:1–12a</span><br>[Tonus Antiquior](files/DE/d01ga.pdf) · [Tonus Evangelii](files/DE/d01ge.pdf) · [Tonus ad libitum](files/DE/d01gl.pdf) |
+| 2 | <span class="gospel-reference" data-textus-key="DE/d02ga">Mt 11:25–30</span><br>[Tonus Antiquior](files/DE/d02ga.pdf) · [Tonus Evangelii](files/DE/d02ge.pdf) · [Tonus ad libitum](files/DE/d02gl.pdf) |
+| 3 | <span class="gospel-reference" data-textus-key="DE/d03ga">Mt 25:1–13</span><br>[Tonus Antiquior](files/DE/d03ga.pdf) · [Tonus Evangelii](files/DE/d03ge.pdf) · [Tonus ad libitum](files/DE/d03gl.pdf) |
+| 4 | <span class="gospel-reference" data-textus-key="DE/d04ga">Mt 25:31–46</span><br>[Tonus Antiquior](files/DE/d04ga.pdf) · [Tonus Evangelii](files/DE/d04ge.pdf) · [Tonus ad libitum](files/DE/d04gl.pdf) |
+| 5 | <span class="reading-form">Forma Longior</span> <span class="gospel-reference" data-textus-key="DE/d05ga">Mc 15:33–39; 16:1–6</span><br>[Tonus Antiquior](files/DE/d05ga.pdf) · [Tonus Evangelii](files/DE/d05ge.pdf) · [Tonus ad libitum](files/DE/d05gl.pdf)<br><br><span class="reading-form">Forma Brevior</span> <span class="gospel-reference" data-textus-key="DE/d05ga_br">Mc 15:33–39</span><br>[Tonus Antiquior](files/DE/d05ga_br.pdf) · [Tonus Evangelii](files/DE/d05ge_br.pdf) · [Tonus ad libitum](files/DE/d05gl_br.pdf) |
+| 6 | <span class="gospel-reference" data-textus-key="DE/d06ga">Lc 7:11–17</span><br>[Tonus Antiquior](files/DE/d06ga.pdf) · [Tonus Evangelii](files/DE/d06ge.pdf) · [Tonus ad libitum](files/DE/d06gl.pdf) |
+| 7 | <span class="gospel-reference" data-textus-key="DE/d07ga">Lc 12:35–40</span><br>[Tonus Antiquior](files/DE/d07ga.pdf) · [Tonus Evangelii](files/DE/d07ge.pdf) · [Tonus ad libitum](files/DE/d07gl.pdf) |
+| 8 | <span class="gospel-reference" data-textus-key="DE/d08ga">Lc 23:33, 39–43</span><br>[Tonus Antiquior](files/DE/d08ga.pdf) · [Tonus Evangelii](files/DE/d08ge.pdf) · [Tonus ad libitum](files/DE/d08gl.pdf) |
+| 9 | <span class="reading-form">Forma Longior</span> <span class="gospel-reference" data-textus-key="DE/d09ga">Lc 23:44–46, 50, 52–53; 24:1–6a</span><br>[Tonus Antiquior](files/DE/d09ga.pdf) · [Tonus Evangelii](files/DE/d09ge.pdf) · [Tonus ad libitum](files/DE/d09gl.pdf)<br><br><span class="reading-form">Forma Brevior</span> <span class="gospel-reference" data-textus-key="DE/d09ga_br">Lc 23:44–46, 50, 52–53</span><br>[Tonus Antiquior](files/DE/d09ga_br.pdf) · [Tonus Evangelii](files/DE/d09ge_br.pdf) · [Tonus ad libitum](files/DE/d09gl_br.pdf) |
+| 10 | <span class="reading-form">Forma Longior</span> <span class="gospel-reference" data-textus-key="DE/d10ga">Lc 24:13–35</span><br>[Tonus Antiquior](files/DE/d10ga.pdf) · [Tonus Evangelii](files/DE/d10ge.pdf) · [Tonus ad libitum](files/DE/d10gl.pdf)<br><br><span class="reading-form">Forma Brevior</span> <span class="gospel-reference" data-textus-key="DE/d10ga_br">Lc 24:13–16, 28–35</span><br>[Tonus Antiquior](files/DE/d10ga_br.pdf) · [Tonus Evangelii](files/DE/d10ge_br.pdf) · [Tonus ad libitum](files/DE/d10gl_br.pdf) |
+| 11 | <span class="gospel-reference" data-textus-key="DE/d11ga">Io 5:24–29</span><br>[Tonus Antiquior](files/DE/d11ga.pdf) · [Tonus Evangelii](files/DE/d11ge.pdf) · [Tonus ad libitum](files/DE/d11gl.pdf) |
+| 12 | <span class="gospel-reference" data-textus-key="DE/d12ga">Io 6:37–40</span><br>[Tonus Antiquior](files/DE/d12ga.pdf) · [Tonus Evangelii](files/DE/d12ge.pdf) · [Tonus ad libitum](files/DE/d12gl.pdf) |
+| 13 | <span class="gospel-reference" data-textus-key="DE/d13ga">Io 6:51–58</span><br>[Tonus Antiquior](files/DE/d13ga.pdf) · [Tonus Evangelii](files/DE/d13ge.pdf) · [Tonus ad libitum](files/DE/d13gl.pdf) |
+| 14 | <span class="reading-form">Forma Longior</span> <span class="gospel-reference" data-textus-key="DE/d14ga">Io 11:17–27</span><br>[Tonus Antiquior](files/DE/d14ga.pdf) · [Tonus Evangelii](files/DE/d14ge.pdf) · [Tonus ad libitum](files/DE/d14gl.pdf)<br><br><span class="reading-form">Forma Brevior</span> <span class="gospel-reference" data-textus-key="DE/d14ga_br">Io 11:21–27</span><br>[Tonus Antiquior](files/DE/d14ga_br.pdf) · [Tonus Evangelii](files/DE/d14ge_br.pdf) · [Tonus ad libitum](files/DE/d14gl_br.pdf) |
+| 15 | <span class="gospel-reference" data-textus-key="DE/d15ga">Io 11:32–45</span><br>[Tonus Antiquior](files/DE/d15ga.pdf) · [Tonus Evangelii](files/DE/d15ge.pdf) · [Tonus ad libitum](files/DE/d15gl.pdf) |
+| 16 | <span class="reading-form">Forma Longior</span> <span class="gospel-reference" data-textus-key="DE/d16ga">Io 12:23–28</span><br>[Tonus Antiquior](files/DE/d16ga.pdf) · [Tonus Evangelii](files/DE/d16ge.pdf) · [Tonus ad libitum](files/DE/d16gl.pdf)<br><br><span class="reading-form">Forma Brevior</span> <span class="gospel-reference" data-textus-key="DE/d16ga_br">Io 12:23–26</span><br>[Tonus Antiquior](files/DE/d16ga_br.pdf) · [Tonus Evangelii](files/DE/d16ge_br.pdf) · [Tonus ad libitum](files/DE/d16gl_br.pdf) |
+| 17 | <span class="gospel-reference" data-textus-key="DE/d17ga">Io 14:1–6</span><br>[Tonus Antiquior](files/DE/d17ga.pdf) · [Tonus Evangelii](files/DE/d17ge.pdf) · [Tonus ad libitum](files/DE/d17gl.pdf) |
+| 18 | <span class="gospel-reference" data-textus-key="DE/d18ga">Io 17:24–26</span><br>[Tonus Antiquior](files/DE/d18ga.pdf) · [Tonus Evangelii](files/DE/d18ge.pdf) · [Tonus ad libitum](files/DE/d18gl.pdf) |
+| 19 | <span class="gospel-reference" data-textus-key="DE/d19ga">Io 19:17–18, 25–39</span><br>[Tonus Antiquior](files/DE/d19ga.pdf) · [Tonus Evangelii](files/DE/d19ge.pdf) · [Tonus ad libitum](files/DE/d19gl.pdf) |
 
 ## Fontes
 
