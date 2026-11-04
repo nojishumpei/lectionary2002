@@ -57,3 +57,5 @@ The checked-in `assets/data/textus.json` supplies the Textus reader. The maintai
 Gospel Textus introductions use the short announcement “Léctio sancti Evangélii secúndum …”, without the opening dialogue or responses. This also applies to readings with custom sung introductions. The PDF scores retain their full sung dialogues.
 
 Ad-libitum Gospel settings use `xxxgl.tex` / `xxxgl.pdf` (or `xxxgl_br` for a short form). They share the reading reference and Textus body with the other Gospel tones. Their heading uses `\tone{Tonus ad libitum}`.
+
+In an ad libitum cadence with `hf` followed by `f.`, the `f` within `hf` is short. An Ancient-tone `g.` followed by `g.` therefore becomes `hf` followed by `f.`, without a mora on `hf`. Do not transfer the Ancient-tone mora to make `hf.`.
