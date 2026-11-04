@@ -578,15 +578,15 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 | Missa | Lectio Prima | Lectio Secunda | Evangelium | Dies |
 | --- | --- | --- | --- | --- |
-| Ad Missam in Vigilia | [Ier 1:4–10](files/SA/njvot.pdf) | [1 Petr 1:8–12](files/SA/njvep.pdf) | <span class="gospel-reference" data-textus-key="SA/njvga">Lc 1:5–17</span><br>[Tonus Antiquior](files/SA/njvga.pdf) · [Tonus Evangelii](files/SA/njvge.pdf) · [Tonus ad libitum](files/SA/njvgl.pdf) | 24 Iun. |
-| — | [Is 49:1–6](files/SA/njbot.pdf) | [Act 13:22–26](files/SA/njbac.pdf) | <span class="gospel-reference" data-textus-key="SA/njbga">Lc 1:57–66, 80</span><br>[Tonus Antiquior](files/SA/njbga.pdf) · [Tonus Evangelii](files/SA/njbge.pdf) · [Tonus ad libitum](files/SA/njbgl.pdf) | — |
+| Ad Missam in Vigilia | [Ier 1:4–10](files/SA/njvot.pdf) | [1 Petr 1:8–12](files/SA/njvep.pdf) | <span class="gospel-reference" data-textus-key="SA/njvga">Lc 1:5–17</span><br>[Tonus Antiquior](files/SA/njvga.pdf) · [Tonus Evangelii](files/SA/njvge.pdf) · [Tonus ad libitum](files/SA/njvgl.pdf) | 23 Iun. |
+| Ad Missam in die | [Is 49:1–6](files/SA/njbot.pdf) | [Act 13:22–26](files/SA/njbac.pdf) | <span class="gospel-reference" data-textus-key="SA/njbga">Lc 1:57–66, 80</span><br>[Tonus Antiquior](files/SA/njbga.pdf) · [Tonus Evangelii](files/SA/njbge.pdf) · [Tonus ad libitum](files/SA/njbgl.pdf) | 24 Iun. |
 
 ### SS. PETRI ET PAULI, APOSTOLORUM
 
 | Missa | Lectio Prima | Lectio Secunda | Evangelium | Dies |
 | --- | --- | --- | --- | --- |
-| Ad Missam in Vigilia | [Act 3:1–10](files/SA/ppvac.pdf) | [Gal 1:11–20](files/SA/ppvep.pdf) | <span class="gospel-reference" data-textus-key="SA/ppvga">Io 21:15–19</span><br>[Tonus Antiquior](files/SA/ppvga.pdf) · [Tonus Evangelii](files/SA/ppvge.pdf) · [Tonus ad libitum](files/SA/ppvgl.pdf) | 29 Iun. |
-| — | [Act 12:1–11](files/SA/sppac.pdf) | [2 Tim 4:6–8, 17–18](files/SA/sppep.pdf) | <span class="gospel-reference" data-textus-key="SA/sppga">Mt 16:13–19</span><br>[Tonus Antiquior](files/SA/sppga.pdf) · [Tonus Evangelii](files/SA/sppge.pdf) · [Tonus ad libitum](files/SA/sppgl.pdf) | — |
+| Ad Missam in Vigilia | [Act 3:1–10](files/SA/ppvac.pdf) | [Gal 1:11–20](files/SA/ppvep.pdf) | <span class="gospel-reference" data-textus-key="SA/ppvga">Io 21:15–19</span><br>[Tonus Antiquior](files/SA/ppvga.pdf) · [Tonus Evangelii](files/SA/ppvge.pdf) · [Tonus ad libitum](files/SA/ppvgl.pdf) | 28 Iun. |
+| Ad Missam in die | [Act 12:1–11](files/SA/sppac.pdf) | [2 Tim 4:6–8, 17–18](files/SA/sppep.pdf) | <span class="gospel-reference" data-textus-key="SA/sppga">Mt 16:13–19</span><br>[Tonus Antiquior](files/SA/sppga.pdf) · [Tonus Evangelii](files/SA/sppge.pdf) · [Tonus ad libitum](files/SA/sppgl.pdf) | 29 Iun. |
 
 ### SS. IOACHIM ET ANNÆ, PARENTUM BEATÆ MARIÆ VIRGINIS
 
@@ -606,8 +606,8 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 | Missa | Lectio Prima | Lectio Secunda | Evangelium | Dies |
 | --- | --- | --- | --- | --- |
-| Ad Missam in Vigilia | [1 Chr 15:3–4, 15–16; 16:1–2](files/SA/asvot.pdf) | [1 Cor 15:54b–57](files/SA/asvep.pdf) | <span class="gospel-reference" data-textus-key="SA/asvga">Lc 11:27–28</span><br>[Tonus Antiquior](files/SA/asvga.pdf) · [Tonus Evangelii](files/SA/asvge.pdf) · [Tonus ad libitum](files/SA/asvgl.pdf) | 15 Aug. |
-| — | [Ap 11:19a; 12:1–6a, 10ab](files/SA/asmap.pdf) | [1 Cor 15:20–27](files/SA/asmep.pdf) | <span class="gospel-reference" data-textus-key="SA/asmga">Lc 1:39–56</span><br>[Tonus Antiquior](files/SA/asmga.pdf) · [Tonus Evangelii](files/SA/asmge.pdf) · [Tonus ad libitum](files/SA/asmgl.pdf) | — |
+| Ad Missam in Vigilia | [1 Chr 15:3–4, 15–16; 16:1–2](files/SA/asvot.pdf) | [1 Cor 15:54b–57](files/SA/asvep.pdf) | <span class="gospel-reference" data-textus-key="SA/asvga">Lc 11:27–28</span><br>[Tonus Antiquior](files/SA/asvga.pdf) · [Tonus Evangelii](files/SA/asvge.pdf) · [Tonus ad libitum](files/SA/asvgl.pdf) | 14 Aug. |
+| Ad Missam in die | [Ap 11:19a; 12:1–6a, 10ab](files/SA/asmap.pdf) | [1 Cor 15:20–27](files/SA/asmep.pdf) | <span class="gospel-reference" data-textus-key="SA/asmga">Lc 1:39–56</span><br>[Tonus Antiquior](files/SA/asmga.pdf) · [Tonus Evangelii](files/SA/asmge.pdf) · [Tonus ad libitum](files/SA/asmgl.pdf) | 15 Aug. |
 
 ### IN EXALTATIONE SANCTÆ CRUCIS
 
