@@ -36,7 +36,7 @@ Each reading stores its heading fields separately. For example:
 
 `files/common/preamble.tex` controls the presentation: the celebration title is uppercase in `\small`, the reading designation is uppercase in `\large\bfseries`, and the supporting details and red reference are in `\normalsize`. The year is printed as `Anno A`; the supporting line places the tone before the reading form. Empty optional fields are omitted, including their separators.
 
-Use `\massdesignation{Ad Missam in Vigilia}` for a particular Mass, `\readingnumber{13}` for a sequential reading option (printed as `N. 13`), and `\readingnote{Ad Libitum}` for an additional qualification. These fields are independent of the year cycle. A shorter reading uses `\readingform{Forma Brevior}` even when no chant tone is specified.
+Use `\massdesignation{Ad Missam in Vigilia}` for a particular Mass, `\readingnumber{13}` for a sequential reading option (printed as `N. 13`), and `\readingnote{Ad Libitum}` for an additional qualification. These fields are independent of the year cycle. A shorter reading uses `\readingform{Forma Brevior}` even when no chant tone is specified. When a shorter form exists, its longer counterpart uses `\readingform{Forma Longior}`. Label both forms in the catalogue; retain the existing source and PDF filenames.
 
 Scriptural references use the Latin book abbreviations from the *Ordo lectionum Missæ*, a colon between chapter and verse, an en dash (`--` in TeX) for a range, and lowercase verse-part letters: `Gen~22:1--2, 9a, 10--13, 15--18`. The `~` keeps a book abbreviation with its reference. Reading selections follow the reviewed OLM boundaries, with expressly retained older forms where chosen.
 
