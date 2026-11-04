@@ -1518,6 +1518,31 @@
       "CH/cd3gl.pdf"
     ]
   },
+  "CH/cd3ga_br": {
+    "id": "CH/cd3ga_br",
+    "celebration": "IN NATIVITATE DOMINI",
+    "reading": "Evangelium",
+    "year": "",
+    "reference": "Io 1:1–5, 9–14",
+    "form": "Forma Brevior",
+    "mass": "Ad Missam in Die",
+    "number": "",
+    "tone": "Tonus Antiquior",
+    "intro": "Léctio sancti Evangélii secúndum Ioánnem",
+    "paragraphs": [
+      "In princípio erat Verbum, et Verbum erat apud Deum, et Deus erat Verbum.",
+      "Hoc erat in princípio apud Deum.",
+      "Omnia per ipsum facta sunt, et sine ipso factum est nihil, quod factum est, in ipso vita erat et vita erat lux hóminum, et lux in ténebris lucet, et ténebræ eam non comprehendérunt.",
+      "Erat lux vera, quæ illúminat omnem hóminem, véniens in mundum. In mundo erat, et mundus per ipsum factus est, et mundus eum non cognóvit. In própria venit, et sui eum non recepérunt.",
+      "Quotquot autem recepérunt eum, dedit eis potestátem fílios Dei fíeri, his qui credunt in nómine eius, qui non ex sanguínibus, neque ex voluntáte carnis, neque ex voluntáte viri, sed ex Deo nati sunt.",
+      "Et Verbum caro factum est, et habitávit in nobis, et vídimus glóriam eius, glóriam quasi Unigéniti a Patre, plenum grátiæ et veritátis."
+    ],
+    "pdfs": [
+      "CH/cd3ga_br.pdf",
+      "CH/cd3ge_br.pdf",
+      "CH/cd3gl_br.pdf"
+    ]
+  },
   "CH/cd3ge": {
     "id": "CH/cd3ge",
     "celebration": "IN NATIVITATE DOMINI",
@@ -1543,6 +1568,29 @@
     ],
     "pdfs": [
       "CH/cd3ge.pdf"
+    ]
+  },
+  "CH/cd3ge_br": {
+    "id": "CH/cd3ge_br",
+    "celebration": "IN NATIVITATE DOMINI",
+    "reading": "Evangelium",
+    "year": "",
+    "reference": "Io 1:1–5, 9–14",
+    "form": "Forma Brevior",
+    "mass": "Ad Missam in Die",
+    "number": "",
+    "tone": "Tonus Evangelii",
+    "intro": "Léctio sancti Evangélii secúndum Ioánnem",
+    "paragraphs": [
+      "In princípio erat Verbum, et Verbum erat apud Deum, et Deus erat Verbum.",
+      "Hoc erat in princípio apud Deum.",
+      "Omnia per ipsum facta sunt, et sine ipso factum est nihil, quod factum est, in ipso vita erat et vita erat lux hóminum, et lux in ténebris lucet, et ténebræ eam non comprehendérunt.",
+      "Erat lux vera, quæ illúminat omnem hóminem, véniens in mundum. In mundo erat, et mundus per ipsum factus est, et mundus eum non cognóvit. In própria venit, et sui eum non recepérunt.",
+      "Quotquot autem recepérunt eum, dedit eis potestátem fílios Dei fíeri, his qui credunt in nómine eius, qui non ex sanguínibus, neque ex voluntáte carnis, neque ex voluntáte viri, sed ex Deo nati sunt.",
+      "Et Verbum caro factum est, et habitávit in nobis, et vídimus glóriam eius, glóriam quasi Unigéniti a Patre, plenum grátiæ et veritátis."
+    ],
+    "pdfs": [
+      "CH/cd3ge_br.pdf"
     ]
   },
   "CH/cd3ot": {
@@ -1615,6 +1663,30 @@
       "CH/cvggl.pdf"
     ]
   },
+  "CH/cvgga_br": {
+    "id": "CH/cvgga_br",
+    "celebration": "IN NATIVITATE DOMINI",
+    "reading": "Evangelium",
+    "year": "",
+    "reference": "Mt 1:18–25",
+    "form": "Forma Brevior",
+    "mass": "Ad Missam in Vigilia",
+    "number": "",
+    "tone": "Tonus Antiquior",
+    "intro": "Léctio sancti Evangélii secúndum Matthǽum",
+    "paragraphs": [
+      "Iesu Christi generátio sic erat.",
+      "Cum esset desponsáta mater eius María Ioseph, ántequam convenírent invénta est in útero habens de Spíritu Sancto. Ioseph autem vir eius, cum esset iustus et nollet eam tradúcere, vóluit occúlte dimíttere eam.",
+      "Hæc autem eo cogitánte, ecce ángelus Dómini in somnis appáruit ei dicens: « Ioseph, fili David, noli timére accípere Maríam cóniugem tuam; quod enim in ea natum est, de Spíritu Sancto est. Páriet autem fílium, et vocábis nomen eius Iesum: ipse enim salvum fáciet pópulum suum a peccátis eórum ».",
+      "Hoc autem totum factum est ut adimplerétur id quod dictum est a Dómino per Prophétam dicéntem: « Ecce virgo in útero habébit et páriet fílium, et vocábunt nomen eius Emmánuel », quod est interpretátum Nobíscum-Deus.",
+      "Exsúrgens autem Ioseph a somno, fecit sicut præcépit ei ángelus Dómini, et accépit cóniugem suam. Et non cognoscébat eam donec péperit fílium: et vocávit nomen Iesum."
+    ],
+    "pdfs": [
+      "CH/cvgga_br.pdf",
+      "CH/cvgge_br.pdf",
+      "CH/cvggl_br.pdf"
+    ]
+  },
   "CH/cvgge": {
     "id": "CH/cvgge",
     "celebration": "IN NATIVITATE DOMINI",
@@ -1640,6 +1712,28 @@
     ],
     "pdfs": [
       "CH/cvgge.pdf"
+    ]
+  },
+  "CH/cvgge_br": {
+    "id": "CH/cvgge_br",
+    "celebration": "IN NATIVITATE DOMINI",
+    "reading": "Evangelium",
+    "year": "",
+    "reference": "Mt 1:18–25",
+    "form": "Forma Brevior",
+    "mass": "Ad Missam in Vigilia",
+    "number": "",
+    "tone": "Tonus Evangelii",
+    "intro": "Léctio sancti Evangélii secúndum Matthǽum",
+    "paragraphs": [
+      "Iesu Christi generátio sic erat.",
+      "Cum esset desponsáta mater eius María Ioseph, ántequam convenírent invénta est in útero habens de Spíritu Sancto. Ioseph autem vir eius, cum esset iustus et nollet eam tradúcere, vóluit occúlte dimíttere eam.",
+      "Hæc autem eo cogitánte, ecce ángelus Dómini in somnis appáruit ei dicens: « Ioseph, fili David, noli timére accípere Maríam cóniugem tuam; quod enim in ea natum est, de Spíritu Sancto est. Páriet autem fílium, et vocábis nomen eius Iesum: ipse enim salvum fáciet pópulum suum a peccátis eórum ».",
+      "Hoc autem totum factum est ut adimplerétur id quod dictum est a Dómino per Prophétam dicéntem: « Ecce virgo in útero habébit et páriet fílium, et vocábunt nomen eius Emmánuel », quod est interpretátum Nobíscum-Deus.",
+      "Exsúrgens autem Ioseph a somno, fecit sicut præcépit ei ángelus Dómini, et accépit cóniugem suam. Et non cognoscébat eam donec péperit fílium: et vocávit nomen Iesum."
+    ],
+    "pdfs": [
+      "CH/cvgge_br.pdf"
     ]
   },
   "CH/cvgot": {
@@ -1711,6 +1805,31 @@
       "CH/do2gl.pdf"
     ]
   },
+  "CH/do2ga_br": {
+    "id": "CH/do2ga_br",
+    "celebration": "DOMINICA II POST NATIVITATEM",
+    "reading": "Evangelium",
+    "year": "",
+    "reference": "Io 1:1–5, 9–14",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "Tonus Antiquior",
+    "intro": "Léctio sancti Evangélii secúndum Ioánnem",
+    "paragraphs": [
+      "In princípio erat Verbum, et Verbum erat apud Deum, et Deus erat Verbum.",
+      "Hoc erat in princípio apud Deum.",
+      "Omnia per ipsum facta sunt, et sine ipso factum est nihil, quod factum est, in ipso vita erat et vita erat lux hóminum, et lux in ténebris lucet, et ténebræ eam non comprehendérunt.",
+      "Erat lux vera, quæ illúminat omnem hóminem, véniens in mundum. In mundo erat, et mundus per ipsum factus est, et mundus eum non cognóvit. In própria venit, et sui eum non recepérunt.",
+      "Quotquot autem recepérunt eum, dedit eis potestátem fílios Dei fíeri, his qui credunt in nómine eius, qui non ex sanguínibus, neque ex voluntáte carnis, neque ex voluntáte viri, sed ex Deo nati sunt.",
+      "Et Verbum caro factum est, et habitávit in nobis, et vídimus glóriam eius, glóriam quasi Unigéniti a Patre, plenum grátiæ et veritátis."
+    ],
+    "pdfs": [
+      "CH/do2ga_br.pdf",
+      "CH/do2ge_br.pdf",
+      "CH/do2gl_br.pdf"
+    ]
+  },
   "CH/do2ge": {
     "id": "CH/do2ge",
     "celebration": "DOMINICA II POST NATIVITATEM",
@@ -1736,6 +1855,29 @@
     ],
     "pdfs": [
       "CH/do2ge.pdf"
+    ]
+  },
+  "CH/do2ge_br": {
+    "id": "CH/do2ge_br",
+    "celebration": "DOMINICA II POST NATIVITATEM",
+    "reading": "Evangelium",
+    "year": "",
+    "reference": "Io 1:1–5, 9–14",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "Tonus Evangelii",
+    "intro": "Léctio sancti Evangélii secúndum Ioánnem",
+    "paragraphs": [
+      "In princípio erat Verbum, et Verbum erat apud Deum, et Deus erat Verbum.",
+      "Hoc erat in princípio apud Deum.",
+      "Omnia per ipsum facta sunt, et sine ipso factum est nihil, quod factum est, in ipso vita erat et vita erat lux hóminum, et lux in ténebris lucet, et ténebræ eam non comprehendérunt.",
+      "Erat lux vera, quæ illúminat omnem hóminem, véniens in mundum. In mundo erat, et mundus per ipsum factus est, et mundus eum non cognóvit. In própria venit, et sui eum non recepérunt.",
+      "Quotquot autem recepérunt eum, dedit eis potestátem fílios Dei fíeri, his qui credunt in nómine eius, qui non ex sanguínibus, neque ex voluntáte carnis, neque ex voluntáte viri, sed ex Deo nati sunt.",
+      "Et Verbum caro factum est, et habitávit in nobis, et vídimus glóriam eius, glóriam quasi Unigéniti a Patre, plenum grátiæ et veritátis."
+    ],
+    "pdfs": [
+      "CH/do2ge_br.pdf"
     ]
   },
   "CH/do2ot": {
@@ -4960,6 +5102,36 @@
       "EA/c03gl.pdf"
     ]
   },
+  "EA/c03ga_br": {
+    "id": "EA/c03ga_br",
+    "celebration": "DOMINICA III PASCHÆ",
+    "reading": "Evangelium",
+    "year": "C",
+    "reference": "Io 21:1–14",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "Tonus Antiquior",
+    "intro": "Léctio sancti Evangélii secúndum Ioánnem",
+    "paragraphs": [
+      "In illo témpore:",
+      "Manifestávit se íterum Iesus discípulis ad mare Tiberíadis: manifestávit autem sic.",
+      "Erant simul Simon Petrus et Thomas qui dícitur Dídymus et Nathánael qui erat a Cana Galilǽæ et fílii Zebedǽi et álii ex discípulis eius duo. Dicit eis Simon Petrus: « Vado piscári ». Dicunt ei: « Venímus et nos tecum ». Exiérunt et ascendérunt in navem, et illa nocte nihil prendidérunt.",
+      "Mane autem iam facto, stetit Iesus in lítore; non tamen sciébant discípuli quia Iesus est. Dicit ergo eis Iesus: « Púeri, ¿numquid pulmentárium habétis? »",
+      "Respondérunt ei: « Non ».",
+      "Ille autem dixit eis: « Míttite in déxteram navígii rete, et inveniétis ». Misérunt ergo, et iam non valébant illud tráhere a multitúdine píscium.",
+      "Dicit ergo discípulus ille, quem diligébat Iesus, Petro: « Dóminus est ». Simon ergo Petrus, cum audísset quia Dóminus est, túnicam succínxit se, erat enim nudus, et misit se in mare; álii autem discípuli navígio venérunt, non enim longe erant a terra sed quasi cúbitis ducéntis, trahéntes rete píscium.",
+      "Ut ergo descendérunt in terram vident prunas pósitas et piscem superpósitum et panem.",
+      "Dicit eis Iesus: « Afférte de píscibus quos prendidístis nunc ». Ascéndit Simon Petrus, et traxit rete in terram plenum magnis píscibus, centum quinquagínta tribus: et cum tanti essent, non est scissum rete.",
+      "Dicit eis Iesus: « Veníte, prandéte ». Nemo autem audébat discipulórum interrogáre eum: « ¿Tu quis es? », sciéntes quia Dóminus est. Venit Iesus et áccipit panem et dat eis, et piscem simíliter.",
+      "Hoc iam tértio manifestátus est Iesus discípulis cum resurrexísset a mórtuis."
+    ],
+    "pdfs": [
+      "EA/c03ga_br.pdf",
+      "EA/c03ge_br.pdf",
+      "EA/c03gl_br.pdf"
+    ]
+  },
   "EA/c03ge": {
     "id": "EA/c03ge",
     "celebration": "DOMINICA III PASCHÆ",
@@ -4996,6 +5168,34 @@
     ],
     "pdfs": [
       "EA/c03ge.pdf"
+    ]
+  },
+  "EA/c03ge_br": {
+    "id": "EA/c03ge_br",
+    "celebration": "DOMINICA III PASCHÆ",
+    "reading": "Evangelium",
+    "year": "C",
+    "reference": "Io 21:1–14",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "Tonus Evangelii",
+    "intro": "Léctio sancti Evangélii secúndum Ioánnem",
+    "paragraphs": [
+      "In illo témpore:",
+      "Manifestávit se íterum Iesus discípulis ad mare Tiberíadis: manifestávit autem sic.",
+      "Erant simul Simon Petrus et Thomas qui dícitur Dídymus et Nathánael qui erat a Cana Galilǽæ et fílii Zebedǽi et álii ex discípulis eius duo. Dicit eis Simon Petrus: « Vado piscári ». Dicunt ei: « Venímus et nos tecum ». Exiérunt et ascendérunt in navem, et illa nocte nihil prendidérunt.",
+      "Mane autem iam facto, stetit Iesus in lítore; non tamen sciébant discípuli quia Iesus est. Dicit ergo eis Iesus: « Púeri, ¿numquid pulmentárium habétis? »",
+      "Respondérunt ei: « Non ».",
+      "Ille autem dixit eis: « Míttite in déxteram navígii rete, et inveniétis ». Misérunt ergo, et iam non valébant illud tráhere a multitúdine píscium.",
+      "Dicit ergo discípulus ille, quem diligébat Iesus, Petro: « Dóminus est ». Simon ergo Petrus, cum audísset quia Dóminus est, túnicam succínxit se, erat enim nudus, et misit se in mare; álii autem discípuli navígio venérunt, non enim longe erant a terra sed quasi cúbitis ducéntis, trahéntes rete píscium.",
+      "Ut ergo descendérunt in terram vident prunas pósitas et piscem superpósitum et panem.",
+      "Dicit eis Iesus: « Afférte de píscibus quos prendidístis nunc ». Ascéndit Simon Petrus, et traxit rete in terram plenum magnis píscibus, centum quinquagínta tribus: et cum tanti essent, non est scissum rete.",
+      "Dicit eis Iesus: « Veníte, prandéte ». Nemo autem audébat discipulórum interrogáre eum: « ¿Tu quis es? », sciéntes quia Dóminus est. Venit Iesus et áccipit panem et dat eis, et piscem simíliter.",
+      "Hoc iam tértio manifestátus est Iesus discípulis cum resurrexísset a mórtuis."
+    ],
+    "pdfs": [
+      "EA/c03ge_br.pdf"
     ]
   },
   "EA/c04ac": {
@@ -5963,6 +6163,26 @@
       "EA/evgl1.pdf"
     ]
   },
+  "EA/evgl1_br": {
+    "id": "EA/evgl1_br",
+    "celebration": "DOMINICA PASCHÆ IN RESURRECTIONE DOMINI",
+    "reading": "Lectio Prima",
+    "year": "",
+    "reference": "Gen 1:1, 26–31a",
+    "form": "Forma Brevior",
+    "mass": "Vigilia Paschalis in Nocte Sancta",
+    "number": "",
+    "tone": "",
+    "intro": "Léctio libri Génesis",
+    "paragraphs": [
+      "In princípio creávit Deus cælum et terram.",
+      "Et ait: « Faciámus hóminem ad imáginem et similitúdinem nostram; et præsit píscibus maris et volatílibus cæli et béstiis universǽque terræ omníque réptili, quod movétur in terra ». Et creávit Deus hóminem ad imáginem suam; ad imáginem Dei creávit illum: másculum et féminam creávit eos.",
+      "Benedixítque illis Deus et ait: « Créscite et multiplicámini, et repléte terram et subícite eam; et dominámini píscibus maris et volatílibus cæli et univérsis animántibus, quæ movéntur super terram ». Dixítque Deus: « Ecce dedi vobis omnem herbam afferéntem semen super terram et univérsa ligna, quæ habent in semetípsis seméntem géneris sui, ut sint vobis in escam et cunctis animántibus terræ omníque vólucri cæli et univérsis quæ movéntur in terra et in quibus est ánima vivens, ut hábeant ad vescéndum ». Et factum est ita. Vidítque Deus cuncta quæ fécerat, et erant valde bona."
+    ],
+    "pdfs": [
+      "EA/evgl1_br.pdf"
+    ]
+  },
   "EA/evgl2": {
     "id": "EA/evgl2",
     "celebration": "DOMINICA PASCHÆ IN RESURRECTIONE DOMINI",
@@ -5985,6 +6205,29 @@
     ],
     "pdfs": [
       "EA/evgl2.pdf"
+    ]
+  },
+  "EA/evgl2_br": {
+    "id": "EA/evgl2_br",
+    "celebration": "DOMINICA PASCHÆ IN RESURRECTIONE DOMINI",
+    "reading": "Lectio Secunda",
+    "year": "",
+    "reference": "Gen 22:1–2, 9a, 10–13, 15–18",
+    "form": "Forma Brevior",
+    "mass": "Vigilia Paschalis in Nocte Sancta",
+    "number": "",
+    "tone": "",
+    "intro": "Léctio libri Génesis",
+    "paragraphs": [
+      "In diébus illis:",
+      "Tentávit Deus Abraham et dixit ad eum: « Abraham, Abraham ». At ille respóndit: « Adsum ». Ait illi: « Tolle fílium tuum unigénitum, quem díligis, Isaac, et vade in terram visiónis, atque ibi ófferes eum in holocáustum super unum móntium, quem monstrávero tibi ».",
+      "Et venérunt ad locum, quem osténderat ei Deus, in quo ædificávit altáre, et désuper ligna compósuit.",
+      "Extendítque manum et arrípuit gládium, ut immoláret fílium suum.",
+      "Et ecce Angelus Dómini de cælo clamávit dicens: « Abraham, Abraham ». Qui respóndit: « Adsum ». Dixítque ei: « Non exténdas manum tuam super púerum, neque fácias illi quidquam: nunc cognóvi quod times Deum, et non pepercísti unigénito fílio tuo propter me ». Levávit Abraham óculos suos, vidítque post tergum aríetem inter vepres hæréntem córnibus, quem assúmens óbtulit holocáustum pro fílio.",
+      "Vocávit autem Angelus Dómini Abraham secúndo de cælo dicens: « Per memetípsum iurávi, dicit Dóminus: quia fecísti hanc rem et non pepercísti fílio tuo unigénito propter me, benedícam tibi et multiplicábo semen tuum sicut stellas cæli et velut arénam, quæ est in líttore maris; possidébit semen tuum portas inimicórum suórum, et benedicéntur in sémine tuo omnes gentes terræ, quia obœdísti voci meæ »."
+    ],
+    "pdfs": [
+      "EA/evgl2_br.pdf"
     ]
   },
   "EA/evgl3": {
@@ -7029,6 +7272,27 @@
     ],
     "pdfs": [
       "LT/a01ep.pdf"
+    ]
+  },
+  "LT/a01ep_br": {
+    "id": "LT/a01ep_br",
+    "celebration": "DOMINICA I QUADRAGESIMÆ",
+    "reading": "Lectio Secunda",
+    "year": "A",
+    "reference": "Rom 5:12, 17–19",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "",
+    "intro": "Léctio Epístolæ beáti Pauli apóstoli ad Romános",
+    "paragraphs": [
+      "Fratres:",
+      "Sicut per unum hóminem peccátum in hunc mundum intrávit et per peccátum mors, et ita in omnes hómines mors pertránsiit, eo quod omnes peccavérunt.",
+      "Si enim uníus delícto mors regnávit per unum, multo magis qui abundántiam grátiæ et donatiónis iustítiæ accípiunt, in vita regnábunt per unum Iesum Christum.",
+      "Igitur sicut per uníus delíctum in omnes hómines in condemnatiónem, sic et per uníus iustítiam in omnes hómines in iustificatiónem vitæ; sicut enim per inobœdiéntiam uníus hóminis peccatóres constitúti sunt multi, ita et per uníus obœditiónem iusti constituéntur multi."
+    ],
+    "pdfs": [
+      "LT/a01ep_br.pdf"
     ]
   },
   "LT/a01ga": {
@@ -8086,6 +8350,35 @@
       "LT/b03ot.pdf"
     ]
   },
+  "LT/b03ot_br": {
+    "id": "LT/b03ot_br",
+    "celebration": "DOMINICA III QUADRAGESIMÆ",
+    "reading": "Lectio Prima",
+    "year": "B",
+    "reference": "Ex 20:1–3, 7–8, 12–17",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "",
+    "intro": "Léctio libri Exodi",
+    "paragraphs": [
+      "In diébus illis:",
+      "Locútus est Dóminus cunctos sermónes hos:",
+      "« Ego sum Dóminus Deus tuus, qui edúxi te de terra Ægýpti, de domo servitútis.",
+      "Non habébis deos aliénos coram me.",
+      "Non assúmes nomen Dómini Dei tui in vanum; nec enim habébit insóntem Dóminus eum qui assúmpserit nomen Dómini Dei sui frustra.",
+      "Meménto ut diem sábbati sanctífices.",
+      "Honóra patrem tuum et matrem tuam, ut sis longǽvus super terram, quam Dóminus Deus tuus dabit tibi.",
+      "Non occídes.",
+      "Non mœcháberis.",
+      "Non furtum fácies.",
+      "Non loquéris contra próximum tuum falsum testimónium.",
+      "Non concupísces domum próximi tui; nec desiderábis uxórem eius, non servum, non ancíllam, non bovem, non ásinum, nec ómnia quæ illíus sunt »."
+    ],
+    "pdfs": [
+      "LT/b03ot_br.pdf"
+    ]
+  },
   "LT/b04ep": {
     "id": "LT/b04ep",
     "celebration": "DOMINICA IV QUADRAGESIMÆ",
@@ -8371,6 +8664,26 @@
     ],
     "pdfs": [
       "LT/c02ep.pdf"
+    ]
+  },
+  "LT/c02ep_br": {
+    "id": "LT/c02ep_br",
+    "celebration": "DOMINICA II QUADRAGESIMÆ",
+    "reading": "Lectio Secunda",
+    "year": "C",
+    "reference": "Phil 3:20–4:1",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "",
+    "intro": "Léctio Epístolæ beáti Pauli apóstoli ad Philippénses",
+    "paragraphs": [
+      "Fratres:",
+      "Noster municipátus in cælis est, unde étiam Salvatórem exspectámus Dóminum Iesum Christum, qui transfigurábit corpus humilitátis nostræ confórme fíeri córpori glóriæ suæ secúndum operatiónem qua possit étiam subícere sibi ómnia.",
+      "Itaque, fratres mei caríssimi et desideratíssimi, gáudium et coróna mea, sic state in Dómino, caríssimi."
+    ],
+    "pdfs": [
+      "LT/c02ep_br.pdf"
     ]
   },
   "LT/c02ga": {
@@ -9066,6 +9379,28 @@
       "OT/a03gl.pdf"
     ]
   },
+  "OT/a03ga_br": {
+    "id": "OT/a03ga_br",
+    "celebration": "DOMINICA III « PER ANNUM »",
+    "reading": "Evangelium",
+    "year": "A",
+    "reference": "Mt 4:12–17",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "Tonus Antiquior",
+    "intro": "Léctio sancti Evangélii secúndum Matthǽum",
+    "paragraphs": [
+      "Cum audísset Iesus quod Ioánnes tráditus esset, secéssit in Galilǽam. Et relícta Názareth venit et habitávit in Caphárnaum marítimam in fínibus Zábulon et Népthalim: ut implerétur quod dictum est per Isaíam prophétam dicéntem:",
+      "« Terra Zábulon et terra Népthalim, ad viam maris, trans Iordánem, Galilǽa géntium, pópulus qui sedébat in ténebris lucem vidit magnam, et sedéntibus in regióne et umbra mortis lux orta est eis ».",
+      "Exínde cœpit Iesus prædicáre et dícere: « Pæniténtiam ágite: appropinquávit enim Regnum cælórum »."
+    ],
+    "pdfs": [
+      "OT/a03ga_br.pdf",
+      "OT/a03ge_br.pdf",
+      "OT/a03gl_br.pdf"
+    ]
+  },
   "OT/a03ge": {
     "id": "OT/a03ge",
     "celebration": "DOMINICA III « PER ANNUM »",
@@ -9087,6 +9422,26 @@
     ],
     "pdfs": [
       "OT/a03ge.pdf"
+    ]
+  },
+  "OT/a03ge_br": {
+    "id": "OT/a03ge_br",
+    "celebration": "DOMINICA III « PER ANNUM »",
+    "reading": "Evangelium",
+    "year": "A",
+    "reference": "Mt 4:12–17",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "Tonus Evangelii",
+    "intro": "Léctio sancti Evangélii secúndum Matthǽum",
+    "paragraphs": [
+      "Cum audísset Iesus quod Ioánnes tráditus esset, secéssit in Galilǽam. Et relícta Názareth venit et habitávit in Caphárnaum marítimam in fínibus Zábulon et Népthalim: ut implerétur quod dictum est per Isaíam prophétam dicéntem:",
+      "« Terra Zábulon et terra Népthalim, ad viam maris, trans Iordánem, Galilǽa géntium, pópulus qui sedébat in ténebris lucem vidit magnam, et sedéntibus in regióne et umbra mortis lux orta est eis ».",
+      "Exínde cœpit Iesus prædicáre et dícere: « Pæniténtiam ágite: appropinquávit enim Regnum cælórum »."
+    ],
+    "pdfs": [
+      "OT/a03ge_br.pdf"
     ]
   },
   "OT/a03ot": {
@@ -11977,6 +12332,24 @@
       "OT/a32ep.pdf"
     ]
   },
+  "OT/a32ep_br": {
+    "id": "OT/a32ep_br",
+    "celebration": "DOMINICA XXXII « PER ANNUM »",
+    "reading": "Lectio Secunda",
+    "year": "A",
+    "reference": "1 Th 4:13–14",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "",
+    "intro": "Léctio Epístolæ primæ beáti Pauli apóstoli ad Thessalonicénses.",
+    "paragraphs": [
+      "Nólumus vos ignoráre, fratres, de dormiéntibus, ut non contristémini sicut et céteri qui spem non habent. Si enim crédimus quod Iesus mórtuus est et resurréxit, ita et Deus eos qui dormiérunt per Iesum addúcet cum eo."
+    ],
+    "pdfs": [
+      "OT/a32ep_br.pdf"
+    ]
+  },
   "OT/a32ga": {
     "id": "OT/a32ga",
     "celebration": "DOMINICA XXXII « PER ANNUM »",
@@ -12946,6 +13319,28 @@
       "OT/b09gl.pdf"
     ]
   },
+  "OT/b09ga_br": {
+    "id": "OT/b09ga_br",
+    "celebration": "DOMINICA IX « PER ANNUM »",
+    "reading": "Evangelium",
+    "year": "B",
+    "reference": "Mc 2:23–28",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "Tonus Antiquior",
+    "intro": "Léctio sancti Evangélii secúndum Marcum",
+    "paragraphs": [
+      "Factum est cum Dóminus sábbatis ambuláret per sata, discípuli eius cœpérunt prǽgredi velléntes spicas. Pharisǽi autem dicébant ei: « Ecce, ¿quid fáciunt sábbatis quod non licet? »",
+      "Et ait illis: « ¿Numquam legístis quid fécerit David quando necessitátem hábuit et esúriit ipse et qui cum eo erant? Quómodo introívit in domum Dei sub Abíathar príncipe sacerdótum et panes propositiónis manducávit, ¿quos non licet manducáre nisi sacerdótibus, et dedit étiam eis qui cum eo erant? »",
+      "Et dicébat eis: « Sábbatum propter hóminem factum est, et non homo propter sábbatum; ítaque dóminus est Fílius hóminis étiam sábbati »."
+    ],
+    "pdfs": [
+      "OT/b09ga_br.pdf",
+      "OT/b09ge_br.pdf",
+      "OT/b09gl_br.pdf"
+    ]
+  },
   "OT/b09ge": {
     "id": "OT/b09ge",
     "celebration": "DOMINICA IX « PER ANNUM »",
@@ -12967,6 +13362,26 @@
     ],
     "pdfs": [
       "OT/b09ge.pdf"
+    ]
+  },
+  "OT/b09ge_br": {
+    "id": "OT/b09ge_br",
+    "celebration": "DOMINICA IX « PER ANNUM »",
+    "reading": "Evangelium",
+    "year": "B",
+    "reference": "Mc 2:23–28",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "Tonus Evangelii",
+    "intro": "Léctio sancti Evangélii secúndum Marcum",
+    "paragraphs": [
+      "Factum est cum Dóminus sábbatis ambuláret per sata, discípuli eius cœpérunt prǽgredi velléntes spicas. Pharisǽi autem dicébant ei: « Ecce, ¿quid fáciunt sábbatis quod non licet? »",
+      "Et ait illis: « ¿Numquam legístis quid fécerit David quando necessitátem hábuit et esúriit ipse et qui cum eo erant? Quómodo introívit in domum Dei sub Abíathar príncipe sacerdótum et panes propositiónis manducávit, ¿quos non licet manducáre nisi sacerdótibus, et dedit étiam eis qui cum eo erant? »",
+      "Et dicébat eis: « Sábbatum propter hóminem factum est, et non homo propter sábbatum; ítaque dóminus est Fílius hóminis étiam sábbati »."
+    ],
+    "pdfs": [
+      "OT/b09ge_br.pdf"
     ]
   },
   "OT/b09ot": {
@@ -13314,6 +13729,34 @@
       "OT/b13gl.pdf"
     ]
   },
+  "OT/b13ga_br": {
+    "id": "OT/b13ga_br",
+    "celebration": "DOMINICA XIII « PER ANNUM »",
+    "reading": "Evangelium",
+    "year": "B",
+    "reference": "Mc 5:21–24, 35b–43",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "Tonus Antiquior",
+    "intro": "Léctio sancti Evangélii secúndum Marcum",
+    "paragraphs": [
+      "In illo témpore:",
+      "Cum transcendísset Iesus in navi rursus trans fretum, convénit turba multa ad illum, et erat circa mare.",
+      "Et venit quidam de archisynagógis, nómine Iáirus, et videns eum prócidit ad pedes eius, et deprecátur eum multum dicens: « Filíola mea in extrémis est, veni, impóne manus super eam ut salva sit et vivat ».",
+      "Et ábiit cum illo. Et sequebátur eum turba multa, et comprimébant illum.",
+      "Et véniunt ab archisynagógo dicéntes: « Fília tua mórtua est; ¿quid ultra vexas magístrum? »",
+      "Iesus autem, verbo quod dicebátur audíto, ait archisynagógo: « Noli timére, tantúmmodo crede ». Et non admísit quemquam sequi se nisi Petrum et Iacóbum et Ioánnem fratrem Iacóbi.",
+      "Et véniunt ad domum archisynagógi, et videt tumúltum et flentes et heiulántes multum, et ingréssus ait eis: « ¿Quid turbámini et plorátis? Puélla non est mórtua, sed dormit ». Et irridébant eum.",
+      "Ipse vero, eiéctis ómnibus, assúmit patrem puéllæ et matrem et qui secum erant, et ingréditur ubi erat puélla; et tenens manum puéllæ ait illi: « Talítha qûm », quod est interpretátum: « Puélla, tibi dico, surge ».",
+      "Et conféstim surréxit puélla et ambulábat; erat enim annórum duódecim. Et obstupuérunt contínuo stupóre magno. Et præcépit illis veheménter, ut nemo id sciret, et dixit dari illi manducáre."
+    ],
+    "pdfs": [
+      "OT/b13ga_br.pdf",
+      "OT/b13ge_br.pdf",
+      "OT/b13gl_br.pdf"
+    ]
+  },
   "OT/b13ge": {
     "id": "OT/b13ge",
     "celebration": "DOMINICA XIII « PER ANNUM »",
@@ -13343,6 +13786,32 @@
     ],
     "pdfs": [
       "OT/b13ge.pdf"
+    ]
+  },
+  "OT/b13ge_br": {
+    "id": "OT/b13ge_br",
+    "celebration": "DOMINICA XIII « PER ANNUM »",
+    "reading": "Evangelium",
+    "year": "B",
+    "reference": "Mc 5:21–24, 35b–43",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "Tonus Evangelii",
+    "intro": "Léctio sancti Evangélii secúndum Marcum",
+    "paragraphs": [
+      "In illo témpore:",
+      "Cum transcendísset Iesus in navi rursus trans fretum, convénit turba multa ad illum, et erat circa mare.",
+      "Et venit quidam de archisynagógis, nómine Iáirus, et videns eum prócidit ad pedes eius, et deprecátur eum multum dicens: « Filíola mea in extrémis est, veni, impóne manus super eam ut salva sit et vivat ».",
+      "Et ábiit cum illo. Et sequebátur eum turba multa, et comprimébant illum.",
+      "Et véniunt ab archisynagógo dicéntes: « Fília tua mórtua est; ¿quid ultra vexas magístrum? »",
+      "Iesus autem, verbo quod dicebátur audíto, ait archisynagógo: « Noli timére, tantúmmodo crede ». Et non admísit quemquam sequi se nisi Petrum et Iacóbum et Ioánnem fratrem Iacóbi.",
+      "Et véniunt ad domum archisynagógi, et videt tumúltum et flentes et heiulántes multum, et ingréssus ait eis: « ¿Quid turbámini et plorátis? Puélla non est mórtua, sed dormit ». Et irridébant eum.",
+      "Ipse vero, eiéctis ómnibus, assúmit patrem puéllæ et matrem et qui secum erant, et ingréditur ubi erat puélla; et tenens manum puéllæ ait illi: « Talítha qûm », quod est interpretátum: « Puélla, tibi dico, surge ».",
+      "Et conféstim surréxit puélla et ambulábat; erat enim annórum duódecim. Et obstupuérunt contínuo stupóre magno. Et præcépit illis veheménter, ut nemo id sciret, et dixit dari illi manducáre."
+    ],
+    "pdfs": [
+      "OT/b13ge_br.pdf"
     ]
   },
   "OT/b13ot": {
@@ -13475,6 +13944,28 @@
     ],
     "pdfs": [
       "OT/b15ep.pdf"
+    ]
+  },
+  "OT/b15ep_br": {
+    "id": "OT/b15ep_br",
+    "celebration": "DOMINICA XV « PER ANNUM »",
+    "reading": "Lectio Secunda",
+    "year": "B",
+    "reference": "Eph 1:3–10",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "",
+    "intro": "Léctio Epístolæ beáti Pauli apóstoli ad Ephésios",
+    "paragraphs": [
+      "Benedíctus Deus et Pater Dómini nostri Iesu Christi, qui benedíxit nos in omni benedictióne spiritáli in cæléstibus in Christo,",
+      "sicut elégit nos in ipso ante mundi constitutiónem, ut essémus sancti et immaculáti in conspéctu eius in caritáte,",
+      "qui prædestinávit nos in adoptiónem filiórum per Iesum Christum in ipsum, secúndum beneplácitum voluntátis suæ, in laudem glóriæ grátiæ suæ, in qua gratificávit nos in Dilécto,",
+      "in quo habémus redemptiónem per sánguinem eius, remissiónem peccatórum, secúndum divítias grátiæ eius, qua superabundávit in nobis in omni sapiéntia et prudéntia,",
+      "notum fáciens nobis mystérium voluntátis suæ, secúndum beneplácitum eius quod propósuit in eo in dispensatiónem plenitúdinis témporum, recapituláre ómnia in Christo, quæ in cælis et quæ in terra: in ipso."
+    ],
+    "pdfs": [
+      "OT/b15ep_br.pdf"
     ]
   },
   "OT/b15ga": {
@@ -14622,6 +15113,32 @@
       "OT/b27gl.pdf"
     ]
   },
+  "OT/b27ga_br": {
+    "id": "OT/b27ga_br",
+    "celebration": "DOMINICA XXVII « PER ANNUM »",
+    "reading": "Evangelium",
+    "year": "B",
+    "reference": "Mc 10:2–12",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "Tonus Antiquior",
+    "intro": "Léctio sancti Evangélii secúndum Marcum",
+    "paragraphs": [
+      "In illo témpore:",
+      "Accedéntes Pharisǽi interrogábant Iesum si licet viro uxórem dimíttere, tentántes eum.",
+      "At ille respóndens dixit eis: « ¿Quid vobis præcépit Móyses? »",
+      "Qui dixérunt: « Móyses permísit libéllum repúdii scríbere et dimíttere ».",
+      "Iesus autem ait eis: « Ad durítiam cordis vestri scripsit vobis præcéptum istud.",
+      "Ab inítio autem creatúræ “ másculum et féminam fecit eos. Propter hoc relínquet homo patrem suum et matrem et adhærébit ad uxórem suam, et erunt duo in carne una ”; ítaque iam non sunt duo, sed una caro. Quod ergo Deus coniúnxit, homo non séparet ».",
+      "Et in domo íterum discípuli de hoc interrogábant eum. Et dicit illis: « Quicúmque dimíserit uxórem suam et áliam dúxerit, adultérium commíttit in eam, et si ipsa dimíserit virum suum et álii núpserit, mœchátur »."
+    ],
+    "pdfs": [
+      "OT/b27ga_br.pdf",
+      "OT/b27ge_br.pdf",
+      "OT/b27gl_br.pdf"
+    ]
+  },
   "OT/b27ge": {
     "id": "OT/b27ge",
     "celebration": "DOMINICA XXVII « PER ANNUM »",
@@ -14647,6 +15164,30 @@
     ],
     "pdfs": [
       "OT/b27ge.pdf"
+    ]
+  },
+  "OT/b27ge_br": {
+    "id": "OT/b27ge_br",
+    "celebration": "DOMINICA XXVII « PER ANNUM »",
+    "reading": "Evangelium",
+    "year": "B",
+    "reference": "Mc 10:2–12",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "Tonus Evangelii",
+    "intro": "Léctio sancti Evangélii secúndum Marcum",
+    "paragraphs": [
+      "In illo témpore:",
+      "Accedéntes Pharisǽi interrogábant Iesum si licet viro uxórem dimíttere, tentántes eum.",
+      "At ille respóndens dixit eis: « ¿Quid vobis præcépit Móyses? »",
+      "Qui dixérunt: « Móyses permísit libéllum repúdii scríbere et dimíttere ».",
+      "Iesus autem ait eis: « Ad durítiam cordis vestri scripsit vobis præcéptum istud.",
+      "Ab inítio autem creatúræ “ másculum et féminam fecit eos. Propter hoc relínquet homo patrem suum et matrem et adhærébit ad uxórem suam, et erunt duo in carne una ”; ítaque iam non sunt duo, sed una caro. Quod ergo Deus coniúnxit, homo non séparet ».",
+      "Et in domo íterum discípuli de hoc interrogábant eum. Et dicit illis: « Quicúmque dimíserit uxórem suam et áliam dúxerit, adultérium commíttit in eam, et si ipsa dimíserit virum suum et álii núpserit, mœchátur »."
+    ],
+    "pdfs": [
+      "OT/b27ge_br.pdf"
     ]
   },
   "OT/b27ot": {
@@ -14720,6 +15261,34 @@
       "OT/b28gl.pdf"
     ]
   },
+  "OT/b28ga_br": {
+    "id": "OT/b28ga_br",
+    "celebration": "DOMINICA XXVIII « PER ANNUM »",
+    "reading": "Evangelium",
+    "year": "B",
+    "reference": "Mc 10:17–27",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "Tonus Antiquior",
+    "intro": "Léctio sancti Evangélii secúndum Marcum",
+    "paragraphs": [
+      "In illo témpore:",
+      "Cum egrederétur Iesus in viam, accúrrens quidam et genu flexo ante eum rogábat eum: « Magíster bone, ¿quid fáciam ut vitam ætérnam percípiam? »",
+      "Iesus autem dixit ei: « ¿Quid me dicis bonum? Nemo bonus nisi unus Deus. Præcépta nosti: “ Ne occídas, ne adúlteres, ne furéris, ne falsum testimónium díxeris, ne fraudem féceris, honóra patrem tuum et matrem ”».",
+      "Ille autem dixit ei: « Magíster, hæc ómnia conservávi a iuventúte mea ».",
+      "Iesus autem intúitus eum diléxit eum, et dixit illi: « Unum tibi deest: vade, quæcúmque habes vende et da paupéribus, et habébis thesáurum in cælo, et veni, séquere me ». Qui contristátus in hoc verbo, ábiit mærens, erat enim habens possessiónes multas.",
+      "Et circumspíciens Iesus ait discípulis suis: « Quam diffícile qui pecúnias habent in Regnum Dei introíbunt ». Discípuli autem obstupescébant in verbis eius.",
+      "At Iesus rursus respóndens ait illis: « Fílii, quam diffícile est in Regnum Dei introíre, facílius est camélum per forámen acus transíre quam dívitem intráre in Regnum Dei ».",
+      "Qui magis admirabántur dicéntes ad semetípsos: « ¿Et quis potest salvus fíeri? »",
+      "Intuens illos Iesus ait: « Apud hómines impossíbile est sed non apud Deum, ómnia enim possibília sunt apud Deum »."
+    ],
+    "pdfs": [
+      "OT/b28ga_br.pdf",
+      "OT/b28ge_br.pdf",
+      "OT/b28gl_br.pdf"
+    ]
+  },
   "OT/b28ge": {
     "id": "OT/b28ge",
     "celebration": "DOMINICA XXVIII « PER ANNUM »",
@@ -14746,6 +15315,32 @@
     ],
     "pdfs": [
       "OT/b28ge.pdf"
+    ]
+  },
+  "OT/b28ge_br": {
+    "id": "OT/b28ge_br",
+    "celebration": "DOMINICA XXVIII « PER ANNUM »",
+    "reading": "Evangelium",
+    "year": "B",
+    "reference": "Mc 10:17–27",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "Tonus Evangelii",
+    "intro": "Léctio sancti Evangélii secúndum Marcum",
+    "paragraphs": [
+      "In illo témpore:",
+      "Cum egrederétur Iesus in viam, accúrrens quidam et genu flexo ante eum rogábat eum: « Magíster bone, ¿quid fáciam ut vitam ætérnam percípiam? »",
+      "Iesus autem dixit ei: « ¿Quid me dicis bonum? Nemo bonus nisi unus Deus. Præcépta nosti: “ Ne occídas, ne adúlteres, ne furéris, ne falsum testimónium díxeris, ne fraudem féceris, honóra patrem tuum et matrem ”».",
+      "Ille autem dixit ei: « Magíster, hæc ómnia conservávi a iuventúte mea ».",
+      "Iesus autem intúitus eum diléxit eum, et dixit illi: « Unum tibi deest: vade, quæcúmque habes vende et da paupéribus, et habébis thesáurum in cælo, et veni, séquere me ». Qui contristátus in hoc verbo, ábiit mærens, erat enim habens possessiónes multas.",
+      "Et circumspíciens Iesus ait discípulis suis: « Quam diffícile qui pecúnias habent in Regnum Dei introíbunt ». Discípuli autem obstupescébant in verbis eius.",
+      "At Iesus rursus respóndens ait illis: « Fílii, quam diffícile est in Regnum Dei introíre, facílius est camélum per forámen acus transíre quam dívitem intráre in Regnum Dei ».",
+      "Qui magis admirabántur dicéntes ad semetípsos: « ¿Et quis potest salvus fíeri? »",
+      "Intuens illos Iesus ait: « Apud hómines impossíbile est sed non apud Deum, ómnia enim possibília sunt apud Deum »."
+    ],
+    "pdfs": [
+      "OT/b28ge_br.pdf"
     ]
   },
   "OT/b28ot": {
@@ -14819,6 +15414,30 @@
       "OT/b29gl.pdf"
     ]
   },
+  "OT/b29ga_br": {
+    "id": "OT/b29ga_br",
+    "celebration": "DOMINICA XXIX « PER ANNUM »",
+    "reading": "Evangelium",
+    "year": "B",
+    "reference": "Mc 10:42–45",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "Tonus Antiquior",
+    "intro": "Léctio sancti Evangélii secúndum Marcum",
+    "paragraphs": [
+      "In illo témpore:",
+      "Vocans Iesus duódecim, ait illis:",
+      "« Scitis quia hi qui vidéntur principári géntibus, dominántur eis et príncipes eórum potestátem habent ipsórum.",
+      "Non ita est autem in vobis: sed quicúmque volúerit fíeri maior inter vos, erit vester miníster, et quicúmque volúerit in vobis primus esse, erit ómnium servus;",
+      "nam et Fílius hóminis non venit ut ministrarétur ei sed ut ministráret et daret ánimam suam redemptiónem pro multis »."
+    ],
+    "pdfs": [
+      "OT/b29ga_br.pdf",
+      "OT/b29ge_br.pdf",
+      "OT/b29gl_br.pdf"
+    ]
+  },
   "OT/b29ge": {
     "id": "OT/b29ge",
     "celebration": "DOMINICA XXIX « PER ANNUM »",
@@ -14845,6 +15464,28 @@
     ],
     "pdfs": [
       "OT/b29ge.pdf"
+    ]
+  },
+  "OT/b29ge_br": {
+    "id": "OT/b29ge_br",
+    "celebration": "DOMINICA XXIX « PER ANNUM »",
+    "reading": "Evangelium",
+    "year": "B",
+    "reference": "Mc 10:42–45",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "Tonus Evangelii",
+    "intro": "Léctio sancti Evangélii secúndum Marcum",
+    "paragraphs": [
+      "In illo témpore:",
+      "Vocans Iesus duódecim, ait illis:",
+      "« Scitis quia hi qui vidéntur principári géntibus, dominántur eis et príncipes eórum potestátem habent ipsórum.",
+      "Non ita est autem in vobis: sed quicúmque volúerit fíeri maior inter vos, erit vester miníster, et quicúmque volúerit in vobis primus esse, erit ómnium servus;",
+      "nam et Fílius hóminis non venit ut ministrarétur ei sed ut ministráret et daret ánimam suam redemptiónem pro multis »."
+    ],
+    "pdfs": [
+      "OT/b29ge_br.pdf"
     ]
   },
   "OT/b29ot": {
@@ -15087,6 +15728,28 @@
       "OT/b32gl.pdf"
     ]
   },
+  "OT/b32ga_br": {
+    "id": "OT/b32ga_br",
+    "celebration": "DOMINICA XXXII « PER ANNUM »",
+    "reading": "Evangelium",
+    "year": "B",
+    "reference": "Mc 12:41–44",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "Tonus Antiquior",
+    "intro": "Léctio sancti Evangélii secúndum Marcum",
+    "paragraphs": [
+      "In illo témpore:",
+      "Sedens Iesus contra gazophylácium aspiciébat quómodo turba iactáret æs in gazophylácium; et multi dívites iactábant multa; et cum venísset una vídua pauper, misit duo minúta, quod est quadrans.",
+      "Et cónvocans discípulos suos ait illis: « Amen dico vobis: Vídua hæc pauper plus ómnibus misit, qui misérunt in gazophylácium: omnes enim ex eo quod abundábat illis, misérunt, hæc vero de penúria sua ómnia quæ hábuit misit, totum victum suum »."
+    ],
+    "pdfs": [
+      "OT/b32ga_br.pdf",
+      "OT/b32ge_br.pdf",
+      "OT/b32gl_br.pdf"
+    ]
+  },
   "OT/b32ge": {
     "id": "OT/b32ge",
     "celebration": "DOMINICA XXXII « PER ANNUM »",
@@ -15106,6 +15769,26 @@
     ],
     "pdfs": [
       "OT/b32ge.pdf"
+    ]
+  },
+  "OT/b32ge_br": {
+    "id": "OT/b32ge_br",
+    "celebration": "DOMINICA XXXII « PER ANNUM »",
+    "reading": "Evangelium",
+    "year": "B",
+    "reference": "Mc 12:41–44",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "Tonus Evangelii",
+    "intro": "Léctio sancti Evangélii secúndum Marcum",
+    "paragraphs": [
+      "In illo témpore:",
+      "Sedens Iesus contra gazophylácium aspiciébat quómodo turba iactáret æs in gazophylácium; et multi dívites iactábant multa; et cum venísset una vídua pauper, misit duo minúta, quod est quadrans.",
+      "Et cónvocans discípulos suos ait illis: « Amen dico vobis: Vídua hæc pauper plus ómnibus misit, qui misérunt in gazophylácium: omnes enim ex eo quod abundábat illis, misérunt, hæc vero de penúria sua ómnia quæ hábuit misit, totum victum suum »."
+    ],
+    "pdfs": [
+      "OT/b32ge_br.pdf"
     ]
   },
   "OT/b32ot": {
@@ -15418,6 +16101,26 @@
       "OT/c03ep.pdf"
     ]
   },
+  "OT/c03ep_br": {
+    "id": "OT/c03ep_br",
+    "celebration": "DOMINICA III « PER ANNUM »",
+    "reading": "Lectio Secunda",
+    "year": "C",
+    "reference": "1 Cor 12:12–14, 27",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "",
+    "intro": "Léctio Epístolæ primæ beáti Pauli apóstoli ad Corínthios",
+    "paragraphs": [
+      "Fratres:",
+      "Sicut corpus unum est et membra habet multa, ómnia autem membra córporis cum sint multa unum corpus sunt, ita et Christus: étenim in uno Spíritu omnes nos in unum corpus baptizáti sumus, sive Iudǽi sive Græci, sive servi sive líberi, et omnes unum Spíritum potáti sumus. Nam et corpus non est unum membrum sed multa.",
+      "Vos autem estis corpus Christi et membra ex parte."
+    ],
+    "pdfs": [
+      "OT/c03ep_br.pdf"
+    ]
+  },
   "OT/c03ga": {
     "id": "OT/c03ga",
     "celebration": "DOMINICA III « PER ANNUM »",
@@ -15509,6 +16212,27 @@
       "OT/c04ep.pdf"
     ]
   },
+  "OT/c04ep_br": {
+    "id": "OT/c04ep_br",
+    "celebration": "DOMINICA IV « PER ANNUM »",
+    "reading": "Lectio Secunda",
+    "year": "C",
+    "reference": "1 Cor 13:4–13",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "",
+    "intro": "Léctio Epístolæ primæ beáti Pauli apóstoli ad Corínthios",
+    "paragraphs": [
+      "Fratres:",
+      "Cáritas pátiens est, benígna est cáritas, non æmulátur, non agit supérbe, non inflátur, non est ambitiósa, non quærit quæ sua sunt, non irritátur, non cógitat malum, non gaudet super iniquitátem, congáudet autem veritáti: ómnia suffert, ómnia credit, ómnia sperat, ómnia sústinet.",
+      "Cáritas numquam éxcidit: sive prophetíæ, evacuabúntur; sive linguæ, cessábunt; sive sciéntia, destruétur. Ex parte enim cognóscimus et ex parte prophetámus; cum autem vénerit quod perféctum est, evacuábitur quod ex parte est. Cum essem párvulus, loquébar ut párvulus, sapiébam ut párvulus, cogitábam ut párvulus; quando factus sum vir, evacuávi quæ erant párvuli. Vidémus enim nunc per spéculum in ænígmate, tunc autem fácie ad fáciem; nunc cognósco ex parte, tunc autem cognóscam sicut et cógnitus sum.",
+      "Nunc autem manet fides, spes, cáritas, tria hæc; maior autem ex his est cáritas."
+    ],
+    "pdfs": [
+      "OT/c04ep_br.pdf"
+    ]
+  },
   "OT/c04ga": {
     "id": "OT/c04ga",
     "celebration": "DOMINICA IV « PER ANNUM »",
@@ -15593,6 +16317,26 @@
     ],
     "pdfs": [
       "OT/c05ep.pdf"
+    ]
+  },
+  "OT/c05ep_br": {
+    "id": "OT/c05ep_br",
+    "celebration": "DOMINICA V « PER ANNUM »",
+    "reading": "Lectio Secunda",
+    "year": "C",
+    "reference": "1 Cor 15:3–8, 11",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "",
+    "intro": "Léctio Epístolæ primæ beáti Pauli apóstoli ad Corínthios",
+    "paragraphs": [
+      "Fratres:",
+      "Trádidi vobis in primis quod et accépi, quóniam Christus mórtuus est pro peccátis nostris secúndum Scriptúras, et quia sepúltus est, et quia suscitátus est tértia die secúndum Scriptúras, et quia visus est Cephæ, et post hæc Duódecim; deínde visus est plus quam quingéntis frátribus simul, ex quibus plures manent usque adhuc, quidam autem dormiérunt; deínde visus est Iacóbo, deínde Apóstolis ómnibus; novíssime autem ómnium, tamquam abortívo, visus est et mihi.",
+      "Igitur sive ego sive illi sic prædicámus et sic credidístis."
+    ],
+    "pdfs": [
+      "OT/c05ep_br.pdf"
     ]
   },
   "OT/c05ga": {
@@ -16155,6 +16899,39 @@
       "OT/c11gl.pdf"
     ]
   },
+  "OT/c11ga_br": {
+    "id": "OT/c11ga_br",
+    "celebration": "DOMINICA XI « PER ANNUM »",
+    "reading": "Evangelium",
+    "year": "C",
+    "reference": "Lc 7:36–50",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "Tonus Antiquior",
+    "intro": "Léctio sancti Evangélii secúndum Lucam",
+    "paragraphs": [
+      "In illo témpore:",
+      "Rogábat Iesum quidam de Pharisǽis ut manducáret cum illo; et ingréssus domum Pharisǽi discúbuit.",
+      "Et ecce múlier quæ erat in civitáte peccátrix, ut cognóvit quod accúbuit in domo Pharisǽi, áttulit alabástrum unguénti et stans retro secus pedes eius flens, lácrimis cœpit rigáre pedes eius et capíllis cápitis sui tergébat, et osculabátur pedes eius et unguénto ungébat.",
+      "Videns autem Pharisǽus qui vocáverat eum, ait intra se dicens: « Hic si esset prophéta sciret útique quæ et qualis múlier quæ tangit eum, quia peccátrix est ».",
+      "Et respóndens Iesus dixit ad illum: « Simon, hábeo tibi áliquid dícere ».",
+      "At ille ait: « Magíster, dic ».",
+      "« Duo debitóres erant cuídam fæneratóri; unus debébat denários quingéntos, álius quinquagínta. Non habéntibus illis unde rédderent, donávit utrísque. ¿Quis ergo eórum plus díliget eum? »",
+      "Respóndens Simon dixit: « Æstimo quia is cui plus donávit ».",
+      "At ille dixit ei: « Recte iudicásti ».",
+      "Et convérsus ad mulíerem, dixit Simóni: « ¿Vides hanc mulíerem? Intrávi in domum tuam, aquam pédibus meis non dedísti: hæc autem lácrimis rigávit pedes meos et capíllis suis tersit.",
+      "Osculum mihi non dedísti: hæc autem ex quo intrávi non cessávit osculári pedes meos. Oleo caput meum non unxísti: hæc autem unguénto unxit pedes meos.",
+      "Propter quod dico tibi: Remíssa sunt peccáta eius multa, quóniam diléxit multum; cui autem minus dimíttitur, minus díligit ».",
+      "Dixit autem ad illam: « Remíssa sunt peccáta tua ». Et cœpérunt qui simul accumbébant dícere intra se: « ¿Quis est hic, qui étiam peccáta dimíttit? »",
+      "Dixit autem ad mulíerem: « Fides tua te salvam fecit; vade in pace »."
+    ],
+    "pdfs": [
+      "OT/c11ga_br.pdf",
+      "OT/c11ge_br.pdf",
+      "OT/c11gl_br.pdf"
+    ]
+  },
   "OT/c11ge": {
     "id": "OT/c11ge",
     "celebration": "DOMINICA XI « PER ANNUM »",
@@ -16185,6 +16962,37 @@
     ],
     "pdfs": [
       "OT/c11ge.pdf"
+    ]
+  },
+  "OT/c11ge_br": {
+    "id": "OT/c11ge_br",
+    "celebration": "DOMINICA XI « PER ANNUM »",
+    "reading": "Evangelium",
+    "year": "C",
+    "reference": "Lc 7:36–50",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "Tonus Evangelii",
+    "intro": "Léctio sancti Evangélii secúndum Lucam",
+    "paragraphs": [
+      "In illo témpore:",
+      "Rogábat Iesum quidam de Pharisǽis ut manducáret cum illo; et ingréssus domum Pharisǽi discúbuit.",
+      "Et ecce múlier quæ erat in civitáte peccátrix, ut cognóvit quod accúbuit in domo Pharisǽi, áttulit alabástrum unguénti et stans retro secus pedes eius flens, lácrimis cœpit rigáre pedes eius et capíllis cápitis sui tergébat, et osculabátur pedes eius et unguénto ungébat.",
+      "Videns autem Pharisǽus qui vocáverat eum, ait intra se dicens: « Hic si esset prophéta sciret útique quæ et qualis múlier quæ tangit eum, quia peccátrix est ».",
+      "Et respóndens Iesus dixit ad illum: « Simon, hábeo tibi áliquid dícere ».",
+      "At ille ait: « Magíster, dic ».",
+      "« Duo debitóres erant cuídam fæneratóri; unus debébat denários quingéntos, álius quinquagínta. Non habéntibus illis unde rédderent, donávit utrísque. ¿Quis ergo eórum plus díliget eum? »",
+      "Respóndens Simon dixit: « Æstimo quia is cui plus donávit ».",
+      "At ille dixit ei: « Recte iudicásti ».",
+      "Et convérsus ad mulíerem, dixit Simóni: « ¿Vides hanc mulíerem? Intrávi in domum tuam, aquam pédibus meis non dedísti: hæc autem lácrimis rigávit pedes meos et capíllis suis tersit.",
+      "Osculum mihi non dedísti: hæc autem ex quo intrávi non cessávit osculári pedes meos. Oleo caput meum non unxísti: hæc autem unguénto unxit pedes meos.",
+      "Propter quod dico tibi: Remíssa sunt peccáta eius multa, quóniam diléxit multum; cui autem minus dimíttitur, minus díligit ».",
+      "Dixit autem ad illam: « Remíssa sunt peccáta tua ». Et cœpérunt qui simul accumbébant dícere intra se: « ¿Quis est hic, qui étiam peccáta dimíttit? »",
+      "Dixit autem ad mulíerem: « Fides tua te salvam fecit; vade in pace »."
+    ],
+    "pdfs": [
+      "OT/c11ge_br.pdf"
     ]
   },
   "OT/c11ot": {
@@ -16451,6 +17259,32 @@
       "OT/c14gl.pdf"
     ]
   },
+  "OT/c14ga_br": {
+    "id": "OT/c14ga_br",
+    "celebration": "DOMINICA XIV « PER ANNUM »",
+    "reading": "Evangelium",
+    "year": "C",
+    "reference": "Lc 10:1–9",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "Tonus Antiquior",
+    "intro": "Léctio sancti Evangélii secúndum Lucam",
+    "paragraphs": [
+      "In illo témpore:",
+      "Designávit Dóminus álios septuagínta duos, et misit illos binos ante fáciem suam in omnem civitátem et locum quo erat ipse ventúrus.",
+      "Et dicébat illis:",
+      "« Messis quidem multa, operárii autem pauci; rogáte ergo Dóminum messis ut mittat operários in messem suam. Ite: ecce ego mitto vos sicut agnos inter lupos. Nolíte portáre sácculum, neque peram, neque calceaménta, et néminem per viam salutavéritis.",
+      "In quamcúmque domum intravéritis, primum dícite: “ Pax huic dómui ”. Et si ibi fúerit fílius pacis, requiéscet super illam pax vestra; sin autem ad vos revertétur.",
+      "In eádem autem domo manéte, edéntes et bibéntes quæ apud illos sunt: dignus enim est operárius mercéde sua. Nolíte transíre de domo in domum.",
+      "Et in quamcúmque civitátem intravéritis et suscéperint vos, manducáte quæ apponúntur vobis, et curáte infírmos qui in illa sunt, et dícite illis: “ Appropinquávit in vos Regnum Dei ” »."
+    ],
+    "pdfs": [
+      "OT/c14ga_br.pdf",
+      "OT/c14ge_br.pdf",
+      "OT/c14gl_br.pdf"
+    ]
+  },
   "OT/c14ge": {
     "id": "OT/c14ge",
     "celebration": "DOMINICA XIV « PER ANNUM »",
@@ -16477,6 +17311,30 @@
     ],
     "pdfs": [
       "OT/c14ge.pdf"
+    ]
+  },
+  "OT/c14ge_br": {
+    "id": "OT/c14ge_br",
+    "celebration": "DOMINICA XIV « PER ANNUM »",
+    "reading": "Evangelium",
+    "year": "C",
+    "reference": "Lc 10:1–9",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "Tonus Evangelii",
+    "intro": "Léctio sancti Evangélii secúndum Lucam",
+    "paragraphs": [
+      "In illo témpore:",
+      "Designávit Dóminus álios septuagínta duos, et misit illos binos ante fáciem suam in omnem civitátem et locum quo erat ipse ventúrus.",
+      "Et dicébat illis:",
+      "« Messis quidem multa, operárii autem pauci; rogáte ergo Dóminum messis ut mittat operários in messem suam. Ite: ecce ego mitto vos sicut agnos inter lupos. Nolíte portáre sácculum, neque peram, neque calceaménta, et néminem per viam salutavéritis.",
+      "In quamcúmque domum intravéritis, primum dícite: “ Pax huic dómui ”. Et si ibi fúerit fílius pacis, requiéscet super illam pax vestra; sin autem ad vos revertétur.",
+      "In eádem autem domo manéte, edéntes et bibéntes quæ apud illos sunt: dignus enim est operárius mercéde sua. Nolíte transíre de domo in domum.",
+      "Et in quamcúmque civitátem intravéritis et suscéperint vos, manducáte quæ apponúntur vobis, et curáte infírmos qui in illa sunt, et dícite illis: “ Appropinquávit in vos Regnum Dei ” »."
+    ],
+    "pdfs": [
+      "OT/c14ge_br.pdf"
     ]
   },
   "OT/c14ot": {
@@ -16920,6 +17778,27 @@
       "OT/c19ep.pdf"
     ]
   },
+  "OT/c19ep_br": {
+    "id": "OT/c19ep_br",
+    "celebration": "DOMINICA XIX « PER ANNUM »",
+    "reading": "Lectio Secunda",
+    "year": "C",
+    "reference": "Hebr 11:1–2, 8–12",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "",
+    "intro": "Léctio Epístolæ ad Hebrǽos",
+    "paragraphs": [
+      "Fratres: Est fides sperandórum substántia, rerum arguméntum non apparéntium. In hac enim testimónium consecúti sunt senióres.",
+      "Fide vocátus Abraham obœdívit in locum exíre quem acceptúrus erat in hereditátem, et exívit nésciens quo iret.",
+      "Fide peregrinátus est in terra promissiónis tamquam in aliéna, in cásulis habitándo cum Isaac et Iacob, coherédibus promissiónis eiúsdem; exspectábat enim fundaménta habéntem civitátem, cuius ártifex et cónditor Deus.",
+      "Fide —et ipsa Sarra stérilis— virtútem in conceptiónem séminis accépit étiam præter tempus ætátis, quóniam fidélem crédidit esse qui promíserat; propter quod et ab uno orti sunt, et hoc emórtuo, tamquam sídera cæli in multitúdine et sicut haréna quæ est ad oram maris innumerábilis."
+    ],
+    "pdfs": [
+      "OT/c19ep_br.pdf"
+    ]
+  },
   "OT/c19ga": {
     "id": "OT/c19ga",
     "celebration": "DOMINICA XIX « PER ANNUM »",
@@ -16953,6 +17832,31 @@
       "OT/c19gl.pdf"
     ]
   },
+  "OT/c19ga_br": {
+    "id": "OT/c19ga_br",
+    "celebration": "DOMINICA XIX « PER ANNUM »",
+    "reading": "Evangelium",
+    "year": "C",
+    "reference": "Lc 12:35–40",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "Tonus Antiquior",
+    "intro": "Léctio sancti Evangélii secúndum Lucam",
+    "paragraphs": [
+      "In illo témpore: Dixit Iesus discípulis suis:",
+      "« Sint lumbi vestri præcíncti et lucérnæ ardéntes, et vos símiles homínibus exspectántibus dóminum suum, quando revertátur a núptiis; ut, cum vénerit et pulsáverit, conféstim apériant ei.",
+      "Beáti servi illi, quos, cum vénerit dóminus, invénerit vigilántes. Amen dico vobis, quod præcínget se et fáciet illos discúmbere, et tránsiens ministrábit illis.",
+      "Et si vénerit in secúnda vigília et si in tértia vigília vénerit et ita invénerit, beáti sunt illi.",
+      "Hoc autem scitóte, quia si sciret pater famílias qua hora fur veníret, non síneret perfodíri domum suam.",
+      "Et vos estóte paráti, quia qua hora non putátis Fílius hóminis véniet »."
+    ],
+    "pdfs": [
+      "OT/c19ga_br.pdf",
+      "OT/c19ge_br.pdf",
+      "OT/c19gl_br.pdf"
+    ]
+  },
   "OT/c19ge": {
     "id": "OT/c19ge",
     "celebration": "DOMINICA XIX « PER ANNUM »",
@@ -16982,6 +17886,29 @@
     ],
     "pdfs": [
       "OT/c19ge.pdf"
+    ]
+  },
+  "OT/c19ge_br": {
+    "id": "OT/c19ge_br",
+    "celebration": "DOMINICA XIX « PER ANNUM »",
+    "reading": "Evangelium",
+    "year": "C",
+    "reference": "Lc 12:35–40",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "Tonus Evangelii",
+    "intro": "Léctio sancti Evangélii secúndum Lucam",
+    "paragraphs": [
+      "In illo témpore: Dixit Iesus discípulis suis:",
+      "« Sint lumbi vestri præcíncti et lucérnæ ardéntes, et vos símiles homínibus exspectántibus dóminum suum, quando revertátur a núptiis; ut, cum vénerit et pulsáverit, conféstim apériant ei.",
+      "Beáti servi illi, quos, cum vénerit dóminus, invénerit vigilántes. Amen dico vobis, quod præcínget se et fáciet illos discúmbere, et tránsiens ministrábit illis.",
+      "Et si vénerit in secúnda vigília et si in tértia vigília vénerit et ita invénerit, beáti sunt illi.",
+      "Hoc autem scitóte, quia si sciret pater famílias qua hora fur veníret, non síneret perfodíri domum suam.",
+      "Et vos estóte paráti, quia qua hora non putátis Fílius hóminis véniet »."
+    ],
+    "pdfs": [
+      "OT/c19ge_br.pdf"
     ]
   },
   "OT/c19ot": {
@@ -17433,6 +18360,33 @@
       "OT/c24gl.pdf"
     ]
   },
+  "OT/c24ga_br": {
+    "id": "OT/c24ga_br",
+    "celebration": "DOMINICA XXIV « PER ANNUM »",
+    "reading": "Evangelium",
+    "year": "C",
+    "reference": "Lc 15:1–10",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "Tonus Antiquior",
+    "intro": "Léctio sancti Evangélii secúndum Lucam",
+    "paragraphs": [
+      "In illo témpore:",
+      "Erant appropinquántes Iesu omnes publicáni et peccatóres ut audírent illum. Et murmurábant Pharisǽi et scribæ dicéntes: « Hic peccatóres récipit et mandúcat cum illis ».",
+      "Et ait ad illos parábolam istam dicens: « Quis ex vobis homo qui habet centum oves et si perdíderit unam ex illis, ¿nonne dimíttit nonagintanóvem in desérto et vadit ad illam quæ períerat donec invéniat illam?",
+      "Et cum invénerit eam impónit in úmeros suos gaudens, et véniens domum cónvocat amícos et vicínos, dicens illis: “Congratulámini mihi, quia invéni ovem meam quæ períerat ”.",
+      "Dico vobis: Ita gáudium erit in cælo super uno peccatóre pæniténtiam agénte quam super nonagintanóvem iustis qui non índigent pæniténtia.",
+      "Aut quæ múlier habens drachmas decem, si perdíderit drachmam unam, nonne accéndit lucérnam et evérrit domum ¿et quærit diligénter donec invéniat?",
+      "Et cum invénerit, cónvocat amícas et vicínas dicens: “ Congratulámini mihi, quia invéni drachmam quam perdíderam ”.",
+      "Ita dico vobis: Gáudium fit coram ángelis Dei super uno peccatóre pæniténtiam agénte »."
+    ],
+    "pdfs": [
+      "OT/c24ga_br.pdf",
+      "OT/c24ge_br.pdf",
+      "OT/c24gl_br.pdf"
+    ]
+  },
   "OT/c24ge": {
     "id": "OT/c24ge",
     "celebration": "DOMINICA XXIV « PER ANNUM »",
@@ -17468,6 +18422,31 @@
     ],
     "pdfs": [
       "OT/c24ge.pdf"
+    ]
+  },
+  "OT/c24ge_br": {
+    "id": "OT/c24ge_br",
+    "celebration": "DOMINICA XXIV « PER ANNUM »",
+    "reading": "Evangelium",
+    "year": "C",
+    "reference": "Lc 15:1–10",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "Tonus Evangelii",
+    "intro": "Léctio sancti Evangélii secúndum Lucam",
+    "paragraphs": [
+      "In illo témpore:",
+      "Erant appropinquántes Iesu omnes publicáni et peccatóres ut audírent illum. Et murmurábant Pharisǽi et scribæ dicéntes: « Hic peccatóres récipit et mandúcat cum illis ».",
+      "Et ait ad illos parábolam istam dicens: « Quis ex vobis homo qui habet centum oves et si perdíderit unam ex illis, ¿nonne dimíttit nonagintanóvem in desérto et vadit ad illam quæ períerat donec invéniat illam?",
+      "Et cum invénerit eam impónit in úmeros suos gaudens, et véniens domum cónvocat amícos et vicínos, dicens illis: “Congratulámini mihi, quia invéni ovem meam quæ períerat ”.",
+      "Dico vobis: Ita gáudium erit in cælo super uno peccatóre pæniténtiam agénte quam super nonagintanóvem iustis qui non índigent pæniténtia.",
+      "Aut quæ múlier habens drachmas decem, si perdíderit drachmam unam, nonne accéndit lucérnam et evérrit domum ¿et quærit diligénter donec invéniat?",
+      "Et cum invénerit, cónvocat amícas et vicínas dicens: “ Congratulámini mihi, quia invéni drachmam quam perdíderam ”.",
+      "Ita dico vobis: Gáudium fit coram ángelis Dei super uno peccatóre pæniténtiam agénte »."
+    ],
+    "pdfs": [
+      "OT/c24ge_br.pdf"
     ]
   },
   "OT/c24ot": {
@@ -17541,6 +18520,29 @@
       "OT/c25gl.pdf"
     ]
   },
+  "OT/c25ga_br": {
+    "id": "OT/c25ga_br",
+    "celebration": "DOMINICA XXV « PER ANNUM »",
+    "reading": "Evangelium",
+    "year": "C",
+    "reference": "Lc 16:10–13",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "Tonus Antiquior",
+    "intro": "Léctio sancti Evangélii secúndum Lucam",
+    "paragraphs": [
+      "In illo témpore: Dicébat Iesus ad discípulos suos:",
+      "« Qui fidélis est in mínimo, et in maióri fidélis est, et qui in módico iníquus est, et in maióri iníquus est.",
+      "Si ergo in iníquo mammóna fidéles non fuístis, ¿quod verum est quis credet vobis? Et si in aliéno fidéles non fuístis, ¿quod vestrum est quis dabit vobis?",
+      "Nemo servus potest duóbus dóminis servíre: aut enim unum ódiet et álterum díliget, aut uni adhærébit et álterum contémnet. Non potéstis Deo servíre et mammónæ »."
+    ],
+    "pdfs": [
+      "OT/c25ga_br.pdf",
+      "OT/c25ge_br.pdf",
+      "OT/c25gl_br.pdf"
+    ]
+  },
   "OT/c25ge": {
     "id": "OT/c25ge",
     "celebration": "DOMINICA XXV « PER ANNUM »",
@@ -17566,6 +18568,27 @@
     ],
     "pdfs": [
       "OT/c25ge.pdf"
+    ]
+  },
+  "OT/c25ge_br": {
+    "id": "OT/c25ge_br",
+    "celebration": "DOMINICA XXV « PER ANNUM »",
+    "reading": "Evangelium",
+    "year": "C",
+    "reference": "Lc 16:10–13",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "Tonus Evangelii",
+    "intro": "Léctio sancti Evangélii secúndum Lucam",
+    "paragraphs": [
+      "In illo témpore: Dicébat Iesus ad discípulos suos:",
+      "« Qui fidélis est in mínimo, et in maióri fidélis est, et qui in módico iníquus est, et in maióri iníquus est.",
+      "Si ergo in iníquo mammóna fidéles non fuístis, ¿quod verum est quis credet vobis? Et si in aliéno fidéles non fuístis, ¿quod vestrum est quis dabit vobis?",
+      "Nemo servus potest duóbus dóminis servíre: aut enim unum ódiet et álterum díliget, aut uni adhærébit et álterum contémnet. Non potéstis Deo servíre et mammónæ »."
+    ],
+    "pdfs": [
+      "OT/c25ge_br.pdf"
     ]
   },
   "OT/c25ot": {
@@ -18178,6 +19201,29 @@
       "OT/c32gl.pdf"
     ]
   },
+  "OT/c32ga_br": {
+    "id": "OT/c32ga_br",
+    "celebration": "DOMINICA XXXII « PER ANNUM »",
+    "reading": "Evangelium",
+    "year": "C",
+    "reference": "Lc 20:27, 34–38",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "Tonus Antiquior",
+    "intro": "Léctio sancti Evangélii secúndum Lucam",
+    "paragraphs": [
+      "In illo témpore:",
+      "Accessérunt quidam Sadducæórum, qui negant esse resurrectiónem, et interrogavérunt Iesum.",
+      "Et ait illis Iesus: « Fílii sǽculi huius nubunt et tradúntur ad núptias; illi autem qui digni habéntur sǽculo illo et resurrectióne ex mórtuis neque nubunt, neque ducunt uxóres; neque enim ultra mori possunt, æquáles enim ángelis sunt, et fílii sunt Dei, cum sint fílii resurrectiónis.",
+      "Quia vero resúrgant mórtui et Móyses osténdit secus rubum, sicut dicit: “ Dóminum Deum Abraham et Deum Isaac et Deum Iacob ”: Deus autem non est mortuórum sed vivórum, omnes enim vivunt ei »."
+    ],
+    "pdfs": [
+      "OT/c32ga_br.pdf",
+      "OT/c32ge_br.pdf",
+      "OT/c32gl_br.pdf"
+    ]
+  },
   "OT/c32ge": {
     "id": "OT/c32ge",
     "celebration": "DOMINICA XXXII « PER ANNUM »",
@@ -18199,6 +19245,27 @@
     ],
     "pdfs": [
       "OT/c32ge.pdf"
+    ]
+  },
+  "OT/c32ge_br": {
+    "id": "OT/c32ge_br",
+    "celebration": "DOMINICA XXXII « PER ANNUM »",
+    "reading": "Evangelium",
+    "year": "C",
+    "reference": "Lc 20:27, 34–38",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "Tonus Evangelii",
+    "intro": "Léctio sancti Evangélii secúndum Lucam",
+    "paragraphs": [
+      "In illo témpore:",
+      "Accessérunt quidam Sadducæórum, qui negant esse resurrectiónem, et interrogavérunt Iesum.",
+      "Et ait illis Iesus: « Fílii sǽculi huius nubunt et tradúntur ad núptias; illi autem qui digni habéntur sǽculo illo et resurrectióne ex mórtuis neque nubunt, neque ducunt uxóres; neque enim ultra mori possunt, æquáles enim ángelis sunt, et fílii sunt Dei, cum sint fílii resurrectiónis.",
+      "Quia vero resúrgant mórtui et Móyses osténdit secus rubum, sicut dicit: “ Dóminum Deum Abraham et Deum Isaac et Deum Iacob ”: Deus autem non est mortuórum sed vivórum, omnes enim vivunt ei »."
+    ],
+    "pdfs": [
+      "OT/c32ge_br.pdf"
     ]
   },
   "OT/c32ot": {
@@ -19393,6 +20460,29 @@
       "SA/purgl.pdf"
     ]
   },
+  "SA/purga_br": {
+    "id": "SA/purga_br",
+    "celebration": "IN PRÆSENTATIONE DOMINI",
+    "reading": "Evangelium",
+    "year": "",
+    "reference": "Lc 2:22–32",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "Tonus Antiquior",
+    "intro": "Léctio sancti Evangélii secúndum Lucam",
+    "paragraphs": [
+      "Postquam impléti sunt dies purgatiónis eórum secúndum legem Móysis, tulérunt Iesum paréntes eius in Hierosólymam, ut sísterent Dómino, sicut scriptum est in lege Dómini: « Omne masculínum adapériens vulvam sanctum Dómino vocábitur »; et ut darent hóstiam, secúndum quod dictum est in lege Dómini, « par túrturum aut duos pullos columbárum ».",
+      "Et ecce homo erat in Ierúsalem, cui nomen Sýmeon, et homo iste iustus et timorátus, exspéctans consolatiónem Israel, et Spíritus Sanctus erat super eum. Et respónsum accéperat a Spíritu Sancto, non visúrum se mortem, nisi prius vidéret Christum Dómini.",
+      "Et venit in Spíritu in templum, et, cum indúcerent púerum Iesum paréntes eius, ut fácerent secúndum consuetúdinem Legis pro eo, et ipse accépit eum in ulnas suas et benedíxit Deum et dixit:",
+      "« Nunc dimíttis servum tuum, Dómine, secúndum verbum tuum in pace; quia vidérunt óculi mei salutáre tuum, quod parásti ante fáciem ómnium populórum: lumen ad revelatiónem géntium et glóriam plebis tuæ Israel »."
+    ],
+    "pdfs": [
+      "SA/purga_br.pdf",
+      "SA/purge_br.pdf",
+      "SA/purgl_br.pdf"
+    ]
+  },
   "SA/purge": {
     "id": "SA/purge",
     "celebration": "IN PRÆSENTATIONE DOMINI",
@@ -19416,6 +20506,27 @@
     ],
     "pdfs": [
       "SA/purge.pdf"
+    ]
+  },
+  "SA/purge_br": {
+    "id": "SA/purge_br",
+    "celebration": "IN PRÆSENTATIONE DOMINI",
+    "reading": "Evangelium",
+    "year": "",
+    "reference": "Lc 2:22–32",
+    "form": "Forma Brevior",
+    "mass": "",
+    "number": "",
+    "tone": "Tonus Evangelii",
+    "intro": "Léctio sancti Evangélii secúndum Lucam",
+    "paragraphs": [
+      "Postquam impléti sunt dies purgatiónis eórum secúndum legem Móysis, tulérunt Iesum paréntes eius in Hierosólymam, ut sísterent Dómino, sicut scriptum est in lege Dómini: « Omne masculínum adapériens vulvam sanctum Dómino vocábitur »; et ut darent hóstiam, secúndum quod dictum est in lege Dómini, « par túrturum aut duos pullos columbárum ».",
+      "Et ecce homo erat in Ierúsalem, cui nomen Sýmeon, et homo iste iustus et timorátus, exspéctans consolatiónem Israel, et Spíritus Sanctus erat super eum. Et respónsum accéperat a Spíritu Sancto, non visúrum se mortem, nisi prius vidéret Christum Dómini.",
+      "Et venit in Spíritu in templum, et, cum indúcerent púerum Iesum paréntes eius, ut fácerent secúndum consuetúdinem Legis pro eo, et ipse accépit eum in ulnas suas et benedíxit Deum et dixit:",
+      "« Nunc dimíttis servum tuum, Dómine, secúndum verbum tuum in pace; quia vidérunt óculi mei salutáre tuum, quod parásti ante fáciem ómnium populórum: lumen ad revelatiónem géntium et glóriam plebis tuæ Israel »."
+    ],
+    "pdfs": [
+      "SA/purge_br.pdf"
     ]
   },
   "SA/purot": {
