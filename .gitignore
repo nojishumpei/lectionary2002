@@ -11,6 +11,13 @@ files/**/*.gsnippet
 /docs/
 /collation/
 
+# Reusable book build files and layout proofs stay local.
+/build/
+/books/lectern-sample.pdf
+/books/pulpit-sample.pdf
+/books/*.pdf.tmp
+/print-edition/
+
 # Python/macOS intermediates.
 __pycache__/
 *.py[cod]

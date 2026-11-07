@@ -1,0 +1,31 @@
+% Each celebration starts a new page. Part covers and their first reading
+% open on right-hand pages; blank versos have no header or page number.
+\usepackage{eso-pic}
+\setcounter{secnumdepth}{0}
+\renewcommand{\BookDayStart}{\clearpage}
+\newcommand{\BookEnsureRight}{%
+  \ifodd\value{page}\else
+    \thispagestyle{empty}\null\newpage
+  \fi
+}
+\newcommand{\BookOpenRight}{\clearpage\BookEnsureRight}
+\newcommand{\BookPartStyle}{\fontsize{36pt}{44pt}\selectfont\bfseries\upshape}
+\providecommand{\BookPartContents}[1]{}
+\NewDocumentCommand{\BookPart}{o m}{%
+  \BookOpenRight
+  \BookPartContents{#2}
+  \thispagestyle{empty}%
+  \AddToShipoutPictureFG*{%
+    \AtPageCenter{\makebox(0,0){%
+      \raisebox{.05\paperheight}{%
+      \parbox[c]{.85\paperwidth}{%
+        \centering\BookPartStyle\strut
+        \IfNoValueTF{#1}{\MakeUppercase{#2}}{\MakeUppercase{#1}}\strut\par
+      }%
+      }%
+    }}%
+  }%
+  \typeout{BOOK-PART: #2; page=\thepage}%
+  \null\newpage
+  \BookEnsureRight
+}

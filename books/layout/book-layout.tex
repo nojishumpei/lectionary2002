@@ -1,0 +1,189 @@
+% Lectern-book adapter. The reading sources remain unchanged.
+\usepackage{docmute}
+\usepackage{import}
+\usepackage{needspace}
+
+\providecommand{\LectionaryFiles}{../../files}
+
+\makeatletter
+\newif\ifbook@headingprinted
+\newif\ifbook@yearheadingprinted
+\newif\ifbook@dayactive
+\def\book@volume{lectern}
+\providecommand{\BookDayStart}{}
+\newcommand{\BookVolume}[1]{\def\book@volume{#1}}
+\newcommand{\book@resetmetadata}{%
+  \let\@title\@empty
+  \let\thereadingtype\@empty
+  \let\theyearcycle\@empty
+  \let\themassdesignation\@empty
+  \let\thereadingnumber\@empty
+  \let\thescriptureref\@empty
+  \let\thetone\@empty
+  \let\thereadingform\@empty
+  \let\thereadingnote\@empty
+}
+
+% A celebration contains its year sections in the desired order. The title
+% and Mass designation come from the first reading, once for the whole day.
+\newcommand{\BookDay}[1]{%
+  \par\begingroup
+  \ifbook@dayactive
+    \PackageError{lectionary-book}{Nested BookDay}%
+      {Finish one celebration before starting the next.}%
+  \fi
+  \BookDayStart
+  \book@dayactivetrue
+  \global\book@headingprintedfalse
+  \global\book@yearheadingprintedfalse
+  \let\book@cycle\@empty
+  #1%
+  \par\endgroup
+}
+
+% Explicit year sections also accommodate readings shared across cycles,
+% whose individual sources omit the cycle field.
+\newcommand{\BookYear}[2]{%
+  \def\book@cycle{#1}%
+  \global\book@yearheadingprintedfalse
+  \book@readings{#2}%
+}
+
+% Celebrations with the same readings every year need no year heading.
+\newcommand{\BookReadings}[1]{%
+  \let\book@cycle\@empty
+  \global\book@yearheadingprintedfalse
+  \book@readings{#1}%
+}
+
+\newcommand{\book@readings}[1]{%
+  \@for\book@entry:=#1\do{%
+    \expandafter\BookReading\expandafter{\book@entry}%
+  }%
+}
+
+\newcommand{\BookReading}[1]{%
+  \ifbook@dayactive\else
+    \PackageError{lectionary-book}{Reading outside BookDay}%
+      {Put each reading list inside a BookDay.}%
+  \fi
+  \par\begingroup
+  \let\book@savedtitle\@title
+  \book@resetmetadata
+  \edef\book@id{\zap@space#1 \@empty}%
+  \expandafter\filename@parse\expandafter{\book@id}%
+  \edef\book@directory{\LectionaryFiles/\filename@area}%
+  \edef\book@filename{\filename@base.tex}%
+  \typeout{BOOK-READING: \book@id}%
+  \expandafter\import\expandafter{\book@directory}{\book@filename}%
+  % LaTeX's title setter is global even inside a group.
+  \global\let\@title\book@savedtitle
+  \par\endgroup
+}
+
+% Metadata validation is shared by the individual book layout variants.
+\newcommand{\book@checkmetadata}{%
+  \def\book@gospel{Evangelium}%
+  \def\book@lecternvolume{lectern}%
+  \def\book@gospelvolume{gospel}%
+  \ifx\book@volume\book@lecternvolume
+    \ifx\thereadingtype\book@gospel
+      \PackageError{lectionary-book}{Gospel reading in the lectern book}%
+        {Keep this reading for the separate Gospel volume.}%
+    \fi
+  \else
+    \ifx\book@volume\book@gospelvolume
+      \ifx\thereadingtype\book@gospel\else
+        \PackageError{lectionary-book}{Non-Gospel reading in the Gospel book}%
+          {Keep this reading for the lectern volume.}%
+      \fi
+    \else
+      \PackageError{lectionary-book}{Unknown book volume}%
+        {Use BookVolume with lectern or gospel.}%
+    \fi
+  \fi
+  \ifx\theyearcycle\@empty\else
+    \ifx\theyearcycle\book@cycle\else
+      \PackageError{lectionary-book}{Reading cycle does not match BookYear}%
+        {Put this reading in the matching BookYear section.}%
+    \fi
+  \fi
+  \ifbook@headingprinted
+    \ifx\@title\book@daytitle\else
+      \PackageError{lectionary-book}{Mixed celebrations in one BookDay}%
+        {Start another BookDay for this reading.}%
+    \fi
+    \ifx\themassdesignation\book@daymass\else
+      \PackageError{lectionary-book}{Mixed Mass designations in one BookDay}%
+        {Keep readings for different Masses in separate BookDay lists.}%
+    \fi
+  \fi
+}
+\newcommand{\book@recordday}{%
+  \ifbook@headingprinted\else
+    \global\let\book@daytitle\@title
+    \global\let\book@daymass\themassdesignation
+    \global\book@headingprintedtrue
+    \typeout{BOOK-DAY: \@title; mass=\themassdesignation}%
+  \fi
+}
+\newcommand{\book@recordyear}{%
+  \ifbook@yearheadingprinted\else
+    \global\book@yearheadingprintedtrue
+    \ifx\book@cycle\@empty\else
+      \typeout{BOOK-YEAR: \book@cycle; day=\book@daytitle}%
+    \fi
+  \fi
+}
+\newcommand{\book@readingdetails}{%
+  \let\reading@details\@empty
+  \ifx\thereadingnumber\@empty\else\reading@adddetail{N.~\thereadingnumber}\fi
+  \ifx\thetone\@empty\else\reading@adddetail{\thetone}\fi
+  \ifx\thereadingform\@empty\else\reading@adddetail{\thereadingform}\fi
+  \ifx\thereadingnote\@empty\else\reading@adddetail{\thereadingnote}\fi
+}
+\newcommand{\book@logheading}{%
+  \typeout{BOOK-HEADING: \book@id; type=\thereadingtype; form=\thereadingform; number=\thereadingnumber; tone=\thetone}%
+}
+
+% The earlier flowing sample remains available without the grid adapter.
+\renewcommand{\makereadingtitle}{%
+  \book@checkmetadata
+  \ifbook@headingprinted
+    \par\addvspace{1.5\baselineskip}%
+    \ifbook@yearheadingprinted
+      \Needspace{8\baselineskip}%
+    \else
+      \Needspace{12\baselineskip}%
+    \fi
+  \else
+    \book@recordday
+    \par\addvspace{2\baselineskip}%
+    \Needspace{14\baselineskip}%
+    \begin{center}
+      {\large\bfseries\MakeUppercase{\@title}\par}
+      \ifx\themassdesignation\@empty\else
+        \vspace{3pt}{\small\themassdesignation\par}%
+      \fi
+    \end{center}%
+  \fi
+  \ifbook@yearheadingprinted\else
+    \book@recordyear
+    \ifx\book@cycle\@empty\else
+      \begin{center}
+        {\normalsize\bfseries Anno~\book@cycle\par}
+      \end{center}%
+    \fi
+  \fi
+  \begin{center}
+    {\normalsize\bfseries\MakeUppercase{\thereadingtype}\par}
+    \vspace{2pt}
+    {\normalsize\color{gregoriocolor}\thescriptureref\par}
+    \book@readingdetails
+    \ifx\reading@details\@empty\else
+      \vspace{2pt}{\small\reading@details\par}%
+    \fi
+  \end{center}%
+  \book@logheading
+}
+\makeatother

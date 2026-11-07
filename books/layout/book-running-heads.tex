@@ -1,0 +1,34 @@
+% Continuation-page navigation, independent of the reading/grid layout.
+\usepackage{fancyhdr}
+\providecommand{\BookGridSize}{72pt}
+\providecommand{\BookPageRows}{9}
+\providecommand{\BookTopMargin}{.75in}
+\providecommand{\BookSideMargin}{.75in}
+\providecommand{\BookHeadSep}{18pt}
+\geometry{reset,letterpaper,left=\BookSideMargin,right=\BookSideMargin,top=\BookTopMargin,textheight=\dimexpr\BookGridSize*\BookPageRows\relax,headheight=16pt,headsep=\BookHeadSep}
+\providecommand{\BookFooterAdjustment}{0pt}
+\addtolength{\footskip}{\BookFooterAdjustment}
+\setlength{\topskip}{0pt}
+\NewMarkClass{book-day}
+\renewcommand{\BookDayPageMark}[1]{\InsertMark{book-day}{#1}}
+
+% A newly inserted day mark identifies a page containing its full title.
+% Using placed marks also works when a celebration begins midway down a
+% page; it avoids guessing the page number while TeX is still assembling it.
+\newcommand{\BookRunningHead}{%
+  \IfMarksEqualTF{book-day}{top}{first}{%
+    \FirstMark{book-day}%
+  }{}%
+}
+\let\BookStandardHeadRule\headrule
+\fancypagestyle{lectionary}{%
+  \fancyhf{}
+  \fancyhead[C]{\fontsize{11}{13}\selectfont\upshape\BookRunningHead}
+  \fancyfoot[LE,RO]{\fontsize{11}{13}\selectfont\thepage}
+  \renewcommand{\headrulewidth}{0.3pt}
+  \renewcommand{\headrule}{%
+    \IfMarksEqualTF{book-day}{top}{first}{\BookStandardHeadRule}{}%
+  }
+  \renewcommand{\footrulewidth}{0pt}
+}
+\pagestyle{lectionary}

@@ -1,0 +1,25 @@
+% Shared typesetting profile for the lectern and Gospel books.
+\documentclass[14pt,twoside]{extarticle}
+\input{\LectionaryFiles/common/preamble}
+
+\newcommand{\BookGridSize}{61.5pt}
+\newcommand{\BookPageRows}{11}
+\newcommand{\BookSideMargin}{.5in}
+\newcommand{\BookTopMargin}{.72in}
+\newcommand{\BookHeadSep}{2pt}
+\newcommand{\BookFooterAdjustment}{-3pt}
+\grechangestaffsize{17}
+\grechangedim{spacelinestext}{3ex}{fixed}
+
+% Apply after loading the reading, grid and cycle-badge adapters.
+\newcommand{\BookConfigureReadings}{%
+  \BookReadingBaseline=33pt
+  \BookReferenceBaseline=33pt
+  \grechangestyle{initial}{\fontsize{48}{48}\selectfont\color{gregoriocolor}}{}%
+  \renewcommand{\BookDayTitleStyle}{\fontsize{18.5pt}{22pt}\selectfont\bfseries\upshape}%
+  \renewcommand{\BookSnippetLayout}{%
+    \grechangedim{manualinitialwidth}{0pt}{fixed}%
+    \grechangedim{beforeinitialshift}{5pt}{fixed}%
+    \grechangedim{afterinitialshift}{5pt}{fixed}%
+  }%
+}

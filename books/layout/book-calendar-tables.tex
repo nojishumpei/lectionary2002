@@ -1,0 +1,61 @@
+\usepackage{colortbl}
+\newenvironment{BookCalendarTable}{%
+  \par\fontsize{9pt}{12pt}\selectfont
+  \setlength{\tabcolsep}{1.8pt}%
+  \setlength{\parindent}{0pt}%
+  \renewcommand{\arraystretch}{1.2}%
+  \arrayrulecolor{gregoriocolor}%
+}{\par}
+\newcommand{\BookOpenLeft}{%
+  \clearpage
+  \ifodd\value{page}\thispagestyle{empty}\null\newpage\fi
+}
+
+\newcommand{\BookCalendarOuterRule}{%
+  \noalign{\begingroup\color{gregoriocolor}\hrule height .9pt\endgroup}%
+}
+\newcommand{\BookMissaleTitle}[1]{%
+  \par\nointerlineskip
+  \vbox to68pt{%
+    \hsize=\linewidth
+    \centering
+    #1\par\vfil
+  }%
+  \nointerlineskip
+}
+\newbox\BookMissaleTableBox
+\newdimen\BookMissaleTableHeight
+\newdimen\BookMissaleRowAdjustment
+\newdimen\BookMissaleTableRemainder
+\newcommand{\BookMissaleTable}[2]{%
+  \setbox\BookMissaleTableBox=\hbox{#2}%
+  \ifnum#1=0
+    \global\BookMissaleTableHeight=\dimexpr\ht\BookMissaleTableBox+\dp\BookMissaleTableBox\relax
+  \else
+    % Distribute the height difference among the body rows, keeping the
+    % type and the common header at their original size.
+    \BookMissaleTableRemainder=\dimexpr\BookMissaleTableHeight-\ht\BookMissaleTableBox-\dp\BookMissaleTableBox\relax
+    \BookMissaleRowAdjustment=\dimexpr\BookMissaleTableRemainder/#1\relax
+    \advance\BookMissaleTableRemainder by\dimexpr-\BookMissaleRowAdjustment*#1\relax
+    \setbox\BookMissaleTableBox=\hbox{#2}%
+  \fi
+  \nointerlineskip\box\BookMissaleTableBox
+}
+\newcommand{\BookCalendarDate}[2]{%
+  \makebox[1.06em][r]{{\addfontfeatures{Numbers=Monospaced}#1}}%
+  \hspace{.22em}%
+  \makebox[1.65em][l]{#2}%
+}
+\newcommand{\BookCalendarWeek}[1]{%
+  \makebox[1.06em][r]{{\addfontfeatures{Numbers=Monospaced}#1}}%
+}
+\newcommand{\BookCalendarHeading}[3]{%
+  \ensuremath{\vcenter{\hbox{\shortstack[c]{%
+    \raisebox{0pt}[7pt][1.5pt]{#1}\\%
+    \raisebox{0pt}[7pt][1.5pt]{#2}\\%
+    \raisebox{0pt}[7pt][1.5pt]{#3}%
+  }}}}%
+}
+\newcommand{\BookCalendarTwoLineHeading}[2]{%
+  \BookCalendarHeading{\raisebox{-5.75pt}{#1}}{\raisebox{-5.75pt}{#2}}{}%
+}

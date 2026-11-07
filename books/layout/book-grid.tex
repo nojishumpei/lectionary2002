@@ -1,0 +1,199 @@
+% Book-only fixed grid. Load after book-layout.tex.
+\newdimen\BookGridStep
+\providecommand{\BookGridSize}{72pt}
+\providecommand{\BookPageRows}{9}
+\BookGridStep=\BookGridSize\relax
+\grechangedim{baselineskip}{\BookGridSize}{fixed}
+\newdimen\BookGridStaffTop
+\providecommand{\BookStaffOffset}{12pt}
+\BookGridStaffTop=\BookStaffOffset\relax
+% Keep descenders on large initials within the same chant row.
+\gresetinitialanchor{bottom}
+\typeout{BOOK-INITIAL-ANCHOR: bottom}
+
+% All reading rows share these three baseline positions. The year/details
+% line is omitted when absent; the designation and reference stay fixed.
+\newdimen\BookYearBaseline
+\BookYearBaseline=30pt
+\newdimen\BookReadingBaseline
+\BookReadingBaseline=50pt
+\newdimen\BookReferenceBaseline
+\BookReferenceBaseline=67pt
+
+% Opt-in experiment: give each year label a separate complete grid row.
+\newif\ifBookSeparateYearRow
+\newif\ifBookAlignedReadingHeads
+\newif\ifBookYearGap
+
+\newcommand{\BookDayTitleStyle}{\large\bfseries\upshape}
+\newcommand{\BookYearStyle}{\small\mdseries\upshape}
+\newfontface\BookReadingTitleFont[
+  SmallCapsFont=MinionPro-Semibold,
+  SmallCapsFeatures={Letters=SmallCaps}
+]{MinionPro-Semibold}
+\newcommand{\BookReadingStyle}{\BookReadingTitleFont\normalsize\scshape}
+\newcommand{\BookReferenceStyle}{\small\mdseries\upshape\color{gregoriocolor}}
+
+\setlength{\textheight}{\BookPageRows\BookGridStep}
+\setlength{\topskip}{0pt}
+\setlength{\parskip}{0pt}
+\raggedbottom
+
+\makeatletter
+\newbox\bookgrid@score
+\newbox\bookgrid@day
+\newbox\bookgrid@year
+\newbox\bookgrid@aux
+\newbox\bookgrid@designation
+\newbox\bookgrid@reference
+\newdimen\bookgrid@headingheight
+\newdimen\bookgrid@beforeheight
+\newcount\bookgrid@scorelines
+\newif\ifbookgrid@newday
+\newif\ifbookgrid@newyear
+\newif\ifbookgrid@yearrow
+\providecommand{\BookDayPageMark}[1]{}
+\def\bookgrid@nextpenalty{10000}
+\directlua{bookgrid = dofile("book-grid.lua")}
+
+% A celebration title has its own complete row. Year and reading metadata
+% never enter this box. A supplied Mass designation identifies the title.
+\newcommand{\bookgrid@makeday}{%
+  \setbox\bookgrid@day=\vbox{%
+    \hsize=\linewidth
+    \parskip=0pt
+    \centering
+    {\BookDayTitleStyle\strut\MakeUppercase{\@title}\strut\par}%
+    \ifx\themassdesignation\@empty\else
+      \kern3pt{\fontsize{12}{14}\selectfont\strut\themassdesignation\strut\par}%
+    \fi
+  }%
+  \ifdim\dimexpr\ht\bookgrid@day+\dp\bookgrid@day\relax>\BookGridStep
+    \PackageError{lectionary-book}{Celebration title exceeds one grid row}%
+      {Adjust BookDayTitleStyle for this title.}%
+  \fi
+}
+
+% Place a centered line at a specified baseline in the current row.
+\newcommand{\bookgrid@putline}[2]{%
+  \vbox to0pt{\kern\dimexpr#2-\ht#1\relax\box#1\vss}%
+  \nointerlineskip
+}
+\newcommand{\bookgrid@makereading}{%
+  \book@readingdetails
+  \let\bookgrid@details\reading@details
+  \let\reading@details\@empty
+  \ifbookgrid@newyear
+    \ifbookgrid@yearrow\else\reading@adddetail{Anno~\book@cycle}\fi
+  \fi
+  \ifx\bookgrid@details\@empty\else\reading@adddetail{\bookgrid@details}\fi
+  \ifbookgrid@yearrow
+    \setbox\bookgrid@year=\hbox to\linewidth{%
+      \hfil{\BookYearStyle\strut Anno~\book@cycle\strut}\hfil}%
+  \fi
+  \setbox\bookgrid@aux=\hbox to\linewidth{%
+    \hfil{\BookYearStyle\strut\reading@details\strut}\hfil}%
+  \setbox\bookgrid@designation=\hbox to\linewidth{%
+    \ifBookAlignedReadingHeads\else\hfil\fi
+    {\BookReadingStyle\strut\thereadingtype\strut}\hfil}%
+  \setbox\bookgrid@reference=\hbox to\linewidth{%
+    \hfil{\BookReferenceStyle\strut\thescriptureref\strut}%
+    \ifBookAlignedReadingHeads\else\hfil\fi}%
+}
+\renewcommand{\makereadingtitle}{%
+  \par\begingroup
+  \book@checkmetadata
+  \bookgrid@newdayfalse
+  \bookgrid@newyearfalse
+  \bookgrid@yearrowfalse
+  \ifbook@headingprinted\else\bookgrid@newdaytrue\fi
+  \ifbook@yearheadingprinted\else
+    \ifx\book@cycle\@empty\else\bookgrid@newyeartrue\fi
+  \fi
+  \bookgrid@headingheight=\BookGridStep
+  \bookgrid@beforeheight=0pt
+  \ifBookYearGap
+    \ifbookgrid@newyear
+      \ifbookgrid@newday\else\bookgrid@beforeheight=\BookGridStep\fi
+    \fi
+  \fi
+  \ifBookSeparateYearRow
+    \ifbookgrid@newyear
+      \bookgrid@yearrowtrue
+      \advance\bookgrid@headingheight by\BookGridStep
+    \fi
+  \fi
+  \ifbookgrid@newday
+    \bookgrid@makeday
+    \advance\bookgrid@headingheight by\BookGridStep
+  \fi
+  \bookgrid@makereading
+  \book@recordday
+  \book@recordyear
+  \Needspace{\dimexpr\bookgrid@beforeheight+\bookgrid@headingheight+2\BookGridStep\relax}%
+  \penalty0
+  \ifdim\bookgrid@beforeheight>0pt
+    % A full blank row within a page; ordinary vertical glue disappears
+    % when this year starts a new page.
+    \vskip\bookgrid@beforeheight
+    \penalty10000
+    \typeout{BOOK-GRID-YEAR-GAP: \book@id; height=\the\bookgrid@beforeheight}%
+  \fi
+  \ifbookgrid@newday
+    \BookDayPageMark{\@title}%
+    \nointerlineskip
+    \vbox to\BookGridStep{\vfil\box\bookgrid@day\vfil}%
+    \penalty10000
+    \typeout{BOOK-GRID-DAY-ROW: \book@id; height=\the\BookGridStep}%
+  \fi
+  \ifbookgrid@yearrow
+    \nointerlineskip
+    \vbox to\BookGridStep{\vfil\box\bookgrid@year\vfil}%
+    \penalty10000
+    \typeout{BOOK-GRID-YEAR-ROW: \book@id; height=\the\BookGridStep}%
+  \fi
+  \nointerlineskip
+  \vbox to\BookGridStep{%
+    \offinterlineskip
+    \bookgrid@putline\bookgrid@aux\BookYearBaseline
+    \bookgrid@putline\bookgrid@designation\BookReadingBaseline
+    \bookgrid@putline\bookgrid@reference\BookReferenceBaseline
+    \vfil
+  }%
+  \nointerlineskip
+  \book@logheading
+  \typeout{BOOK-GRID-READING-ROW: \book@id; height=\the\BookGridStep}%
+  \typeout{BOOK-GRID-HEADER: \book@id; height=\the\bookgrid@headingheight}%
+  \endgroup
+  \def\bookgrid@nextpenalty{10000}%
+}
+
+% Gregorio still engraves and breaks the original score normally. Its lines
+% are then released as separate, breakable rows with a common staff anchor.
+\providecommand{\BookSnippetLayout}{}
+\let\bookgrid@originalsnippet\gabcsnippet
+\renewcommand{\gabcsnippet}[1]{%
+  \par
+  \setbox\bookgrid@score=\vbox{%
+    \hsize=\linewidth
+    \BookSnippetLayout
+    \bookgrid@originalsnippet{#1}%
+  }%
+  \directlua{tex.count['bookgrid@scorelines'] =
+    bookgrid.normalize(\number\bookgrid@score,
+      \number\BookGridStep, \number\BookGridStaffTop)}%
+  % A conclusion may stand alone on the following page. Only an explicit
+  % heading/introduction keep is enforced here.
+  \penalty\bookgrid@nextpenalty
+  \nointerlineskip\unvbox\bookgrid@score
+  \nointerlineskip
+  \def\bookgrid@nextpenalty{0}%
+}
+
+% Keep the introduction with the first line of the main text.
+\NewCommandCopy\bookgrid@originalintro\readingintro
+\renewcommand{\readingintro}[2][h]{%
+  \bookgrid@originalintro[#1]{#2}%
+  \def\bookgrid@nextpenalty{10000}%
+}
+\makeatother

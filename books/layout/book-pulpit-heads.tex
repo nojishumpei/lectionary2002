@@ -1,0 +1,65 @@
+% Gospel headings on the shared cycle-badge layout and chant grid.
+% Two opening dialogue lines and the first line of the Gospel stay together.
+\renewcommand{\BookOpeningScoreRows}{3}
+\makeatletter
+\newcommand*{\bookpulpit@previouspassage}{}
+\renewcommand{\bookbadge@titlereference}{%
+  \nointerlineskip\kern3pt
+  \ifx\thereadingform\@empty\else
+    \hbox to\hsize{\hfil{\BookReferenceStyle\BookReadingTitleFont\strut\thereadingform}\hfil}%
+    \nointerlineskip\kern1pt
+  \fi
+  \hbox to\hsize{\hfil{\BookReferenceStyle\strut\thescriptureref
+    \ifx\thereadingnote\@empty\else\enspace\textperiodcentered\enspace\thereadingnote\fi}\hfil}%
+}
+\renewcommand{\bookbadge@talltitle}{%
+  \bookbadge@titlegrid=2\BookGridStep
+  \ifdim\bookbadge@titleheight>\bookbadge@titlegrid
+    \PackageError{lectionary-book}{Gospel title exceeds two grid rows}%
+      {Adjust the printed title break or the shared title width.}%
+  \fi
+}
+
+% Reserve the title lines' natural height when only the reference is printed.
+\newbox\bookpulpit@phantomtitle
+\let\bookpulpit@titlelines\bookbadge@titlelines
+\newcommand{\bookpulpit@hidetitle}[2]{%
+  \setbox\bookpulpit@phantomtitle=\vbox{\bookpulpit@titlelines{#1}{#2}}%
+  \kern\dimexpr\ht\bookpulpit@phantomtitle+\dp\bookpulpit@phantomtitle\relax
+}
+\renewcommand{\bookbadge@makereading}{%
+  \setbox\bookgrid@designation=\hbox to\linewidth{%
+    {\BookReadingTitleFont\fontsize{16}{19}\selectfont\scshape\color{black}\strut\thetone}\hfil}%
+  \protected@edef\bookpulpit@passage{{\thescriptureref}{\thereadingform}}%
+  \ifbookbadge@opener\else
+    \ifx\bookpulpit@passage\bookpulpit@previouspassage\else
+      \let\bookbadge@titlelines\bookpulpit@hidetitle
+      \bookbadge@makebadge
+      \bookbadge@maketitle
+      \setbox\bookbadge@badge=\hbox{}%
+      \bookgrid@beforeheight=\BookGridStep
+      \advance\bookgrid@headingheight by\bookbadge@titlegrid
+    \fi
+  \fi
+  \global\let\bookpulpit@previouspassage\bookpulpit@passage
+}
+\renewcommand{\bookbadge@putreading}{%
+  \bookgrid@putline\bookgrid@designation{\dimexpr\BookGridStep-12pt\relax}%
+}
+
+% The first custos is inline and the second ends the dialogue score.
+\NewCommandCopy\bookpulpit@originalintrosnippet\readingintrosnippet
+\newcommand{\bookpulpit@opening}[2]{%
+  \begingroup
+  \grechangedim{spacebeforeinlinecustos}{spacebeforeeolcustos}{inherited}%
+  #1{#2}%
+  \endgroup
+}
+\renewcommand{\readingintrosnippet}[1]{%
+  \bookpulpit@opening\bookpulpit@originalintrosnippet{#1}%
+}
+\newcommand{\BookGospelOpening}[1]{%
+  \bookpulpit@opening\gabcsnippet{#1}%
+  \def\bookgrid@nextpenalty{10000}%
+}
+\makeatother

@@ -1,0 +1,215 @@
+% Repeat the celebration title for each cycle, with a badge.
+% Load after book-grid.tex and book-running-heads.tex.
+\BookSeparateYearRowfalse
+\BookAlignedReadingHeadstrue
+\BookYearGapfalse
+\BookReadingBaseline=37pt
+\BookReferenceBaseline=37pt
+\renewcommand{\BookReadingStyle}{\BookReadingTitleFont\large\mdseries\upshape\color{gregoriocolor}}
+\renewcommand{\BookReferenceStyle}{\normalfont\normalsize\mdseries\upshape\color{gregoriocolor}}
+\newfontface\BookCycleBadgeFace{HelveticaNeue-Bold}
+\newcommand{\BookCycleBadgeStyle}{\BookCycleBadgeFace\normalsize\upshape\color{white}}
+
+\newdimen\BookCycleBadgeSize
+\BookCycleBadgeSize=20pt
+\newdimen\BookCycleBadgeGap
+\BookCycleBadgeGap=3pt
+\newcommand{\BookCycleBadge}[1]{%
+  \begingroup\fboxsep=0pt
+  \colorbox{black}{%
+    \vbox to\BookCycleBadgeSize{%
+      \vfil
+      \hbox to\BookCycleBadgeSize{%
+        \hfil{\BookCycleBadgeStyle#1}\hfil}%
+      \vfil
+    }%
+  }%
+  \endgroup
+}
+
+\makeatletter
+\newbox\bookbadge@form
+\newbox\bookbadge@title
+\newbox\bookbadge@badge
+\newdimen\bookbadge@titlewidth
+\newdimen\bookbadge@titleheight
+\newdimen\bookbadge@titlegrid
+\newif\ifbookbadge@opener
+\newcommand{\BookOpeningScoreRows}{2}
+\newcommand{\BookFuneralSection}[2]{%
+  \bookbadge@funeraltrue
+  \renewcommand{\BookCelebrationTitle}[1]{#1}%
+  \def\bookbadge@qualifier{#2}%
+  \renewcommand{\BookStandardHeadRule}{}%
+}
+\newif\ifbookbadge@funeral
+\newcommand{\bookbadge@makebadge}{%
+  \setbox\bookbadge@badge=\hbox{%
+    \def\bookbadge@common{ABC}%
+    \ifx\book@cycle\@empty\else
+      \ifx\book@cycle\bookbadge@common
+        \BookCycleBadge{A}\kern\BookCycleBadgeGap
+        \BookCycleBadge{B}\kern\BookCycleBadgeGap\BookCycleBadge{C}%
+      \else
+        \def\bookbadge@valid{0}%
+        \@for\bookbadge@allowed:=A,B,C\do{%
+          \ifx\book@cycle\bookbadge@allowed\def\bookbadge@valid{1}\fi}%
+        \ifnum\bookbadge@valid=0
+          \PackageError{lectionary-book}{Unsupported cycle badge}%
+            {Use A, B, C, or ABC for a common group.}%
+        \fi
+        \BookCycleBadge{\book@cycle}%
+      \fi
+    \fi
+  }%
+}
+\providecommand{\BookCelebrationTitle}[1]{#1}
+\providecommand*{\BookCelebrationSubtitle}{}
+\newcommand{\bookbadge@titlereference}{}
+\newcommand{\bookbadge@titlelines}[2]{%
+  {\BookDayTitleStyle\strut\MakeUppercase{\BookCelebrationTitle{\@title}}\strut\par}%
+  \let\bookbadge@subtitle\themassdesignation
+  \ifx\BookCelebrationSubtitle\@empty\else
+    \let\bookbadge@subtitle\BookCelebrationSubtitle
+  \fi
+  \ifbookbadge@funeral\let\bookbadge@subtitle\bookbadge@qualifier\fi
+  \ifx\bookbadge@subtitle\@empty\else
+    #1\kern2pt{\normalsize\mdseries\scshape#2\bookbadge@subtitle#2\par}%
+  \fi
+}
+\newcommand{\bookbadge@titlebox}[2]{%
+  \setbox\bookbadge@title=\vbox{%
+    \hsize=\bookbadge@titlewidth\parskip=0pt\centering
+    \bookbadge@titlelines{#1}{#2}%
+    \bookbadge@titlereference
+  }%
+  \bookbadge@titleheight=\dimexpr\ht\bookbadge@title+\dp\bookbadge@title\relax
+}
+\newcommand{\bookbadge@maketitle}{%
+  % Reserve the badge width on either side, keeping the title centered
+  % on the page and clear of the right-aligned badge.
+  \bookbadge@titlewidth=\linewidth
+  \bookbadge@titlegrid=\BookGridStep
+  \ifx\book@cycle\@empty\else
+    \advance\bookbadge@titlewidth by\dimexpr-2\wd\bookbadge@badge-16pt\relax
+  \fi
+  \bookbadge@titlebox{}{\strut}%
+  \ifdim\bookbadge@titleheight>\bookbadge@titlegrid
+    % Wrapped titles can use the Mass line's natural height.
+    \bookbadge@titlebox{\nointerlineskip}{}%
+  \fi
+  \ifdim\bookbadge@titleheight>\bookbadge@titlegrid
+    \bookbadge@talltitle
+  \fi
+}
+\newcommand{\bookbadge@talltitle}{%
+  \PackageError{lectionary-book}{Badged celebration title exceeds one grid row}%
+    {Adjust BookDayTitleStyle or the shared title width.}%
+}
+\newcommand{\bookbadge@puttitle}[1]{%
+  \vbox to0pt{%
+    \vbox to#1{\hbox to\linewidth{\hfil\box\bookbadge@title\hfil}\vfil}%
+    \vss}%
+  \nointerlineskip
+  \vbox to0pt{%
+    \vbox to#1{\hbox to\linewidth{\hfil\box\bookbadge@badge}\vfil}%
+    \vss}%
+  \nointerlineskip
+}
+\newcommand{\bookbadge@mark}{%
+  \protected@edef\bookbadge@running{\@title}%
+  \ifx\themassdesignation\@empty\else
+    \protected@edef\bookbadge@running{\bookbadge@running\space\textperiodcentered\space\themassdesignation}%
+  \fi
+  \ifx\book@cycle\@empty\else
+    \def\bookbadge@common{ABC}%
+    \def\bookbadge@yearlabel{Anno~\book@cycle}%
+    \ifx\book@cycle\bookbadge@common
+      \def\bookbadge@yearlabel{Annis A, B et C}%
+    \fi
+    \protected@edef\bookbadge@running{\bookbadge@running\space\textperiodcentered\space\bookbadge@yearlabel}%
+  \fi
+  \expandafter\BookDayPageMark\expandafter{\bookbadge@running}%
+}
+\newcommand{\bookbadge@makereading}{%
+  % The cycle is carried by the badge, leaving only optional reading details
+  % in the grid adapter's auxiliary line.
+  \bookgrid@newyearfalse
+  \bookgrid@yearrowfalse
+  \let\bookbadge@savedform\thereadingform
+  \let\thereadingform\@empty
+  \let\bookbadge@savednumber\thereadingnumber
+  \ifbookbadge@funeral\let\thereadingnumber\@empty\fi
+  \bookgrid@makereading
+  \let\thereadingnumber\bookbadge@savednumber
+  \let\thereadingform\bookbadge@savedform
+  \setbox\bookbadge@form=\hbox to\linewidth{%
+    {\normalfont\normalsize\color{black}\strut\thereadingform}\hfil}%
+  \setbox\bookgrid@designation=\hbox to\linewidth{%
+    {\BookReadingStyle\strut
+      \ifbookbadge@funeral N.~\thereadingnumber\else\MakeUppercase{\thereadingtype}\fi
+      \strut}\hfil}%
+}
+\newcommand{\bookbadge@putreading}{%
+  \bookgrid@putline\bookgrid@designation\BookReadingBaseline
+  \bookgrid@putline\bookgrid@reference\BookReferenceBaseline
+  \bookgrid@putline\bookgrid@aux\BookYearBaseline
+  \bookgrid@putline\bookbadge@form{\dimexpr\BookReadingBaseline+20pt\relax}%
+}
+\renewcommand{\makereadingtitle}{%
+  \par\begingroup
+  \book@checkmetadata
+  \bookbadge@openerfalse
+  \ifbook@headingprinted
+    \ifbook@yearheadingprinted\else\bookbadge@openertrue\fi
+  \else\bookbadge@openertrue\fi
+  \ifbookbadge@opener\clearpage\fi
+  \bookgrid@headingheight=\BookGridStep
+  \bookgrid@beforeheight=0pt
+  \ifbookbadge@opener
+    \bookbadge@makebadge
+    \bookbadge@maketitle
+    \advance\bookgrid@headingheight by\bookbadge@titlegrid
+  \else
+    \ifbookbadge@funeral
+      \bookgrid@beforeheight=\BookGridStep
+    \else
+      \def\bookbadge@second{Lectio Secunda}%
+      \ifx\thereadingtype\bookbadge@second
+        \bookgrid@beforeheight=\BookGridStep
+      \fi
+    \fi
+  \fi
+  \bookbadge@makereading
+  \book@recordday
+  \book@recordyear
+  \Needspace{\dimexpr\bookgrid@beforeheight+\bookgrid@headingheight+\BookOpeningScoreRows\BookGridStep\relax}%
+  \penalty0
+  \ifbookbadge@opener
+    \ifbookbadge@funeral\else\bookbadge@mark\fi
+    \typeout{BOOK-CYCLE-OPENER: \book@id; cycle=\book@cycle; height=\the\bookgrid@headingheight; title=\@title}%
+  \fi
+  \ifdim\bookgrid@beforeheight>0pt
+    % Discard the blank row at a page break, keeping the next heading at the top.
+    \vskip\bookgrid@beforeheight
+    \penalty10000
+    \typeout{BOOK-READING-GAP: \book@id; height=\the\bookgrid@beforeheight}%
+  \fi
+  \ifdim\bookgrid@headingheight>\BookGridStep
+    \nointerlineskip
+    \vbox to\bookbadge@titlegrid{\offinterlineskip\bookbadge@puttitle\bookbadge@titlegrid\vfil}%
+    \penalty10000
+  \fi
+  \nointerlineskip
+  \vbox to\BookGridStep{%
+    \offinterlineskip
+    \bookbadge@putreading
+    \vfil
+  }%
+  \nointerlineskip
+  \book@logheading
+  \typeout{BOOK-GRID-HEADER: \book@id; height=\the\bookgrid@headingheight}%
+  \endgroup
+  \def\bookgrid@nextpenalty{10000}%
+}
+\makeatother
