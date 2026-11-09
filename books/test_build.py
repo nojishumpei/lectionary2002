@@ -8,9 +8,30 @@ from unittest.mock import patch
 
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
+from book_index import scripture_sort
+
 spec = importlib.util.spec_from_file_location('book_builder', HERE / 'build.py')
 builder = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(builder)
+
+
+class ScriptureIndex(unittest.TestCase):
+    def test_nova_vulgata_order_and_numeric_sorting(self):
+        references = [r"1~Petr~1:3--9", r"2~Mac~12:43--46", r"Is~40:1--5, 9--11",
+                      r"Is~6:1--2a", r"Iac~1:17--18", r"Is~6:1--2"]
+        ordered = sorted(map(builder.scripture_reference, references), key=scripture_sort)
+        self.assertEqual(ordered, [("Is", "6:1–2"), ("Is", "6:1–2a"), ("Is", "40:1–5, 9–11"),
+                                   ("2 Mac", "12:43–46"), ("Iac", "1:17–18"), ("1 Petr", "1:3–9")])
+
+    def test_shared_index_only_links_pages_in_the_current_volume(self):
+        reference = ("Is", "40:1–5, 9–11")
+        locations = [(reference, "Dominica II Adventus", "", "I", 19),
+                     (reference, "Alia celebratio", "", "II", 19)]
+        index = builder.scripture_index(locations, volume="II")
+        self.assertEqual(index.count("Is~40:1--5, 9--11"), 1)
+        self.assertIn("I,~19", index)
+        self.assertIn(r"\hyperlink{page.19}{II,~19}", index)
+        self.assertEqual(index.count(r"\hyperlink{"), 1)
 
 
 class CatalogueSelection(unittest.TestCase):

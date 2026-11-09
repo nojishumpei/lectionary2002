@@ -14,6 +14,7 @@ import subprocess
 import sys
 
 from book_calendar import CALENDAR_NOTE, day_month, gregorian_easter, missale_appendix, second_reading_table
+from book_index import INDEX_OPENING, index_context, scripture_index, scripture_reference
 from book_titles import CELEBRATION_SUBTITLES, CELEBRATION_TITLE_BREAKS, PART_TITLE_BREAKS
 
 BOOKS = Path(__file__).resolve().parent
@@ -21,6 +22,10 @@ LAYOUT = BOOKS / "layout"
 ROOT = BOOKS.parent
 ORDINARY_TIME_PART = "Tempus « Per Annum »"
 PDF_LINK = re.compile(r"\(files/([\w/-]+)\.pdf\)")
+OPTIONAL_READING = re.compile(
+    r'<span class="reading-form">Ad libitum</span>\s*'
+    r'(?:<span class="reading-form">Forma (?:Longior|Brevior)</span>\s*)?'
+    r'\[[^\]]+\]' + PDF_LINK.pattern)
 CHANT_SNIPPET = re.compile(r"^\\gabcsnippet\{(.*?)^\}", re.M | re.S)
 CONCLUSION_INPUT = re.compile(
     r"^(?:\\nopagebreak(?:\[[0-4]\])?[ \t]*\n[ \t]*)?"
@@ -376,7 +381,7 @@ def write_json(path, value):
     temporary.replace(path)
 
 
-def build_book(args, parts, *, select=selection, assembly_dir=None, title_page=None):
+def prepare_book(args, parts, *, select=selection, assembly_dir=None, title_page=None, volume=""):
     for program in ("lualatex", "gregorio"):
         if not shutil.which(program):
             raise RuntimeError(f"{program} is required; see MAINTENANCE.md")
@@ -394,7 +399,7 @@ def build_book(args, parts, *, select=selection, assembly_dir=None, title_page=N
     common = staged / "common"
     common.mkdir(parents=True, exist_ok=True)
     inputs = [ROOT / "index.md", Path(__file__).resolve(),
-              BOOKS / "book_calendar.py", BOOKS / "book_titles.py",
+              BOOKS / "book_calendar.py", BOOKS / "book_index.py", BOOKS / "book_titles.py",
               *sorted(LAYOUT.glob("*.tex")), LAYOUT / "book-grid.lua"]
     if title_page is not None:
         inputs.append(title_page)
@@ -413,15 +418,26 @@ def build_book(args, parts, *, select=selection, assembly_dir=None, title_page=N
             shutil.copyfile(path, target)
     conclusions = {name: CHANT_SNIPPET.search((common / (name + ".tex")).read_text(encoding="utf-8"))[1].strip()
                    for name in CONCLUSION_NAMES}
+    optional_readings = set(OPTIONAL_READING.findall((ROOT / "index.md").read_text(encoding="utf-8")))
+    index_metadata = {}
     for _, groups in parts:
-        for _, keys, _, _ in groups:
+        for _, keys, directive, _ in groups:
             for key in keys:
                 path = ROOT / "files" / (key + ".tex")
                 inputs.append(path)
                 target = staged / (key + ".tex")
                 target.parent.mkdir(parents=True, exist_ok=True)
                 try:
-                    adapted = book_reading(path.read_text(encoding="utf-8"), conclusions, pulpit=pulpit)
+                    source = path.read_text(encoding="utf-8")
+                    adapted = book_reading(source, conclusions, pulpit=pulpit)
+                    reference = scripture_reference(metadata(source, "scriptureref"))
+                    fields = [metadata(source, field) for field in (
+                        "title", "massdesignation", "readingnumber", "readingtype", "readingform", "readingnote")]
+                    if key in optional_readings and not fields[-1]:
+                        fields[-1] = "Ad libitum"
+                    cycle = "ABC" if r"\BookYear{ABC}" in directive else metadata(source, "yearcycle")
+                    context = index_context(key, fields, cycle, pulpit=pulpit)
+                    index_metadata[key] = (reference, context, metadata(source, "tone") if pulpit else "")
                 except ValueError as error:
                     raise ValueError(f"{key}: {error}") from error
                 target.write_text(adapted, encoding="utf-8")
@@ -452,12 +468,13 @@ def build_book(args, parts, *, select=selection, assembly_dir=None, title_page=N
 \input{book-running-heads}
 \input{book-sections}
 \input{book-calendar-tables}
+\usepackage{array,longtable}
 \usepackage{pdfpages}
 \usepackage[hidelinks]{hyperref}
 \hypersetup{pdftitle={\BookPDFTitle},pdfauthor={Lectionary2002},
   pdfpagelayout=TwoPageRight,pdfstartview=Fit}
 \newfontface\BookTitleSubtitleFont[Letters=SmallCaps]{MinionPro-Regular}
-\renewcommand{\contentsname}{Index}
+\renewcommand{\contentsname}{Index generalis}
 \setcounter{tocdepth}{2}
 \protected\def\BookIndexSubtitleBreak{\newline}
 \pdfstringdefDisableCommands{\def\BookIndexSubtitleBreak{ · }}
@@ -530,6 +547,7 @@ def build_book(args, parts, *, select=selection, assembly_dir=None, title_page=N
     if not pulpit and (sample or any(part == ORDINARY_TIME_PART for part, _ in parts)):
         master += second_reading_table()
     jobs = []
+    group_keys = {}
     for part, groups in parts:
         indexed = set()
         cover = PART_TITLE_BREAKS.get(part)
@@ -548,6 +566,7 @@ def build_book(args, parts, *, select=selection, assembly_dir=None, title_page=N
             if subtitle:
                 body = rf"\renewcommand*{{\BookCelebrationSubtitle}}{{{subtitle}}}" + "\n" + body
             jobs.append((directory, keys, chapter + body + "\n\\end{document}\n"))
+            group_keys[number] = keys
             toc = ""
             if title not in indexed:
                 index_title = title
@@ -556,8 +575,9 @@ def build_book(args, parts, *, select=selection, assembly_dir=None, title_page=N
                 toc = rf",addtotoc={{1,subsection,2,{{{index_title}}},day-{number}}}"
                 indexed.add(title)
             relative = os.path.relpath(directory, assembly_dir)
+            record_page = rf",pagecommand*={{\typeout{{BOOK-GROUP-PAGE: {number} \thepage}}}}"
             master += (r"\includepdf[pages=-,noautoscale,pagecommand={\thispagestyle{booknumber}}" +
-                       f"{toc}]{{{relative}/book.pdf}}\n")
+                       f"{record_page}{toc}]{{{relative}/book.pdf}}\n")
     count = sum(len(keys) for _, keys, _ in jobs)
     print(f"Building {count} readings in {len(jobs)} groups.", flush=True)
 
@@ -580,16 +600,23 @@ def build_book(args, parts, *, select=selection, assembly_dir=None, title_page=N
                 previous = json.loads(stamp.read_text(encoding="utf-8"))
                 if (previous.get("fingerprint") == digest and previous.get("readings") == keys and
                         previous.get("pdf_sha256") == file_hash(pdf)):
-                    return {"readings": keys, "reused": True, "pdf_sha256": previous["pdf_sha256"]}
-            except (ValueError, OSError):
+                    return {"readings": keys, "reused": True, "pdf_sha256": previous["pdf_sha256"],
+                            "reading_pages": previous["reading_pages"]}
+            except (ValueError, KeyError, OSError):
                 pass
         stamp.unlink(missing_ok=True)
         log = compile_tex(directory, source, env, chant=True)
         if re.findall(r"^BOOK-HEADING: (\S+);", log, re.M) != keys:
             raise RuntimeError(f"Reading headings differ from catalogue in {directory}")
+        reading_pages = {key: int(page) for key, page in
+                         re.findall(r"^BOOK-READING-PAGE: (\S+) (\d+)$", log, re.M)}
+        if list(reading_pages) != keys or list(reading_pages.values()) != sorted(reading_pages.values()):
+            raise RuntimeError(f"Missing or unordered reading pages in {directory}")
         pdf_hash = file_hash(pdf)
-        write_json(stamp, {"fingerprint": digest, "readings": keys, "pdf_sha256": pdf_hash})
-        return {"readings": keys, "reused": False, "pdf_sha256": pdf_hash}
+        write_json(stamp, {"fingerprint": digest, "readings": keys, "pdf_sha256": pdf_hash,
+                           "reading_pages": reading_pages})
+        return {"readings": keys, "reused": False, "pdf_sha256": pdf_hash,
+                "reading_pages": reading_pages}
 
     results, failures = [], []
     jobs.sort(key=lambda job: sum((staged / (key + ".tex")).stat().st_size for key in job[1]), reverse=True)
@@ -606,7 +633,7 @@ def build_book(args, parts, *, select=selection, assembly_dir=None, title_page=N
         write_json(assembly_dir / "build-report.json", {"status": "failed", "failures": failures})
         raise RuntimeError(f"{len(failures)} groups failed; see logs under {work / 'groups'}")
 
-    master += missale_appendix(catalogue_easters()[:9]) + "\\end{document}\n"
+    master += missale_appendix(catalogue_easters()[:9]) + INDEX_OPENING
     assembly = shared.copy()
     assembly.update(master.encode())
     if title_page is not None:
@@ -614,44 +641,85 @@ def build_book(args, parts, *, select=selection, assembly_dir=None, title_page=N
     for directory, _, _ in sorted(jobs, key=lambda job: str(job[0])):
         assembly.update(str(directory.relative_to(work)).encode())
         assembly.update(file_hash(directory / "book.pdf").encode())
-    assembly_digest = assembly.hexdigest()
-    assembly_stamp = assembly_dir / "assembly.json"
-    master_pdf = assembly_dir / "book.pdf"
-    master_reused = False
-    if not args.rebuild and master_pdf.is_file() and assembly_stamp.is_file():
+
+    def group_pages(log):
+        pages = {int(number): int(page) for number, page in
+                 re.findall(r"^BOOK-GROUP-PAGE: (\d+) (\d+)$", log, re.M)}
+        if pages.keys() != group_keys.keys():
+            raise RuntimeError(f"Missing group start pages in {assembly_dir}")
+        return pages
+
+    end = "\\end{document}\n"
+    pagination_stamp = assembly_dir / "pagination.json"
+    start_pages = {}
+    if not args.rebuild and pagination_stamp.is_file():
         try:
-            previous = json.loads(assembly_stamp.read_text(encoding="utf-8"))
-            master_reused = (previous.get("fingerprint") == assembly_digest and
-                             previous.get("pdf_sha256") == file_hash(master_pdf))
-        except (ValueError, OSError):
+            previous = json.loads(pagination_stamp.read_text(encoding="utf-8"))
+            if previous["fingerprint"] == assembly.hexdigest():
+                start_pages = {int(number): page for number, page in previous["group_pages"].items()}
+        except (ValueError, KeyError, OSError):
             pass
-    if not master_reused:
-        assembly_stamp.unlink(missing_ok=True)
-        compile_tex(assembly_dir, master, env)
-        write_json(assembly_stamp, {"fingerprint": assembly_digest,
-                                    "pdf_sha256": file_hash(master_pdf)})
-    changed = [rel for rel, digest in hashes.items() if file_hash(ROOT / rel) != digest]
-    if changed:
-        raise RuntimeError("Inputs changed during the build; rebuild before publishing: " + ", ".join(changed))
-    if select(sample) != parts:
-        raise RuntimeError("The reading selection changed during the build; run the builder again")
-    args.output.parent.mkdir(parents=True, exist_ok=True)
-    output_unchanged = args.output.is_file() and file_hash(args.output) == file_hash(master_pdf)
-    if args.output != master_pdf and not output_unchanged:
-        temporary = args.output.with_suffix(".pdf.tmp")
-        shutil.copyfile(master_pdf, temporary)
-        temporary.replace(args.output)
-    report = {"status": "complete", "readings": count, "groups": len(jobs),
-              "rebuilt_groups": sum(not r["reused"] for r in results),
-              "reused_groups": sum(r["reused"] for r in results),
-              "assembly_reused": master_reused, "output_unchanged": output_unchanged,
-              "sample": sample,
-              "tools": versions, "input_sha256": hashes,
-              "output_sha256": file_hash(args.output), "group_results": results}
-    write_json(assembly_dir / "build-report.json", report)
-    print(f"Saved {args.output}", flush=True)
-    print(f"Rebuilt {report['rebuilt_groups']} groups; reused {report['reused_groups']}.", flush=True)
-    return 0
+    if start_pages.keys() != group_keys.keys():
+        # Reserve the final contents entry before either volume needs page
+        # numbers from the other one.
+        (assembly_dir / "assembly.json").unlink(missing_ok=True)
+        start_pages = group_pages(compile_tex(assembly_dir, master + end, env))
+        write_json(pagination_stamp, {"fingerprint": assembly.hexdigest(), "group_pages": start_pages})
+    reading_pages = {key: page for result in results for key, page in result["reading_pages"].items()}
+    locations = [(*index_metadata[key], volume, start_pages[number] + reading_pages[key] - 1)
+                 for number, keys in group_keys.items() for key in keys]
+
+    def finish(index):
+        digest = assembly.copy()
+        digest.update(index.encode())
+        assembly_digest = digest.hexdigest()
+        assembly_stamp = assembly_dir / "assembly.json"
+        master_pdf = assembly_dir / "book.pdf"
+        master_reused = False
+        if not args.rebuild and master_pdf.is_file() and assembly_stamp.is_file():
+            try:
+                previous = json.loads(assembly_stamp.read_text(encoding="utf-8"))
+                master_reused = (previous.get("fingerprint") == assembly_digest and
+                                 previous.get("pdf_sha256") == file_hash(master_pdf))
+            except (ValueError, OSError):
+                pass
+        if not master_reused:
+            assembly_stamp.unlink(missing_ok=True)
+            log = compile_tex(assembly_dir, master + index + end, env)
+            if group_pages(log) != start_pages:
+                raise RuntimeError(f"Adding the Scripture index changed reading pagination in {assembly_dir}")
+            write_json(assembly_stamp, {"fingerprint": assembly_digest,
+                                        "pdf_sha256": file_hash(master_pdf)})
+        changed = [rel for rel, digest in hashes.items() if file_hash(ROOT / rel) != digest]
+        if changed:
+            raise RuntimeError("Inputs changed during the build; rebuild before publishing: " + ", ".join(changed))
+        if select(sample) != parts:
+            raise RuntimeError("The reading selection changed during the build; run the builder again")
+        args.output.parent.mkdir(parents=True, exist_ok=True)
+        output_unchanged = args.output.is_file() and file_hash(args.output) == file_hash(master_pdf)
+        if args.output != master_pdf and not output_unchanged:
+            temporary = args.output.with_suffix(".pdf.tmp")
+            shutil.copyfile(master_pdf, temporary)
+            temporary.replace(args.output)
+        report = {"status": "complete", "readings": count, "groups": len(jobs),
+                  "rebuilt_groups": sum(not r["reused"] for r in results),
+                  "reused_groups": sum(r["reused"] for r in results),
+                  "assembly_reused": master_reused, "output_unchanged": output_unchanged,
+                  "sample": sample,
+                  "tools": versions, "input_sha256": hashes,
+                  "output_sha256": file_hash(args.output), "group_results": results}
+        write_json(assembly_dir / "build-report.json", report)
+        print(f"Saved {args.output}", flush=True)
+        print(f"Rebuilt {report['rebuilt_groups']} groups; reused {report['reused_groups']}.", flush=True)
+        return 0
+
+    return locations, finish
+
+
+def build_book(args, parts, *, select=selection):
+    locations, finish = prepare_book(args, parts, select=select)
+    tones = PULPIT_TONES if args.pulpit or args.pulpit_sample else ()
+    return finish(scripture_index(locations, tones=tones))
 
 
 def main(argv=None):

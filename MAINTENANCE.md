@@ -43,7 +43,9 @@ The lectern book contains first and second readings, including optional readings
 
 The Gospel book contains Gospel readings in Tonus Evangelii, Tonus ad libitum, and Tonus Antiquior.
 
-Each build directory holds the staged reading copies, logs, cached groups, and `build-report.json` with the reading selection, tool versions, and input and output hashes. The builder checks input and PDF hashes before reusing groups or the final assembly. It replaces the output only after the selected groups and the index and calendar assembly succeed. Git ignores the build directories and the two proof PDFs.
+The front table of contents is headed *Index generalis*. The *Index lectionum* at the back follows the Nova Vulgata's book order and links each Scripture reference to the start of its setting. The Gospel index gives a separate page number for each tone.
+
+Each build directory holds the staged reading copies, logs, cached groups, and `build-report.json` with the reading selection, tool versions, and input and output hashes. The builder checks input and PDF hashes before reusing groups or the final assembly. It replaces the output only after the selected groups and the final assembly succeed. Git ignores the build directories and the two proof PDFs.
 
 | Option | Purpose |
 | --- | --- |
@@ -55,7 +57,7 @@ Each build directory holds the staged reading copies, logs, cached groups, and `
 
 Both books load their shared page, grid, and chant settings from `books/layout/book-profile.tex`. Gospel-specific headings and dialogue spacing are in `books/layout/book-pulpit-heads.tex`. Maintain printed title breaks in `books/book_titles.py` and calendar calculations in `books/book_calendar.py` and `books/build.py`.
 
-After changing readings or book layout, rebuild each affected volume. Review its index, calendar tables, long and short form boundaries, and page breaks before committing the sources and updated PDFs together. Run the Python selection and reading-adapter checks with the following command.
+After changing readings or book layout, rebuild each affected volume. Review its table of contents, Scripture index, calendar tables, long and short form boundaries, and page breaks before committing the sources and updated PDFs together. Run the Python selection and reading-adapter checks with the following command.
 
 ```sh
 python3 -m unittest discover -s books -p 'test_*.py'

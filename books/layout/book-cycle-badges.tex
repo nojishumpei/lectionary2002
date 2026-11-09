@@ -203,6 +203,9 @@
   \nointerlineskip
   \vbox to\BookGridStep{%
     \offinterlineskip
+    % Expand the reading key now and record its page when the box ships out.
+    \edef\bookbadge@indexwrite{\write-1{BOOK-READING-PAGE: \book@id\space\noexpand\thepage}}%
+    \bookbadge@indexwrite
     \bookbadge@putreading
     \vfil
   }%
