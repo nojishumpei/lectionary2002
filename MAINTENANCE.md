@@ -6,7 +6,7 @@ Technical reference for transcribing, compiling, and maintaining the collection.
 
 The scores require LuaLaTeX, GregorioTeX, latexmk, Make, and an installed copy of Minion Pro. The font is not included.
 
-From the repository root, check and build all readings with up to ten concurrent jobs, or build a single reading:
+From the repository root, check and build all scores with up to ten concurrent jobs, or build a single reading:
 
 ```sh
 make -C files -j10
@@ -19,7 +19,24 @@ Before starting the parallel jobs, Make prints a rebuild estimate, for example `
 
 The small Perl helper `files/build-count.pl` reads latexmk’s saved input checksums for the default LuaLaTeX workflow, so a timestamp change alone does not count as a rebuild. It also detects missing PDFs or auxiliary files and forced builds. Incomplete or unsupported records are reported separately as needing latexmk’s check. Latexmk makes the final compilation decisions; changes during the build or custom latexmk configuration can affect the result.
 
-Use `make -C files -j10 rebuild` to force compilation of all readings. `make -C files clean` removes auxiliary records while preserving PDFs and sources; run cleanup separately from builds. For a direct manual build, run `lualatex a01ep.tex` from `files/AD`.
+Use `make -C files -j10 rebuild` to force compilation of all scores. `make -C files clean` removes auxiliary records while preserving PDFs and sources; run cleanup separately from builds. For a direct manual build, run `lualatex a01ep.tex` from `files/AD`.
+
+## Building orations
+
+Edit chant and wording in `files/orations/AD/01co.inc.tex`, etc.: `co` is the collect, `so` super oblata, `pc` post communionem, and `sp` super populum. Alternatives share one fragment, separated by `\orationheading{Vel:}`.
+
+The corresponding individual wrappers, such as `files/AD/01co.tex`, hold the title and tone. Mass print wrappers, such as `files/AD/01or.tex`, select and order the prayers and set page breaks and spacing. Edit those wrappers when changing headings or print layout.
+
+From the repository root:
+
+```sh
+make -C files -j10 orations
+python3 orations/build.py --check
+```
+
+The Make target runs `orations/build.py` to refresh the marked prayer tables in `index.md` and `assets/data/orations.json`, then uses latexmk to compile only PDFs needing an update. The check command verifies the generated tables and Textus without writing or compiling. The builder reads the checked-in TeX files and catalogue. Textus omits sung invitations and retains conclusions.
+
+To add a Mass, copy an existing set of fragments and wrappers, update their titles and inputs, and copy its marked Orationes block into the appropriate catalogue position with a unique identifier and the new print-PDF link. The builder fills the prayer table from the print wrapper's inputs. Commit the sources, updated PDFs, catalogue, and Textus together.
 
 ## Building book arrangements
 
@@ -82,8 +99,8 @@ Scriptural references use the Latin book abbreviations from the *Ordo lectionum 
 
 ## Website
 
-[index.md](index.md) is the catalogue used by GitHub Pages. Its layout and date-column controls are maintained separately in `_layouts/catalogue.html` and `assets/`..
+[index.md](index.md) is the catalogue used by GitHub Pages. Its layout and date-column controls are maintained separately in `_layouts/catalogue.html` and `assets/`.
 
 Each celebration has its own Markdown table, with cycle years A, B and C together. Short forms stay in the reading cells. Gospel settings share one reference and Textus button, with separate PDF links for Tonus Antiquior, Tonus Evangelii, and Tonus ad libitum. The Easter Vigil lists its seven Old Testament readings and epistle in a common table, followed by the Gospel cycles and their dates. Date columns without an existing entry show a dash; they do not imply that a date has been calculated.
 
-The checked-in `assets/data/textus.json` supplies the Textus reader.
+The checked-in `assets/data/textus.json` supplies reading Textus; `assets/data/orations.json` supplies oration Textus.

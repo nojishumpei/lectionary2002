@@ -10,6 +10,7 @@ files/**/*.gsnippet
 /tools/
 /docs/
 /collation/
+/files/orations/manifest.json
 
 # Reusable book build files and layout proofs stay local.
 /build/

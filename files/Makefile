@@ -54,9 +54,16 @@ clean:
 
 help:
 	@printf '%s\n' \
-	  'make -C files -j10                 Check/build all $(words $(TEX_SOURCES)) readings, up to ten at once.' \
+	  'make -C files -j10                 Check/build all $(words $(TEX_SOURCES)) scores, up to ten at once.' \
 	  'make -C files AD/a01ep.pdf         Check/build one reading and its shared inputs.' \
+	  'make -C files -j10 orations        Refresh oration text and compile changed prayer PDFs.' \
 	  'make -C files count                Estimate how many PDFs need rebuilding; do not compile.' \
-	  'make -C files -j10 rebuild         Force compilation of all readings.' \
+	  'make -C files -j10 rebuild         Force compilation of all scores.' \
 	  'make -C files clean                Remove auxiliary records; preserve PDFs.' \
 	  'Run clean separately from builds. Build errors return a nonzero exit status.'
+
+# Refresh Textus and catalogue tables from TeX, then compile stale PDFs.
+.PHONY: orations
+orations:
+	python3 ../orations/build.py
+	+@targets="$$(python3 ../orations/build.py --list-pdfs)" && $(MAKE) $$targets

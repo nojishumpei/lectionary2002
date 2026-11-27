@@ -1,0 +1,21 @@
+% Oration wrapper: edit headings and print layout here; chant is in files/orations.
+\documentclass[17pt]{extarticle}
+\input{../common/oration-preamble}
+\begin{document}
+\title{In Annuntiatione Domini}
+\orationtype{Orationes ad Missam}
+\tone{Tonus Sollemnis}
+\makereadingtitle
+\orationheading{Collecta}
+\input{../orations/SA/annco.inc.tex}
+\clearpage
+\begingroup
+\grechangedim{baselineskip}{64pt}{fixed}
+\orationheading{Super oblata}
+\input{../orations/SA/annso.inc.tex}
+\vfill
+\orationheading{Post communionem}
+\input{../orations/SA/annpc.inc.tex}
+\par
+\endgroup
+\end{document}

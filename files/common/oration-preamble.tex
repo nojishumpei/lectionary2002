@@ -1,0 +1,8 @@
+% Share the lectionary's typography, paper size, and title hierarchy.
+\input{../common/preamble}
+\newcommand{\orationtype}[1]{\readingtype{#1}}
+% Keep the invitation in the sung score; Textus reads only the second argument.
+\newcommand{\orationcontent}[2]{\gabcsnippet{#1 #2}}
+\newcommand{\orationheading}[1]{%
+  \par\noindent{\color{gregoriocolor}\scshape #1}\par\nobreak
+}

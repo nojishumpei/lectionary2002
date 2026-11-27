@@ -9,6 +9,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 #### DOMINICA I ADVENTUS
 
+<!-- orations:AD/01:start -->
+
+##### [Orationes](files/AD/01or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/AD/01co.pdf) | [Tonus Sollemnis](files/AD/01so.pdf) | [Tonus Sollemnis](files/AD/01pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:AD/01:end -->
+
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A | [Is 2:1–5](files/AD/a01ot.pdf) | [Rom 13:11–14a](files/AD/a01ep.pdf) | <span class="gospel-reference" data-textus-key="AD/a01ga">Mt 24:37–44</span><br>[Tonus Antiquior](files/AD/a01ga.pdf) · [Tonus Evangelii](files/AD/a01ge.pdf) · [Tonus ad libitum](files/AD/a01gl.pdf) | 11/30/2025 | — | — | 12/ 3/2028 | — | — | 11/30/2031 | — | — | 12/ 3/2034 | — | — | 11/29/2037 | — | — |
@@ -16,6 +28,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 | C | [Ier 33:14–16](files/AD/c01ot.pdf) | [1 Th 3:12–4:2](files/AD/c01ep.pdf) | <span class="gospel-reference" data-textus-key="AD/c01ga">Lc 21:25–28, 34–36</span><br>[Tonus Antiquior](files/AD/c01ga.pdf) · [Tonus Evangelii](files/AD/c01ge.pdf) · [Tonus ad libitum](files/AD/c01gl.pdf) | — | — | 11/28/2027 | — | — | 12/ 1/2030 | — | — | 11/27/2033 | — | — | 11/30/2036 | — | — | 11/27/2039 |
 
 #### DOMINICA II ADVENTUS
+
+<!-- orations:AD/02:start -->
+
+##### [Orationes](files/AD/02or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/AD/02co.pdf) | [Tonus Sollemnis](files/AD/02so.pdf) | [Tonus Sollemnis](files/AD/02pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:AD/02:end -->
 
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -25,6 +49,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 #### DOMINICA III ADVENTUS
 
+<!-- orations:AD/03:start -->
+
+##### [Orationes](files/AD/03or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/AD/03co.pdf) | [Tonus Sollemnis](files/AD/03so.pdf) | [Tonus Sollemnis](files/AD/03pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:AD/03:end -->
+
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A | [Is 35:1–6a, 10](files/AD/a03ot.pdf) | [Iac 5:7–10](files/AD/a03ep.pdf) | <span class="gospel-reference" data-textus-key="AD/a03ga">Mt 11:2–11</span><br>[Tonus Antiquior](files/AD/a03ga.pdf) · [Tonus Evangelii](files/AD/a03ge.pdf) · [Tonus ad libitum](files/AD/a03gl.pdf) | 12/14/2025 | — | — | 12/17/2028 | — | — | 12/14/2031 | — | — | 12/17/2034 | — | — | 12/13/2037 | — | — |
@@ -32,6 +68,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 | C | [Soph 3:14–18a](files/AD/c03ot.pdf) | [Phil 4:4–7](files/AD/c03ep.pdf) | <span class="gospel-reference" data-textus-key="AD/c03ga">Lc 3:10–18</span><br>[Tonus Antiquior](files/AD/c03ga.pdf) · [Tonus Evangelii](files/AD/c03ge.pdf) · [Tonus ad libitum](files/AD/c03gl.pdf) | — | — | 12/12/2027 | — | — | 12/15/2030 | — | — | 12/11/2033 | — | — | 12/14/2036 | — | — | 12/11/2039 |
 
 #### DOMINICA IV ADVENTUS
+
+<!-- orations:AD/04:start -->
+
+##### [Orationes](files/AD/04or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/AD/04co.pdf) | [Tonus Sollemnis](files/AD/04so.pdf) | [Tonus Sollemnis](files/AD/04pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:AD/04:end -->
 
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -43,14 +91,91 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 #### IN NATIVITATE DOMINI
 
+##### AD MISSAM IN VIGILIA
+
+<!-- orations:CH/cvg:start -->
+
+###### [Orationes](files/CH/cvgor.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/CH/cvgco.pdf) | [Tonus Sollemnis](files/CH/cvgso.pdf) | [Tonus Sollemnis](files/CH/cvgpc.pdf) |
+
+###### Lectiones
+
+<!-- orations:CH/cvg:end -->
+
 | Missa | Lectio Prima | Lectio Secunda | Evangelium | 2025-2026 | 2026-2027 | 2027-2028 | 2028-2029 | 2029-2030 | 2030-2031 | 2031-2032 | 2032-2033 | 2033-2034 | 2034-2035 | 2035-2036 | 2036-2037 | 2037-2038 | 2038-2039 | 2039-2040 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Ad Missam in Vigilia | [Is 62:1–5](files/CH/cvgot.pdf) | [Act 13:16–17, 22–25](files/CH/cvgac.pdf) | <span class="reading-form">Forma Longior</span> <span class="gospel-reference" data-textus-key="CH/cvgga">Mt 1:1–25</span><br>[Tonus Antiquior](files/CH/cvgga.pdf) · [Tonus Evangelii](files/CH/cvgge.pdf) · [Tonus ad libitum](files/CH/cvggl.pdf)<br><br><span class="reading-form">Forma Brevior</span> <span class="gospel-reference" data-textus-key="CH/cvgga_br">Mt 1:18–25</span><br>[Tonus Antiquior](files/CH/cvgga_br.pdf) · [Tonus Evangelii](files/CH/cvgge_br.pdf) · [Tonus ad libitum](files/CH/cvggl_br.pdf) | 12/24/2025 | 12/24/2026 | 12/24/2027 | 12/24/2028 | 12/24/2029 | 12/24/2030 | 12/24/2031 | 12/24/2032 | 12/24/2033 | 12/24/2034 | 12/24/2035 | 12/24/2036 | 12/24/2037 | 12/24/2038 | 12/24/2039 |
+
+##### AD MISSAM IN NOCTE
+
+<!-- orations:CH/cd1:start -->
+
+###### [Orationes](files/CH/cd1or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/CH/cd1co.pdf) | [Tonus Sollemnis](files/CH/cd1so.pdf) | [Tonus Sollemnis](files/CH/cd1pc.pdf) |
+
+###### Lectiones
+
+<!-- orations:CH/cd1:end -->
+
+| Missa | Lectio Prima | Lectio Secunda | Evangelium | 2025-2026 | 2026-2027 | 2027-2028 | 2028-2029 | 2029-2030 | 2030-2031 | 2031-2032 | 2032-2033 | 2033-2034 | 2034-2035 | 2035-2036 | 2036-2037 | 2037-2038 | 2038-2039 | 2039-2040 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Ad Missam in Nocte | [Is 9:1–6](files/CH/cd1ot.pdf) | [Tit 2:11–14](files/CH/cd1ep.pdf) | <span class="gospel-reference" data-textus-key="CH/cd1ga">Lc 2:1–14</span><br>[Tonus Antiquior](files/CH/cd1ga.pdf) · [Tonus Evangelii](files/CH/cd1ge.pdf) · [Tonus ad libitum](files/CH/cd1gl.pdf) | 12/25/2025 | 12/25/2026 | 12/25/2027 | 12/25/2028 | 12/25/2029 | 12/25/2030 | 12/25/2031 | 12/25/2032 | 12/25/2033 | 12/25/2034 | 12/25/2035 | 12/25/2036 | 12/25/2037 | 12/25/2038 | 12/25/2039 |
+
+##### AD MISSAM IN AURORA
+
+<!-- orations:CH/cd2:start -->
+
+###### [Orationes](files/CH/cd2or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/CH/cd2co.pdf) | [Tonus Sollemnis](files/CH/cd2so.pdf) | [Tonus Sollemnis](files/CH/cd2pc.pdf) |
+
+###### Lectiones
+
+<!-- orations:CH/cd2:end -->
+
+| Missa | Lectio Prima | Lectio Secunda | Evangelium | 2025-2026 | 2026-2027 | 2027-2028 | 2028-2029 | 2029-2030 | 2030-2031 | 2031-2032 | 2032-2033 | 2033-2034 | 2034-2035 | 2035-2036 | 2036-2037 | 2037-2038 | 2038-2039 | 2039-2040 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Ad Missam in Aurora | [Is 62:11–12](files/CH/cd2ot.pdf) | [Tit 3:4–7](files/CH/cd2ep.pdf) | <span class="gospel-reference" data-textus-key="CH/cd2ga">Lc 2:15–20</span><br>[Tonus Antiquior](files/CH/cd2ga.pdf) · [Tonus Evangelii](files/CH/cd2ge.pdf) · [Tonus ad libitum](files/CH/cd2gl.pdf) | 12/25/2025 | 12/25/2026 | 12/25/2027 | 12/25/2028 | 12/25/2029 | 12/25/2030 | 12/25/2031 | 12/25/2032 | 12/25/2033 | 12/25/2034 | 12/25/2035 | 12/25/2036 | 12/25/2037 | 12/25/2038 | 12/25/2039 |
+
+##### AD MISSAM IN DIE
+
+<!-- orations:CH/cd3:start -->
+
+###### [Orationes](files/CH/cd3or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/CH/cd3co.pdf) | [Tonus Sollemnis](files/CH/cd3so.pdf) | [Tonus Sollemnis](files/CH/cd3pc.pdf) |
+
+###### Lectiones
+
+<!-- orations:CH/cd3:end -->
+
+| Missa | Lectio Prima | Lectio Secunda | Evangelium | 2025-2026 | 2026-2027 | 2027-2028 | 2028-2029 | 2029-2030 | 2030-2031 | 2031-2032 | 2032-2033 | 2033-2034 | 2034-2035 | 2035-2036 | 2036-2037 | 2037-2038 | 2038-2039 | 2039-2040 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Ad Missam in Die | [Is 52:7–10](files/CH/cd3ot.pdf) | [Hebr 1:1–6](files/CH/cd3ep.pdf) | <span class="reading-form">Forma Longior</span> <span class="gospel-reference" data-textus-key="CH/cd3ga">Io 1:1–18</span><br>[Tonus Antiquior](files/CH/cd3ga.pdf) · [Tonus Evangelii](files/CH/cd3ge.pdf) · [Tonus ad libitum](files/CH/cd3gl.pdf)<br><br><span class="reading-form">Forma Brevior</span> <span class="gospel-reference" data-textus-key="CH/cd3ga_br">Io 1:1–5, 9–14</span><br>[Tonus Antiquior](files/CH/cd3ga_br.pdf) · [Tonus Evangelii](files/CH/cd3ge_br.pdf) · [Tonus ad libitum](files/CH/cd3gl_br.pdf) | 12/25/2025 | 12/25/2026 | 12/25/2027 | 12/25/2028 | 12/25/2029 | 12/25/2030 | 12/25/2031 | 12/25/2032 | 12/25/2033 | 12/25/2034 | 12/25/2035 | 12/25/2036 | 12/25/2037 | 12/25/2038 | 12/25/2039 |
 
 #### SANCTÆ FAMILIÆ IESU, MARIÆ ET IOSEPH
+
+<!-- orations:CH/hfa:start -->
+
+##### [Orationes](files/CH/hfaor.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/CH/hfaco.pdf) | [Tonus Sollemnis](files/CH/hfaso.pdf) | [Tonus Sollemnis](files/CH/hfapc.pdf) |
+
+##### Lectiones
+
+<!-- orations:CH/hfa:end -->
 
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025-2026 | 2026-2027 | 2027-2028 | 2028-2029 | 2029-2030 | 2030-2031 | 2031-2032 | 2032-2033 | 2033-2034 | 2034-2035 | 2035-2036 | 2036-2037 | 2037-2038 | 2038-2039 | 2039-2040 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -60,11 +185,35 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 #### SANCTÆ DEI GENETRICIS MARIÆ
 
+<!-- orations:CH/ocm:start -->
+
+##### [Orationes](files/CH/ocmor.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/CH/ocmco.pdf) | [Tonus Sollemnis](files/CH/ocmso.pdf) | [Tonus Sollemnis](files/CH/ocmpc.pdf) |
+
+##### Lectiones
+
+<!-- orations:CH/ocm:end -->
+
 | Lectio Prima | Lectio Secunda | Evangelium | 2025-2026 | 2026-2027 | 2027-2028 | 2028-2029 | 2029-2030 | 2030-2031 | 2031-2032 | 2032-2033 | 2033-2034 | 2034-2035 | 2035-2036 | 2036-2037 | 2037-2038 | 2038-2039 | 2039-2040 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Num 6:22–27](files/CH/ocmot.pdf) | [Gal 4:4–7](files/CH/ocmep.pdf) | <span class="gospel-reference" data-textus-key="CH/ocmga">Lc 2:16–21</span><br>[Tonus Antiquior](files/CH/ocmga.pdf) · [Tonus Evangelii](files/CH/ocmge.pdf) · [Tonus ad libitum](files/CH/ocmgl.pdf) | 1/ 1/2026 | 1/ 1/2027 | 1/ 1/2028 | 1/ 1/2029 | 1/ 1/2030 | 1/ 1/2031 | 1/ 1/2032 | 1/ 1/2033 | 1/ 1/2034 | 1/ 1/2035 | 1/ 1/2036 | 1/ 1/2037 | 1/ 1/2038 | 1/ 1/2039 | 1/ 1/2040 |
 
 #### DOMINICA II POST NATIVITATEM
+
+<!-- orations:CH/do2:start -->
+
+##### [Orationes](files/CH/do2or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/CH/do2co.pdf) | [Tonus Sollemnis](files/CH/do2so.pdf) | [Tonus Sollemnis](files/CH/do2pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:CH/do2:end -->
 
 | Lectio Prima | Lectio Secunda | Evangelium | 2025-2026 | 2026-2027 | 2027-2028 | 2028-2029 | 2029-2030 | 2030-2031 | 2031-2032 | 2032-2033 | 2033-2034 | 2034-2035 | 2035-2036 | 2036-2037 | 2037-2038 | 2038-2039 | 2039-2040 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -72,11 +221,35 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 #### IN EPIPHANIA DOMINI
 
+<!-- orations:CH/epi:start -->
+
+##### [Orationes](files/CH/epior.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/CH/epico.pdf) | [Tonus Sollemnis](files/CH/episo.pdf) | [Tonus Sollemnis](files/CH/epipc.pdf) |
+
+##### Lectiones
+
+<!-- orations:CH/epi:end -->
+
 | Lectio Prima | Lectio Secunda | Evangelium | 2025-2026 | 2026-2027 | 2027-2028 | 2028-2029 | 2029-2030 | 2030-2031 | 2031-2032 | 2032-2033 | 2033-2034 | 2034-2035 | 2035-2036 | 2036-2037 | 2037-2038 | 2038-2039 | 2039-2040 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Is 60:1–6](files/CH/epiot.pdf) | [Eph 3:2–3a, 5–6](files/CH/epiep.pdf) | <span class="gospel-reference" data-textus-key="CH/epiga">Mt 2:1–12</span><br>[Tonus Antiquior](files/CH/epiga.pdf) · [Tonus Evangelii](files/CH/epige.pdf) · [Tonus ad libitum](files/CH/epigl.pdf) | 1/ 4/2026 | 1/ 3/2027 | 1/ 2/2028 | 1/ 7/2029 | 1/ 6/2030 | 1/ 5/2031 | 1/ 4/2032 | 1/ 2/2033 | 1/ 8/2034 | 1/ 7/2035 | 1/ 6/2036 | 1/ 4/2037 | 1/ 3/2038 | 1/ 2/2039 | 1/ 8/2040 |
 
 #### IN BAPTISMATE DOMINI
+
+<!-- orations:CH/bap:start -->
+
+##### [Orationes](files/CH/bapor.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/CH/bapco.pdf) | [Tonus Sollemnis](files/CH/bapso.pdf) | [Tonus Sollemnis](files/CH/bappc.pdf) |
+
+##### Lectiones
+
+<!-- orations:CH/bap:end -->
 
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025-2026 | 2026-2027 | 2027-2028 | 2028-2029 | 2029-2030 | 2030-2031 | 2031-2032 | 2032-2033 | 2033-2034 | 2034-2035 | 2035-2036 | 2036-2037 | 2037-2038 | 2038-2039 | 2039-2040 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -88,11 +261,35 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 #### FERIA IV CINERUM
 
+<!-- orations:LT/awd:start -->
+
+##### [Orationes](files/LT/awdor.pdf)
+
+| Collecta | Super oblata | Post communionem | Oratio super populum |
+| --- | --- | --- | --- |
+| [Tonus Sollemnis](files/LT/awdco.pdf) | [Tonus Sollemnis](files/LT/awdso.pdf) | [Tonus Sollemnis](files/LT/awdpc.pdf) | [Tonus Sollemnis](files/LT/awdsp.pdf) |
+
+##### Lectiones
+
+<!-- orations:LT/awd:end -->
+
 | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Ioel 2:12–18](files/LT/awdot.pdf) | [2 Cor 5:20–6:2](files/LT/awdep.pdf) | <span class="gospel-reference" data-textus-key="LT/awdga">Mt 6:1–6, 16–18</span><br>[Tonus Antiquior](files/LT/awdga.pdf) · [Tonus Evangelii](files/LT/awdge.pdf) · [Tonus ad libitum](files/LT/awdgl.pdf) | — | 2/18/2026 | 2/10/2027 | 3/ 1/2028 | 2/14/2029 | 3/ 6/2030 | 2/26/2031 | 2/11/2032 | 3/ 2/2033 | 2/22/2034 | 2/ 7/2035 | 2/27/2036 | 2/18/2037 | 3/10/2038 | 2/23/2039 |
 
 #### DOMINICA I QUADRAGESIMÆ
+
+<!-- orations:LT/01:start -->
+
+##### [Orationes](files/LT/01or.pdf)
+
+| Collecta | Super oblata | Post communionem | Oratio super populum |
+| --- | --- | --- | --- |
+| [Tonus Sollemnis](files/LT/01co.pdf) | [Tonus Sollemnis](files/LT/01so.pdf) | [Tonus Sollemnis](files/LT/01pc.pdf) | [Tonus Sollemnis](files/LT/01sp.pdf) |
+
+##### Lectiones
+
+<!-- orations:LT/01:end -->
 
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -102,6 +299,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 #### DOMINICA II QUADRAGESIMÆ
 
+<!-- orations:LT/02:start -->
+
+##### [Orationes](files/LT/02or.pdf)
+
+| Collecta | Super oblata | Post communionem | Oratio super populum |
+| --- | --- | --- | --- |
+| [Tonus Sollemnis](files/LT/02co.pdf) | [Tonus Sollemnis](files/LT/02so.pdf) | [Tonus Sollemnis](files/LT/02pc.pdf) | [Tonus Sollemnis](files/LT/02sp.pdf) |
+
+##### Lectiones
+
+<!-- orations:LT/02:end -->
+
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A | [Gen 12:1–4a](files/LT/a02ot.pdf) | [2 Tim 1:8b–10](files/LT/a02ep.pdf) | <span class="gospel-reference" data-textus-key="LT/a02ga">Mt 17:1–9</span><br>[Tonus Antiquior](files/LT/a02ga.pdf) · [Tonus Evangelii](files/LT/a02ge.pdf) · [Tonus ad libitum](files/LT/a02gl.pdf) | — | 3/ 1/2026 | — | — | 2/25/2029 | — | — | 2/22/2032 | — | — | 2/18/2035 | — | — | 3/21/2038 | — |
@@ -109,6 +318,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 | C | [Gen 15:5–12, 17–18](files/LT/c02ot.pdf) | <span class="reading-form">Forma Longior</span> [Phil 3:17–4:1](files/LT/c02ep.pdf)<br><br><span class="reading-form">Forma Brevior</span> [Phil 3:20–4:1](files/LT/c02ep_br.pdf) | <span class="gospel-reference" data-textus-key="LT/c02ga">Lc 9:28b–36</span><br>[Tonus Antiquior](files/LT/c02ga.pdf) · [Tonus Evangelii](files/LT/c02ge.pdf) · [Tonus ad libitum](files/LT/c02gl.pdf) | — | — | — | 3/12/2028 | — | — | 3/ 9/2031 | — | — | 3/ 5/2034 | — | — | 3/ 1/2037 | — | — |
 
 #### DOMINICA III QUADRAGESIMÆ
+
+<!-- orations:LT/03:start -->
+
+##### [Orationes](files/LT/03or.pdf)
+
+| Collecta | Super oblata | Post communionem | Oratio super populum |
+| --- | --- | --- | --- |
+| [Tonus Sollemnis](files/LT/03co.pdf) | [Tonus Sollemnis](files/LT/03so.pdf) | [Tonus Sollemnis](files/LT/03pc.pdf) | [Tonus Sollemnis](files/LT/03sp.pdf) |
+
+##### Lectiones
+
+<!-- orations:LT/03:end -->
 
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -118,6 +339,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 #### DOMINICA IV QUADRAGESIMÆ
 
+<!-- orations:LT/04:start -->
+
+##### [Orationes](files/LT/04or.pdf)
+
+| Collecta | Super oblata | Post communionem | Oratio super populum |
+| --- | --- | --- | --- |
+| [Tonus Sollemnis](files/LT/04co.pdf) | [Tonus Sollemnis](files/LT/04so.pdf) | [Tonus Sollemnis](files/LT/04pc.pdf) | [Tonus Sollemnis](files/LT/04sp.pdf) |
+
+##### Lectiones
+
+<!-- orations:LT/04:end -->
+
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A | [1 Sam 16:1b, 6–7, 10–13a](files/LT/a04ot.pdf) | [Eph 5:8–14](files/LT/a04ep.pdf) | <span class="reading-form">Forma Longior</span> <span class="gospel-reference" data-textus-key="LT/a04ga">Io 9:1–41</span><br>[Tonus Antiquior](files/LT/a04ga.pdf) · [Tonus Evangelii](files/LT/a04ge.pdf) · [Tonus ad libitum](files/LT/a04gl.pdf)<br><br><span class="reading-form">Forma Brevior</span> <span class="gospel-reference" data-textus-key="LT/a04ga_br">Io 9:1, 6–9, 13–17, 34–38</span><br>[Tonus Antiquior](files/LT/a04ga_br.pdf) · [Tonus Evangelii](files/LT/a04ge_br.pdf) · [Tonus ad libitum](files/LT/a04gl_br.pdf) | — | 3/15/2026 | — | — | 3/11/2029 | — | — | 3/ 7/2032 | — | — | 3/ 4/2035 | — | — | 4/ 4/2038 | — |
@@ -126,6 +359,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 #### DOMINICA V QUADRAGESIMÆ
 
+<!-- orations:LT/05:start -->
+
+##### [Orationes](files/LT/05or.pdf)
+
+| Collecta | Super oblata | Post communionem | Oratio super populum |
+| --- | --- | --- | --- |
+| [Tonus Sollemnis](files/LT/05co.pdf) | [Tonus Sollemnis](files/LT/05so.pdf) | [Tonus Sollemnis](files/LT/05pc.pdf) | [Tonus Sollemnis](files/LT/05sp.pdf) |
+
+##### Lectiones
+
+<!-- orations:LT/05:end -->
+
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A | [Ez 37:12–14](files/LT/a05ot.pdf) | [Rom 8:8–11](files/LT/a05ep.pdf) | <span class="reading-form">Forma Longior</span> <span class="gospel-reference" data-textus-key="LT/a05ga">Io 11:1–45</span><br>[Tonus Antiquior](files/LT/a05ga.pdf) · [Tonus Evangelii](files/LT/a05ge.pdf) · [Tonus ad libitum](files/LT/a05gl.pdf)<br><br><span class="reading-form">Forma Brevior</span> <span class="gospel-reference" data-textus-key="LT/a05ga_br">Io 11:3–7, 17, 20–27, 33b–45</span><br>[Tonus Antiquior](files/LT/a05ga_br.pdf) · [Tonus Evangelii](files/LT/a05ge_br.pdf) · [Tonus ad libitum](files/LT/a05gl_br.pdf) | — | 3/22/2026 | — | — | 3/18/2029 | — | — | 3/14/2032 | — | — | 3/11/2035 | — | — | 4/11/2038 | — |
@@ -133,6 +378,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 | C | [Is 43:16–21](files/LT/c05ot.pdf) | [Phil 3:8–14](files/LT/c05ep.pdf) | <span class="gospel-reference" data-textus-key="LT/c05ga">Io 8:1–11</span><br>[Tonus Antiquior](files/LT/c05ga.pdf) · [Tonus Evangelii](files/LT/c05ge.pdf) · [Tonus ad libitum](files/LT/c05gl.pdf) | — | — | — | 4/ 2/2028 | — | — | 3/30/2031 | — | — | 3/26/2034 | — | — | 3/22/2037 | — | — |
 
 #### DOMINICA IN PALMIS DE PASSIONE DOMINI
+
+<!-- orations:LT/plm:start -->
+
+##### [Orationes](files/LT/plmor.pdf)
+
+| Collecta | Super oblata | Post communionem | Oratio super populum |
+| --- | --- | --- | --- |
+| [Tonus Sollemnis](files/LT/plmco.pdf) | [Tonus Sollemnis](files/LT/plmso.pdf) | [Tonus Sollemnis](files/LT/plmpc.pdf) | [Tonus Sollemnis](files/LT/plmsp.pdf) |
+
+##### Lectiones
+
+<!-- orations:LT/plm:end -->
 
 | Annus · Missa | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -178,12 +435,36 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 #### DOMINICA PASCHÆ IN RESURRECTIONE DOMINI · AD MISSAM IN DIE
 
+<!-- orations:EA/eas:start -->
+
+##### [Orationes](files/EA/easor.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/EA/easco.pdf) | [Tonus Sollemnis](files/EA/easso.pdf) | [Tonus Sollemnis](files/EA/easpc.pdf) |
+
+##### Lectiones
+
+<!-- orations:EA/eas:end -->
+
 | Missa | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Ad Missam in Die | [Act 10:34a, 37–43](files/EA/easac.pdf) | [Col 3:1–4](files/EA/easep.pdf) | <span class="gospel-reference" data-textus-key="EA/easga">Io 20:1–9</span><br>[Tonus Antiquior](files/EA/easga.pdf) · [Tonus Evangelii](files/EA/easge.pdf) · [Tonus ad libitum](files/EA/easgl.pdf) | — | 4/ 5/2026 | 3/28/2027 | 4/16/2028 | 4/ 1/2029 | 4/21/2030 | 4/13/2031 | 3/28/2032 | 4/17/2033 | 4/ 9/2034 | 3/25/2035 | 4/13/2036 | 4/ 5/2037 | 4/25/2038 | 4/10/2039 |
 | Ad Missam in Die | — | [1 Cor 5:6b–8](files/EA/es2ep.pdf) | <span class="gospel-reference" data-textus-key="EA/es2ga">Lc 24:13–35</span><br>[Tonus Antiquior](files/EA/es2ga.pdf) · [Tonus Evangelii](files/EA/es2ge.pdf) · [Tonus ad libitum](files/EA/es2gl.pdf) | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — |
 
 #### DOMINICA II PASCHÆ
+
+<!-- orations:EA/02:start -->
+
+##### [Orationes](files/EA/02or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/EA/02co.pdf) | [Tonus Sollemnis](files/EA/02so.pdf) | [Tonus Sollemnis](files/EA/02pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:EA/02:end -->
 
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -193,6 +474,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 #### DOMINICA III PASCHÆ
 
+<!-- orations:EA/03:start -->
+
+##### [Orationes](files/EA/03or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/EA/03co.pdf) | [Tonus Sollemnis](files/EA/03so.pdf) | [Tonus Sollemnis](files/EA/03pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:EA/03:end -->
+
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A | [Act 2:14, 22–33](files/EA/a03ac.pdf) | [1 Petr 1:17–21](files/EA/a03ep.pdf) | <span class="gospel-reference" data-textus-key="EA/a03ga">Lc 24:13–35</span><br>[Tonus Antiquior](files/EA/a03ga.pdf) · [Tonus Evangelii](files/EA/a03ge.pdf) · [Tonus ad libitum](files/EA/a03gl.pdf) | — | 4/19/2026 | — | — | 4/15/2029 | — | — | 4/11/2032 | — | — | 4/8/2035 | — | — | 5/9/2038 | — |
@@ -200,6 +493,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 | C | [Act 5:27b–32, 40b–41](files/EA/c03ac.pdf) | [Ap 5:11–14](files/EA/c03ap.pdf) | <span class="reading-form">Forma Longior</span> <span class="gospel-reference" data-textus-key="EA/c03ga">Io 21:1–19</span><br>[Tonus Antiquior](files/EA/c03ga.pdf) · [Tonus Evangelii](files/EA/c03ge.pdf) · [Tonus ad libitum](files/EA/c03gl.pdf)<br><br><span class="reading-form">Forma Brevior</span> <span class="gospel-reference" data-textus-key="EA/c03ga_br">Io 21:1–14</span><br>[Tonus Antiquior](files/EA/c03ga_br.pdf) · [Tonus Evangelii](files/EA/c03ge_br.pdf) · [Tonus ad libitum](files/EA/c03gl_br.pdf) | — | — | — | 4/30/2028 | — | — | 4/27/2031 | — | — | 4/23/2034 | — | — | 4/19/2037 | — | — |
 
 #### DOMINICA IV PASCHÆ
+
+<!-- orations:EA/04:start -->
+
+##### [Orationes](files/EA/04or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/EA/04co.pdf) | [Tonus Sollemnis](files/EA/04so.pdf) | [Tonus Sollemnis](files/EA/04pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:EA/04:end -->
 
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -209,6 +514,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 #### DOMINICA V PASCHÆ
 
+<!-- orations:EA/05:start -->
+
+##### [Orationes](files/EA/05or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/EA/05co.pdf) | [Tonus Sollemnis](files/EA/05so.pdf) | [Tonus Sollemnis](files/EA/05pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:EA/05:end -->
+
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A | [Act 6:1–7](files/EA/a05ac.pdf) | [1 Petr 2:4–9](files/EA/a05ep.pdf) | <span class="gospel-reference" data-textus-key="EA/a05ga">Io 14:1–12</span><br>[Tonus Antiquior](files/EA/a05ga.pdf) · [Tonus Evangelii](files/EA/a05ge.pdf) · [Tonus ad libitum](files/EA/a05gl.pdf) | — | 5/ 3/2026 | — | — | 4/29/2029 | — | — | 4/25/2032 | — | — | 4/22/2035 | — | — | 5/23/2038 | — |
@@ -216,6 +533,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 | C | [Act 14:21b–27](files/EA/c05ac.pdf) | [Ap 21:1–5a](files/EA/c05ap.pdf) | <span class="gospel-reference" data-textus-key="EA/c05ga">Io 13:31–33a, 34–35</span><br>[Tonus Antiquior](files/EA/c05ga.pdf) · [Tonus Evangelii](files/EA/c05ge.pdf) · [Tonus ad libitum](files/EA/c05gl.pdf) | — | — | — | 5/14/2028 | — | — | 5/11/2031 | — | — | 5/7/2034 | — | — | 5/3/2037 | — | — |
 
 #### DOMINICA VI PASCHÆ
+
+<!-- orations:EA/06:start -->
+
+##### [Orationes](files/EA/06or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/EA/06co.pdf) | [Tonus Sollemnis](files/EA/06so.pdf) | [Tonus Sollemnis](files/EA/06pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:EA/06:end -->
 
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -225,6 +554,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 #### IN ASCENSIONE DOMINI
 
+<!-- orations:EA/asc:start -->
+
+##### [Orationes](files/EA/ascor.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/EA/ascco.pdf) | [Tonus Sollemnis](files/EA/ascso.pdf) | [Tonus Sollemnis](files/EA/ascpc.pdf) |
+
+##### Lectiones
+
+<!-- orations:EA/asc:end -->
+
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A | [Act 1:1–11](files/EA/ascac.pdf) | [Eph 1:17–23](files/EA/asaep.pdf) | <span class="gospel-reference" data-textus-key="EA/asaga">Mt 28:16–20</span><br>[Tonus Antiquior](files/EA/asaga.pdf) · [Tonus Evangelii](files/EA/asage.pdf) · [Tonus ad libitum](files/EA/asagl.pdf) | — | 5/17/2026 | — | — | 5/13/2029 | — | — | 5/9/2032 | — | — | 5/6/2035 | — | — | 6/6/2038 | — |
@@ -232,6 +573,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 | C | — | <span class="reading-form">Ad libitum</span> [Hebr 9:24–28; 10:19–23](files/EA/ascep.pdf) | <span class="gospel-reference" data-textus-key="EA/ascga">Lc 24:46–53</span><br>[Tonus Antiquior](files/EA/ascga.pdf) · [Tonus Evangelii](files/EA/ascge.pdf) · [Tonus ad libitum](files/EA/ascgl.pdf) | — | — | — | 5/28/2028 | — | — | 5/25/2031 | — | — | 5/21/2034 | — | — | 5/17/2037 | — | — |
 
 #### DOMINICA VII PASCHÆ
+
+<!-- orations:EA/07:start -->
+
+##### [Orationes](files/EA/07or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/EA/07co.pdf) | [Tonus Sollemnis](files/EA/07so.pdf) | [Tonus Sollemnis](files/EA/07pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:EA/07:end -->
 
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -243,6 +596,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 ##### AD MISSAM IN VIGILIA
 
+<!-- orations:EA/pvg:start -->
+
+###### [Orationes](files/EA/pvgor.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/EA/pvgco.pdf) | [Tonus Sollemnis](files/EA/pvgso.pdf) | [Tonus Sollemnis](files/EA/pvgpc.pdf) |
+
+###### Lectiones
+
+<!-- orations:EA/pvg:end -->
+
 | Missa | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Ad Missam in Vigilia | [Gen 11:1–9](files/EA/pv1ot.pdf) | [Rom 8:22–27](files/EA/pvgep.pdf) | <span class="gospel-reference" data-textus-key="EA/pvgga">Io 7:37–39</span><br>[Tonus Antiquior](files/EA/pvgga.pdf) · [Tonus Evangelii](files/EA/pvgge.pdf) · [Tonus ad libitum](files/EA/pvggl.pdf) | — | 5/23/2026 | 5/15/2027 | 6/ 3/2028 | 5/19/2029 | 6/8/2030 | 5/31/2031 | 5/15/2032 | 6/4/2033 | 5/27/2034 | 5/12/2035 | 5/31/2036 | 5/23/2037 | 6/12/2038 | 5/28/2039 |
@@ -252,6 +617,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 ##### AD MISSAM IN DIE
 
+<!-- orations:EA/pen:start -->
+
+###### [Orationes](files/EA/penor.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/EA/penco.pdf) | [Tonus Sollemnis](files/EA/penso.pdf) | [Tonus Sollemnis](files/EA/penpc.pdf) |
+
+###### Lectiones
+
+<!-- orations:EA/pen:end -->
+
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ABC | [Act 2:1–11](files/EA/penac.pdf) | [1 Cor 12:3b–7, 12–13](files/EA/peaep.pdf) | <span class="gospel-reference" data-textus-key="EA/peaga">Io 20:19–23</span><br>[Tonus Antiquior](files/EA/peaga.pdf) · [Tonus Evangelii](files/EA/peage.pdf) · [Tonus ad libitum](files/EA/peagl.pdf) | — | 5/24/2026 | 5/16/2027 | 6/ 4/2028 | 5/20/2029 | 6/9/2030 | 6/1/2031 | 5/16/2032 | 6/5/2033 | 5/28/2034 | 5/13/2035 | 6/1/2036 | 5/24/2037 | 6/13/2038 | 5/29/2039 |
@@ -259,6 +636,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 | C | — | <span class="reading-form">Ad libitum</span> [Rom 8:8–17](files/EA/pecep.pdf) | <span class="reading-form">Ad libitum</span> <span class="gospel-reference" data-textus-key="EA/pecga">Io 14:15–16, 23b–26</span><br>[Tonus Antiquior](files/EA/pecga.pdf) · [Tonus Evangelii](files/EA/pecge.pdf) · [Tonus ad libitum](files/EA/pecgl.pdf) | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — |
 
 #### SANCTISSIMÆ TRINITATIS
+
+<!-- orations:EA/tr:start -->
+
+##### [Orationes](files/EA/tror.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/EA/trco.pdf) | [Tonus Sollemnis](files/EA/trso.pdf) | [Tonus Sollemnis](files/EA/trpc.pdf) |
+
+##### Lectiones
+
+<!-- orations:EA/tr:end -->
 
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -268,6 +657,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 #### SANCTISSIMI CORPORIS ET SANGUINIS CHRISTI
 
+<!-- orations:EA/cc:start -->
+
+##### [Orationes](files/EA/ccor.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/EA/ccco.pdf) | [Tonus Sollemnis](files/EA/ccso.pdf) | [Tonus Sollemnis](files/EA/ccpc.pdf) |
+
+##### Lectiones
+
+<!-- orations:EA/cc:end -->
+
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A | [Deut 8:2–3, 14b–16a](files/EA/ccaot.pdf) | [1 Cor 10:16–17](files/EA/ccaep.pdf) | <span class="gospel-reference" data-textus-key="EA/ccaga">Io 6:51–58</span><br>[Tonus Antiquior](files/EA/ccaga.pdf) · [Tonus Evangelii](files/EA/ccage.pdf) · [Tonus ad libitum](files/EA/ccagl.pdf) | — | 6/ 7/2026 | — | — | 6/3/2029 | — | — | 5/30/2032 | — | — | 5/27/2035 | — | — | 6/27/2038 | — |
@@ -275,6 +676,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 | C | [Gen 14:18–20](files/EA/cccot.pdf) | [1 Cor 11:23–26](files/EA/cccep.pdf) | <span class="gospel-reference" data-textus-key="EA/cccga">Lc 9:11b–17</span><br>[Tonus Antiquior](files/EA/cccga.pdf) · [Tonus Evangelii](files/EA/cccge.pdf) · [Tonus ad libitum](files/EA/cccgl.pdf) | — | — | — | 6/18/2028 | — | — | 6/15/2031 | — | — | 6/11/2034 | — | — | 6/7/2037 | — | — |
 
 #### SACRATISSIMI CORDIS IESU
+
+<!-- orations:EA/sh:start -->
+
+##### [Orationes](files/EA/shor.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/EA/shco.pdf) | [Tonus Sollemnis](files/EA/shso.pdf) | [Tonus Sollemnis](files/EA/shpc.pdf) |
+
+##### Lectiones
+
+<!-- orations:EA/sh:end -->
 
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -286,6 +699,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 #### DOMINICA II « PER ANNUM »
 
+<!-- orations:OT/02:start -->
+
+##### [Orationes](files/OT/02or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/OT/02co.pdf) | [Tonus Sollemnis](files/OT/02so.pdf) | [Tonus Sollemnis](files/OT/02pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:OT/02:end -->
+
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A | [Is 49:3, 5–6](files/OT/a02ot.pdf) | [1 Cor 1:1–3](files/OT/a02ep.pdf) | <span class="gospel-reference" data-textus-key="OT/a02ga">Io 1:29–34</span><br>[Tonus Antiquior](files/OT/a02ga.pdf) · [Tonus Evangelii](files/OT/a02ge.pdf) · [Tonus ad libitum](files/OT/a02gl.pdf) | — | 1/18/2026 | — | — | — | — | — | — | — | — | — | — | — | — | — |
@@ -293,6 +718,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 | C | [Is 62:1–5](files/OT/c02ot.pdf) | [1 Cor 12:4–11](files/OT/c02ep.pdf) | <span class="gospel-reference" data-textus-key="OT/c02ga">Io 2:1–11</span><br>[Tonus Antiquior](files/OT/c02ga.pdf) · [Tonus Evangelii](files/OT/c02ge.pdf) · [Tonus ad libitum](files/OT/c02gl.pdf) | 1/19/2025 | — | — | 1/16/2028 | — | — | — | — | — | — | — | — | — | — | — |
 
 #### DOMINICA III « PER ANNUM »
+
+<!-- orations:OT/03:start -->
+
+##### [Orationes](files/OT/03or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/OT/03co.pdf) | [Tonus Sollemnis](files/OT/03so.pdf) | [Tonus Sollemnis](files/OT/03pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:OT/03:end -->
 
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -302,6 +739,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 #### DOMINICA IV « PER ANNUM »
 
+<!-- orations:OT/04:start -->
+
+##### [Orationes](files/OT/04or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/OT/04co.pdf) | [Tonus Sollemnis](files/OT/04so.pdf) | [Tonus Sollemnis](files/OT/04pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:OT/04:end -->
+
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A | [Soph 2:3, 3:12–13](files/OT/a04ot.pdf) | [1 Cor 1:26–31](files/OT/a04ep.pdf) | <span class="gospel-reference" data-textus-key="OT/a04ga">Mt 5:1–12a</span><br>[Tonus Antiquior](files/OT/a04ga.pdf) · [Tonus Evangelii](files/OT/a04ge.pdf) · [Tonus ad libitum](files/OT/a04gl.pdf) | — | 2/ 1/2026 | — | — | — | — | — | — | — | — | — | — | — | — | — |
@@ -309,6 +758,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 | C | [Ier 1:4–5, 17–19](files/OT/c04ot.pdf) | <span class="reading-form">Forma Longior</span> [1 Cor 12:31–13:13](files/OT/c04ep.pdf)<br><br><span class="reading-form">Forma Brevior</span> [1 Cor 13:4–13](files/OT/c04ep_br.pdf) | <span class="gospel-reference" data-textus-key="OT/c04ga">Lc 4:21–30</span><br>[Tonus Antiquior](files/OT/c04ga.pdf) · [Tonus Evangelii](files/OT/c04ge.pdf) · [Tonus ad libitum](files/OT/c04gl.pdf) | — | — | — | 1/30/2028 | — | — | — | — | — | — | — | — | — | — | — |
 
 #### DOMINICA V « PER ANNUM »
+
+<!-- orations:OT/05:start -->
+
+##### [Orationes](files/OT/05or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/OT/05co.pdf) | [Tonus Sollemnis](files/OT/05so.pdf) | [Tonus Sollemnis](files/OT/05pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:OT/05:end -->
 
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -318,6 +779,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 #### DOMINICA VI « PER ANNUM »
 
+<!-- orations:OT/06:start -->
+
+##### [Orationes](files/OT/06or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/OT/06co.pdf) | [Tonus Sollemnis](files/OT/06so.pdf) | [Tonus Sollemnis](files/OT/06pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:OT/06:end -->
+
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A | [Sir 15:16–21](files/OT/a06ot.pdf) | [1 Cor 2:6–10](files/OT/a06ep.pdf) | <span class="reading-form">Forma Longior</span> <span class="gospel-reference" data-textus-key="OT/a06ga">Mt 5:17–37</span><br>[Tonus Antiquior](files/OT/a06ga.pdf) · [Tonus Evangelii](files/OT/a06ge.pdf) · [Tonus ad libitum](files/OT/a06gl.pdf)<br><br><span class="reading-form">Forma Brevior</span> <span class="gospel-reference" data-textus-key="OT/a06ga_br">Mt 5:20–22a, 27–28, 33–34a, 37</span><br>[Tonus Antiquior](files/OT/a06ga_br.pdf) · [Tonus Evangelii](files/OT/a06ge_br.pdf) · [Tonus ad libitum](files/OT/a06gl_br.pdf) | — | 2/15/2026 | — | — | — | — | — | — | — | — | — | — | — | — | — |
@@ -325,6 +798,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 | C | [Ier 17:5–8](files/OT/c06ot.pdf) | [1 Cor 15:12, 16–20](files/OT/c06ep.pdf) | <span class="gospel-reference" data-textus-key="OT/c06ga">Lc 6:17, 20–26</span><br>[Tonus Antiquior](files/OT/c06ga.pdf) · [Tonus Evangelii](files/OT/c06ge.pdf) · [Tonus ad libitum](files/OT/c06gl.pdf) | 2/16/2025 | — | — | 2/13/2028 | — | — | — | — | — | — | — | — | — | — | — |
 
 #### DOMINICA VII « PER ANNUM »
+
+<!-- orations:OT/07:start -->
+
+##### [Orationes](files/OT/07or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/OT/07co.pdf) | [Tonus Sollemnis](files/OT/07so.pdf) | [Tonus Sollemnis](files/OT/07pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:OT/07:end -->
 
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -334,6 +819,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 #### DOMINICA VIII « PER ANNUM »
 
+<!-- orations:OT/08:start -->
+
+##### [Orationes](files/OT/08or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/OT/08co.pdf) | [Tonus Sollemnis](files/OT/08so.pdf) | [Tonus Sollemnis](files/OT/08pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:OT/08:end -->
+
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A | [Is 49:14–15](files/OT/a08ot.pdf) | [1 Cor 4:1–5](files/OT/a08ep.pdf) | <span class="gospel-reference" data-textus-key="OT/a08ga">Mt 6:24–34</span><br>[Tonus Antiquior](files/OT/a08ga.pdf) · [Tonus Evangelii](files/OT/a08ge.pdf) · [Tonus ad libitum](files/OT/a08gl.pdf) | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — |
@@ -341,6 +838,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 | C | [Sir 27:5–8](files/OT/c08ot.pdf) | [1 Cor 15:54–58](files/OT/c08ep.pdf) | <span class="gospel-reference" data-textus-key="OT/c08ga">Lc 6:39–45</span><br>[Tonus Antiquior](files/OT/c08ga.pdf) · [Tonus Evangelii](files/OT/c08ge.pdf) · [Tonus ad libitum](files/OT/c08gl.pdf) | 3/ 2/2025 | — | — | 2/27/2028 | — | — | — | — | — | — | — | — | — | — | — |
 
 #### DOMINICA IX « PER ANNUM »
+
+<!-- orations:OT/09:start -->
+
+##### [Orationes](files/OT/09or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/OT/09co.pdf) | [Tonus Sollemnis](files/OT/09so.pdf) | [Tonus Sollemnis](files/OT/09pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:OT/09:end -->
 
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -350,6 +859,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 #### DOMINICA X « PER ANNUM »
 
+<!-- orations:OT/10:start -->
+
+##### [Orationes](files/OT/10or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/OT/10co.pdf) | [Tonus Sollemnis](files/OT/10so.pdf) | [Tonus Sollemnis](files/OT/10pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:OT/10:end -->
+
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A | [Os 6:3–6](files/OT/a10ot.pdf) | [Rom 4:18–25](files/OT/a10ep.pdf) | <span class="gospel-reference" data-textus-key="OT/a10ga">Mt 9:9–13</span><br>[Tonus Antiquior](files/OT/a10ga.pdf) · [Tonus Evangelii](files/OT/a10ge.pdf) · [Tonus ad libitum](files/OT/a10gl.pdf) | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — |
@@ -357,6 +878,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 | C | [1 Reg 17:17–24](files/OT/c10ot.pdf) | [Gal 1:11–19](files/OT/c10ep.pdf) | <span class="gospel-reference" data-textus-key="OT/c10ga">Lc 7:11–17</span><br>[Tonus Antiquior](files/OT/c10ga.pdf) · [Tonus Evangelii](files/OT/c10ge.pdf) · [Tonus ad libitum](files/OT/c10gl.pdf) | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — |
 
 #### DOMINICA XI « PER ANNUM »
+
+<!-- orations:OT/11:start -->
+
+##### [Orationes](files/OT/11or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/OT/11co.pdf) | [Tonus Sollemnis](files/OT/11so.pdf) | [Tonus Sollemnis](files/OT/11pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:OT/11:end -->
 
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -366,6 +899,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 #### DOMINICA XII « PER ANNUM »
 
+<!-- orations:OT/12:start -->
+
+##### [Orationes](files/OT/12or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/OT/12co.pdf) | [Tonus Sollemnis](files/OT/12so.pdf) | [Tonus Sollemnis](files/OT/12pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:OT/12:end -->
+
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A | [Ier 20:10–13](files/OT/a12ot.pdf) | [Rom 5:12–15](files/OT/a12ep.pdf) | <span class="gospel-reference" data-textus-key="OT/a12ga">Mt 10:26–33</span><br>[Tonus Antiquior](files/OT/a12ga.pdf) · [Tonus Evangelii](files/OT/a12ge.pdf) · [Tonus ad libitum](files/OT/a12gl.pdf) | — | 6/21/2026 | — | — | — | — | — | — | — | — | — | — | — | — | — |
@@ -373,6 +918,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 | C | [Zac 12:10–11; 13:1](files/OT/c12ot.pdf) | [Gal 3:26–29](files/OT/c12ep.pdf) | <span class="gospel-reference" data-textus-key="OT/c12ga">Lc 9:18–24</span><br>[Tonus Antiquior](files/OT/c12ga.pdf) · [Tonus Evangelii](files/OT/c12ge.pdf) · [Tonus ad libitum](files/OT/c12gl.pdf) | — | — | — | 6/25/2028 | — | — | — | — | — | — | — | — | — | — | — |
 
 #### DOMINICA XIII « PER ANNUM »
+
+<!-- orations:OT/13:start -->
+
+##### [Orationes](files/OT/13or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/OT/13co.pdf) | [Tonus Sollemnis](files/OT/13so.pdf) | [Tonus Sollemnis](files/OT/13pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:OT/13:end -->
 
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -382,6 +939,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 #### DOMINICA XIV « PER ANNUM »
 
+<!-- orations:OT/14:start -->
+
+##### [Orationes](files/OT/14or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/OT/14co.pdf) | [Tonus Sollemnis](files/OT/14so.pdf) | [Tonus Sollemnis](files/OT/14pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:OT/14:end -->
+
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A | [Zac 9:9–10](files/OT/a14ot.pdf) | [Rom 8:9, 11–13](files/OT/a14ep.pdf) | <span class="gospel-reference" data-textus-key="OT/a14ga">Mt 11:25–30</span><br>[Tonus Antiquior](files/OT/a14ga.pdf) · [Tonus Evangelii](files/OT/a14ge.pdf) · [Tonus ad libitum](files/OT/a14gl.pdf) | — | 7/ 5/2026 | — | — | — | — | — | — | — | — | — | — | — | — | — |
@@ -389,6 +958,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 | C | [Is 66:10–14c](files/OT/c14ot.pdf) | [Gal 6:14–18](files/OT/c14ep.pdf) | <span class="reading-form">Forma Longior</span> <span class="gospel-reference" data-textus-key="OT/c14ga">Lc 10:1–12, 17–20</span><br>[Tonus Antiquior](files/OT/c14ga.pdf) · [Tonus Evangelii](files/OT/c14ge.pdf) · [Tonus ad libitum](files/OT/c14gl.pdf)<br><br><span class="reading-form">Forma Brevior</span> <span class="gospel-reference" data-textus-key="OT/c14ga_br">Lc 10:1–9</span><br>[Tonus Antiquior](files/OT/c14ga_br.pdf) · [Tonus Evangelii](files/OT/c14ge_br.pdf) · [Tonus ad libitum](files/OT/c14gl_br.pdf) | 7/ 6/2025 | — | — | 7/ 9/2028 | — | — | — | — | — | — | — | — | — | — | — |
 
 #### DOMINICA XV « PER ANNUM »
+
+<!-- orations:OT/15:start -->
+
+##### [Orationes](files/OT/15or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/OT/15co.pdf) | [Tonus Sollemnis](files/OT/15so.pdf) | [Tonus Sollemnis](files/OT/15pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:OT/15:end -->
 
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -398,6 +979,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 #### DOMINICA XVI « PER ANNUM »
 
+<!-- orations:OT/16:start -->
+
+##### [Orationes](files/OT/16or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/OT/16co.pdf) | [Tonus Sollemnis](files/OT/16so.pdf) | [Tonus Sollemnis](files/OT/16pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:OT/16:end -->
+
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A | [Sap 12:13, 16–19](files/OT/a16ot.pdf) | [Rom 8:26–27](files/OT/a16ep.pdf) | <span class="reading-form">Forma Longior</span> <span class="gospel-reference" data-textus-key="OT/a16ga">Mt 13:24–43</span><br>[Tonus Antiquior](files/OT/a16ga.pdf) · [Tonus Evangelii](files/OT/a16ge.pdf) · [Tonus ad libitum](files/OT/a16gl.pdf)<br><br><span class="reading-form">Forma Brevior</span> <span class="gospel-reference" data-textus-key="OT/a16ga_br">Mt 13:24–30</span><br>[Tonus Antiquior](files/OT/a16ga_br.pdf) · [Tonus Evangelii](files/OT/a16ge_br.pdf) · [Tonus ad libitum](files/OT/a16gl_br.pdf) | — | 7/19/2026 | — | — | — | — | — | — | — | — | — | — | — | — | — |
@@ -405,6 +998,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 | C | [Gen 18:1–10a](files/OT/c16ot.pdf) | [Col 1:24–28](files/OT/c16ep.pdf) | <span class="gospel-reference" data-textus-key="OT/c16ga">Lc 10:38–42</span><br>[Tonus Evangelii](files/OT/c16ge.pdf) · [Tonus ad libitum](files/OT/c16gl.pdf) · [Tonus Antiquior](files/OT/c16ga.pdf) | 7/20/2025 | — | — | 7/23/2028 | — | — | — | — | — | — | — | — | — | — | — |
 
 #### DOMINICA XVII « PER ANNUM »
+
+<!-- orations:OT/17:start -->
+
+##### [Orationes](files/OT/17or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/OT/17co.pdf) | [Tonus Sollemnis](files/OT/17so.pdf) | [Tonus Sollemnis](files/OT/17pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:OT/17:end -->
 
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -414,6 +1019,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 #### DOMINICA XVIII « PER ANNUM »
 
+<!-- orations:OT/18:start -->
+
+##### [Orationes](files/OT/18or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/OT/18co.pdf) | [Tonus Sollemnis](files/OT/18so.pdf) | [Tonus Sollemnis](files/OT/18pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:OT/18:end -->
+
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A | [Is 55:1–3](files/OT/a18ot.pdf) | [Rom 8:35, 37–39](files/OT/a18ep.pdf) | <span class="gospel-reference" data-textus-key="OT/a18ga">Mt 14:13–21</span><br>[Tonus Antiquior](files/OT/a18ga.pdf) · [Tonus Evangelii](files/OT/a18ge.pdf) · [Tonus ad libitum](files/OT/a18gl.pdf) | — | 8/ 2/2026 | — | — | — | — | — | — | — | — | — | — | — | — | — |
@@ -421,6 +1038,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 | C | [Qoh 1:2; 2:21–23](files/OT/c18ot.pdf) | [Col 3:1–5, 9–11](files/OT/c18ep.pdf) | <span class="gospel-reference" data-textus-key="OT/c18ga">Lc 12:13–21</span><br>[Tonus Antiquior](files/OT/c18ga.pdf) · [Tonus Evangelii](files/OT/c18ge.pdf) · [Tonus ad libitum](files/OT/c18gl.pdf) | 8/ 3/2025 | — | — | — | — | — | — | — | — | — | — | — | — | — | — |
 
 #### DOMINICA XIX « PER ANNUM »
+
+<!-- orations:OT/19:start -->
+
+##### [Orationes](files/OT/19or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/OT/19co.pdf) | [Tonus Sollemnis](files/OT/19so.pdf) | [Tonus Sollemnis](files/OT/19pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:OT/19:end -->
 
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -430,6 +1059,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 #### DOMINICA XX « PER ANNUM »
 
+<!-- orations:OT/20:start -->
+
+##### [Orationes](files/OT/20or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/OT/20co.pdf) | [Tonus Sollemnis](files/OT/20so.pdf) | [Tonus Sollemnis](files/OT/20pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:OT/20:end -->
+
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A | [Is 56:1, 6–7](files/OT/a20ot.pdf) | [Rom 11:13–15, 29–32](files/OT/a20ep.pdf) | <span class="gospel-reference" data-textus-key="OT/a20ga">Mt 15:21–28</span><br>[Tonus Antiquior](files/OT/a20ga.pdf) · [Tonus Evangelii](files/OT/a20ge.pdf) · [Tonus ad libitum](files/OT/a20gl.pdf) | — | 8/16/2026 | — | — | — | — | — | — | — | — | — | — | — | — | — |
@@ -437,6 +1078,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 | C | [Ier 38:4–6, 8–10](files/OT/c20ot.pdf) | [Hebr 12:1–4](files/OT/c20ep.pdf) | <span class="gospel-reference" data-textus-key="OT/c20ga">Lc 12:49–53</span><br>[Tonus Antiquior](files/OT/c20ga.pdf) · [Tonus Evangelii](files/OT/c20ge.pdf) · [Tonus ad libitum](files/OT/c20gl.pdf) | 8/17/2025 | — | — | 8/20/2028 | — | — | — | — | — | — | — | — | — | — | — |
 
 #### DOMINICA XXI « PER ANNUM »
+
+<!-- orations:OT/21:start -->
+
+##### [Orationes](files/OT/21or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/OT/21co.pdf) | [Tonus Sollemnis](files/OT/21so.pdf) | [Tonus Sollemnis](files/OT/21pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:OT/21:end -->
 
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -446,6 +1099,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 #### DOMINICA XXII « PER ANNUM »
 
+<!-- orations:OT/22:start -->
+
+##### [Orationes](files/OT/22or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/OT/22co.pdf) | [Tonus Sollemnis](files/OT/22so.pdf) | [Tonus Sollemnis](files/OT/22pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:OT/22:end -->
+
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A | [Ier 20:7–9](files/OT/a22ot.pdf) | [Rom 12:1–2](files/OT/a22ep.pdf) | <span class="gospel-reference" data-textus-key="OT/a22ga">Mt 16:21–27</span><br>[Tonus Antiquior](files/OT/a22ga.pdf) · [Tonus Evangelii](files/OT/a22ge.pdf) · [Tonus ad libitum](files/OT/a22gl.pdf) | — | 8/30/2026 | — | — | — | — | — | — | — | — | — | — | — | — | — |
@@ -453,6 +1118,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 | C | [Sir 3:19–21, 30–31](files/OT/c22ot.pdf) | [Hebr 12:18–19, 22–24a](files/OT/c22ep.pdf) | <span class="gospel-reference" data-textus-key="OT/c22ga">Lc 14:1, 7–14</span><br>[Tonus Antiquior](files/OT/c22ga.pdf) · [Tonus Evangelii](files/OT/c22ge.pdf) · [Tonus ad libitum](files/OT/c22gl.pdf) | 8/31/2025 | — | — | 9/ 3/2028 | — | — | — | — | — | — | — | — | — | — | — |
 
 #### DOMINICA XXIII « PER ANNUM »
+
+<!-- orations:OT/23:start -->
+
+##### [Orationes](files/OT/23or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/OT/23co.pdf) | [Tonus Sollemnis](files/OT/23so.pdf) | [Tonus Sollemnis](files/OT/23pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:OT/23:end -->
 
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -462,6 +1139,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 #### DOMINICA XXIV « PER ANNUM »
 
+<!-- orations:OT/24:start -->
+
+##### [Orationes](files/OT/24or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/OT/24co.pdf) | [Tonus Sollemnis](files/OT/24so.pdf) | [Tonus Sollemnis](files/OT/24pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:OT/24:end -->
+
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A | [Sir 27:33–28:9](files/OT/a24ot.pdf) | [Rom 14:7–9](files/OT/a24ep.pdf) | <span class="gospel-reference" data-textus-key="OT/a24ga">Mt 18:21–35</span><br>[Tonus Antiquior](files/OT/a24ga.pdf) · [Tonus Evangelii](files/OT/a24ge.pdf) · [Tonus ad libitum](files/OT/a24gl.pdf) | — | 9/13/2026 | — | — | — | — | — | — | — | — | — | — | — | — | — |
@@ -469,6 +1158,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 | C | [Ex 32:7–11, 13–14](files/OT/c24ot.pdf) | [1 Tim 1:12–17](files/OT/c24ep.pdf) | <span class="reading-form">Forma Longior</span> <span class="gospel-reference" data-textus-key="OT/c24ga">Lc 15:1–32</span><br>[Tonus Antiquior](files/OT/c24ga.pdf) · [Tonus Evangelii](files/OT/c24ge.pdf) · [Tonus ad libitum](files/OT/c24gl.pdf)<br><br><span class="reading-form">Forma Brevior</span> <span class="gospel-reference" data-textus-key="OT/c24ga_br">Lc 15:1–10</span><br>[Tonus Antiquior](files/OT/c24ga_br.pdf) · [Tonus Evangelii](files/OT/c24ge_br.pdf) · [Tonus ad libitum](files/OT/c24gl_br.pdf) | — | — | — | 9/17/2028 | — | — | — | — | — | — | — | — | — | — | — |
 
 #### DOMINICA XXV « PER ANNUM »
+
+<!-- orations:OT/25:start -->
+
+##### [Orationes](files/OT/25or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/OT/25co.pdf) | [Tonus Sollemnis](files/OT/25so.pdf) | [Tonus Sollemnis](files/OT/25pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:OT/25:end -->
 
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -478,6 +1179,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 #### DOMINICA XXVI « PER ANNUM »
 
+<!-- orations:OT/26:start -->
+
+##### [Orationes](files/OT/26or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/OT/26co.pdf) | [Tonus Sollemnis](files/OT/26so.pdf) | [Tonus Sollemnis](files/OT/26pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:OT/26:end -->
+
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A | [Ez 18:25–28](files/OT/a26ot.pdf) | <span class="reading-form">Forma Longior</span> [Phil 2:1–11](files/OT/a26ep.pdf)<br><br><span class="reading-form">Forma Brevior</span> [Phil 2:1–5](files/OT/a26ep_br.pdf) | <span class="gospel-reference" data-textus-key="OT/a26ga">Mt 21:28–32</span><br>[Tonus Antiquior](files/OT/a26ga.pdf) · [Tonus Evangelii](files/OT/a26ge.pdf) · [Tonus ad libitum](files/OT/a26gl.pdf) | — | 9/27/2026 | — | — | — | — | — | — | — | — | — | — | — | — | — |
@@ -485,6 +1198,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 | C | [Am 6:1a, 4–7](files/OT/c26ot.pdf) | [1 Tim 6:11–16](files/OT/c26ep.pdf) | <span class="gospel-reference" data-textus-key="OT/c26ga">Lc 16:19–31</span><br>[Tonus Antiquior](files/OT/c26ga.pdf) · [Tonus Evangelii](files/OT/c26ge.pdf) · [Tonus ad libitum](files/OT/c26gl.pdf) | 9/28/2025 | — | — | 10/ 1/2028 | — | — | — | — | — | — | — | — | — | — | — |
 
 #### DOMINICA XXVII « PER ANNUM »
+
+<!-- orations:OT/27:start -->
+
+##### [Orationes](files/OT/27or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/OT/27co.pdf) | [Tonus Sollemnis](files/OT/27so.pdf) | [Tonus Sollemnis](files/OT/27pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:OT/27:end -->
 
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -494,6 +1219,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 #### DOMINICA XXVIII « PER ANNUM »
 
+<!-- orations:OT/28:start -->
+
+##### [Orationes](files/OT/28or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/OT/28co.pdf) | [Tonus Sollemnis](files/OT/28so.pdf) | [Tonus Sollemnis](files/OT/28pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:OT/28:end -->
+
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A | [Is 25:6–10a](files/OT/a28ot.pdf) | [Phil 4:12–14, 19–20](files/OT/a28ep.pdf) | <span class="reading-form">Forma Longior</span> <span class="gospel-reference" data-textus-key="OT/a28ga">Mt 22:1–14</span><br>[Tonus Antiquior](files/OT/a28ga.pdf) · [Tonus Evangelii](files/OT/a28ge.pdf) · [Tonus ad libitum](files/OT/a28gl.pdf)<br><br><span class="reading-form">Forma Brevior</span> <span class="gospel-reference" data-textus-key="OT/a28ga_br">Mt 22:1–10</span><br>[Tonus Antiquior](files/OT/a28ga_br.pdf) · [Tonus Evangelii](files/OT/a28ge_br.pdf) · [Tonus ad libitum](files/OT/a28gl_br.pdf) | — | 10/11/2026 | — | — | — | — | — | — | — | — | — | — | — | — | — |
@@ -501,6 +1238,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 | C | [2 Reg 5:14–17](files/OT/c28ot.pdf) | [2 Tim 2:8–13](files/OT/c28ep.pdf) | <span class="gospel-reference" data-textus-key="OT/c28ga">Lc 17:11–19</span><br>[Tonus Antiquior](files/OT/c28ga.pdf) · [Tonus Evangelii](files/OT/c28ge.pdf) · [Tonus ad libitum](files/OT/c28gl.pdf) | 10/12/2025 | — | — | 10/15/2028 | — | — | — | — | — | — | — | — | — | — | — |
 
 #### DOMINICA XXIX « PER ANNUM »
+
+<!-- orations:OT/29:start -->
+
+##### [Orationes](files/OT/29or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/OT/29co.pdf) | [Tonus Sollemnis](files/OT/29so.pdf) | [Tonus Sollemnis](files/OT/29pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:OT/29:end -->
 
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -510,6 +1259,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 #### DOMINICA XXX « PER ANNUM »
 
+<!-- orations:OT/30:start -->
+
+##### [Orationes](files/OT/30or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/OT/30co.pdf) | [Tonus Sollemnis](files/OT/30so.pdf) | [Tonus Sollemnis](files/OT/30pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:OT/30:end -->
+
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A | [Ex 22:20–26](files/OT/a30ot.pdf) | [1 Th 1:5c–10](files/OT/a30ep.pdf) | <span class="gospel-reference" data-textus-key="OT/a30ga">Mt 22:34–40</span><br>[Tonus Antiquior](files/OT/a30ga.pdf) · [Tonus Evangelii](files/OT/a30ge.pdf) · [Tonus ad libitum](files/OT/a30gl.pdf) | — | 10/25/2026 | — | — | — | — | — | — | — | — | — | — | — | — | — |
@@ -517,6 +1278,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 | C | [Sir 35:15b–17, 20–22a](files/OT/c30ot.pdf) | [2 Tim 4:6–8, 16–18](files/OT/c30ep.pdf) | <span class="gospel-reference" data-textus-key="OT/c30ga">Lc 18:9–14</span><br>[Tonus Antiquior](files/OT/c30ga.pdf) · [Tonus Evangelii](files/OT/c30ge.pdf) · [Tonus ad libitum](files/OT/c30gl.pdf) | 10/26/2025 | — | — | 10/29/2028 | — | — | — | — | — | — | — | — | — | — | — |
 
 #### DOMINICA XXXI « PER ANNUM »
+
+<!-- orations:OT/31:start -->
+
+##### [Orationes](files/OT/31or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/OT/31co.pdf) | [Tonus Sollemnis](files/OT/31so.pdf) | [Tonus Sollemnis](files/OT/31pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:OT/31:end -->
 
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -526,6 +1299,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 #### DOMINICA XXXII « PER ANNUM »
 
+<!-- orations:OT/32:start -->
+
+##### [Orationes](files/OT/32or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/OT/32co.pdf) | [Tonus Sollemnis](files/OT/32so.pdf) | [Tonus Sollemnis](files/OT/32pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:OT/32:end -->
+
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A | [Sap 6:12–16](files/OT/a32ot.pdf) | <span class="reading-form">Forma Longior</span> [1 Th 4:13–18](files/OT/a32ep.pdf)<br><br><span class="reading-form">Forma Brevior</span> [1 Th 4:13–14](files/OT/a32ep_br.pdf) | <span class="gospel-reference" data-textus-key="OT/a32ga">Mt 25:1–13</span><br>[Tonus Antiquior](files/OT/a32ga.pdf) · [Tonus Evangelii](files/OT/a32ge.pdf) · [Tonus ad libitum](files/OT/a32gl.pdf) | — | 11/ 8/2026 | — | — | — | — | — | — | — | — | — | — | — | — | — |
@@ -534,6 +1319,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 #### DOMINICA XXXIII « PER ANNUM »
 
+<!-- orations:OT/33:start -->
+
+##### [Orationes](files/OT/33or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/OT/33co.pdf) | [Tonus Sollemnis](files/OT/33so.pdf) | [Tonus Sollemnis](files/OT/33pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:OT/33:end -->
+
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A | [Prov 31:10–13, 19–20, 30–31](files/OT/a33ot.pdf) | [1 Th 5:1–6](files/OT/a33ep.pdf) | <span class="reading-form">Forma Longior</span> <span class="gospel-reference" data-textus-key="OT/a33ga">Mt 25:14–30</span><br>[Tonus Antiquior](files/OT/a33ga.pdf) · [Tonus Evangelii](files/OT/a33ge.pdf) · [Tonus ad libitum](files/OT/a33gl.pdf)<br><br><span class="reading-form">Forma Brevior</span> <span class="gospel-reference" data-textus-key="OT/a33ga_br">Mt 25:14–15, 19–21</span><br>[Tonus Antiquior](files/OT/a33ga_br.pdf) · [Tonus Evangelii](files/OT/a33ge_br.pdf) · [Tonus ad libitum](files/OT/a33gl_br.pdf) | — | 11/15/2026 | — | — | — | — | — | — | — | — | — | — | — | — | — |
@@ -541,6 +1338,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 | C | [Mal 3:19–20a](files/OT/c33ot.pdf) | [2 Th 3:7–12](files/OT/c33ep.pdf) | <span class="gospel-reference" data-textus-key="OT/c33ga">Lc 21:5–19</span><br>[Tonus Antiquior](files/OT/c33ga.pdf) · [Tonus Evangelii](files/OT/c33ge.pdf) · [Tonus ad libitum](files/OT/c33gl.pdf) | 11/16/2025 | — | — | 11/19/2028 | — | — | — | — | — | — | — | — | — | — | — |
 
 #### DOMINI NOSTRI IESU CHRISTI UNIVERSORUM REGIS
+
+<!-- orations:OT/34:start -->
+
+##### [Orationes](files/OT/34or.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/OT/34co.pdf) | [Tonus Sollemnis](files/OT/34so.pdf) | [Tonus Sollemnis](files/OT/34pc.pdf) |
+
+##### Lectiones
+
+<!-- orations:OT/34:end -->
 
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 | 2038 | 2039 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -552,11 +1361,35 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 ### IN CONCEPTIONE IMMACULATA BEATÆ MARIÆ VIRGINIS
 
+<!-- orations:SA/icm:start -->
+
+#### [Orationes](files/SA/icmor.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/SA/icmco.pdf) | [Tonus Sollemnis](files/SA/icmso.pdf) | [Tonus Sollemnis](files/SA/icmpc.pdf) |
+
+#### Lectiones
+
+<!-- orations:SA/icm:end -->
+
 | Lectio Prima | Lectio Secunda | Evangelium | Dies |
 | --- | --- | --- | --- |
 | [Gen 3:9–15, 20](files/SA/imcot.pdf) | [Eph 1:3–6, 11–12](files/SA/imcep.pdf) | <span class="gospel-reference" data-textus-key="SA/imcga">Lc 1:26–38</span><br>[Tonus Antiquior](files/SA/imcga.pdf) · [Tonus Evangelii](files/SA/imcge.pdf) · [Tonus ad libitum](files/SA/imcgl.pdf) | 8 Dec. |
 
 ### IN PRÆSENTATIONE DOMINI
+
+<!-- orations:SA/pur:start -->
+
+#### [Orationes](files/SA/puror.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/SA/purco.pdf) | [Tonus Sollemnis](files/SA/purso.pdf) | [Tonus Sollemnis](files/SA/purpc.pdf) |
+
+#### Lectiones
+
+<!-- orations:SA/pur:end -->
 
 | Lectio Prima | Lectio Secunda | Evangelium | Dies |
 | --- | --- | --- | --- |
@@ -564,11 +1397,35 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 ### SANCTI IOSEPH, SPONSI BEATÆ MARIÆ VIRGINIS
 
+<!-- orations:SA/sjo:start -->
+
+#### [Orationes](files/SA/sjoor.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/SA/sjoco.pdf) | [Tonus Sollemnis](files/SA/sjoso.pdf) | [Tonus Sollemnis](files/SA/sjopc.pdf) |
+
+#### Lectiones
+
+<!-- orations:SA/sjo:end -->
+
 | Lectio Prima | Lectio Secunda | Evangelium | Dies |
 | --- | --- | --- | --- |
 | [2 Sam 7:4–5a, 12–14a, 16](files/SA/sjoot.pdf) | [Rom 4:13, 16–18, 22](files/SA/sjoep.pdf) | <span class="gospel-reference" data-textus-key="SA/sj1ga">Mt 1:16, 18–21, 24a</span><br>[Tonus Antiquior](files/SA/sj1ga.pdf) · [Tonus Evangelii](files/SA/sj1ge.pdf) · [Tonus ad libitum](files/SA/sj1gl.pdf)<br><br><span class="gospel-reference" data-textus-key="SA/sj2ga">Lc 2:41–51a</span><br>[Tonus Antiquior](files/SA/sj2ga.pdf) · [Tonus Evangelii](files/SA/sj2ge.pdf) · [Tonus ad libitum](files/SA/sj2gl.pdf) | 19 Mart. |
 
 ### IN ANNUNTIATIONE DOMINI
+
+<!-- orations:SA/ann:start -->
+
+#### [Orationes](files/SA/annor.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/SA/annco.pdf) | [Tonus Sollemnis](files/SA/annso.pdf) | [Tonus Sollemnis](files/SA/annpc.pdf) |
+
+#### Lectiones
+
+<!-- orations:SA/ann:end -->
 
 | Lectio Prima | Lectio Secunda | Evangelium | Dies |
 | --- | --- | --- | --- |
@@ -576,16 +1433,78 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 ### IN NATIVITATE SANCTI IOANNIS BAPTISTÆ
 
+#### AD MISSAM IN VIGILIA
+
+<!-- orations:SA/njv:start -->
+
+##### [Orationes](files/SA/njvor.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/SA/njvco.pdf) | [Tonus Sollemnis](files/SA/njvso.pdf) | [Tonus Sollemnis](files/SA/njvpc.pdf) |
+
+##### Lectiones
+
+<!-- orations:SA/njv:end -->
+
 | Missa | Lectio Prima | Lectio Secunda | Evangelium | Dies |
 | --- | --- | --- | --- | --- |
 | Ad Missam in Vigilia | [Ier 1:4–10](files/SA/njvot.pdf) | [1 Petr 1:8–12](files/SA/njvep.pdf) | <span class="gospel-reference" data-textus-key="SA/njvga">Lc 1:5–17</span><br>[Tonus Antiquior](files/SA/njvga.pdf) · [Tonus Evangelii](files/SA/njvge.pdf) · [Tonus ad libitum](files/SA/njvgl.pdf) | 23 Iun. |
+
+#### AD MISSAM IN DIE
+
+<!-- orations:SA/njb:start -->
+
+##### [Orationes](files/SA/njbor.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/SA/njbco.pdf) | [Tonus Sollemnis](files/SA/njbso.pdf) | [Tonus Sollemnis](files/SA/njbpc.pdf) |
+
+##### Lectiones
+
+<!-- orations:SA/njb:end -->
+
+| Missa | Lectio Prima | Lectio Secunda | Evangelium | Dies |
+| --- | --- | --- | --- | --- |
 | Ad Missam in die | [Is 49:1–6](files/SA/njbot.pdf) | [Act 13:22–26](files/SA/njbac.pdf) | <span class="gospel-reference" data-textus-key="SA/njbga">Lc 1:57–66, 80</span><br>[Tonus Antiquior](files/SA/njbga.pdf) · [Tonus Evangelii](files/SA/njbge.pdf) · [Tonus ad libitum](files/SA/njbgl.pdf) | 24 Iun. |
 
 ### SS. PETRI ET PAULI, APOSTOLORUM
 
+#### AD MISSAM IN VIGILIA
+
+<!-- orations:SA/ppv:start -->
+
+##### [Orationes](files/SA/ppvor.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/SA/ppvco.pdf) | [Tonus Sollemnis](files/SA/ppvso.pdf) | [Tonus Sollemnis](files/SA/ppvpc.pdf) |
+
+##### Lectiones
+
+<!-- orations:SA/ppv:end -->
+
 | Missa | Lectio Prima | Lectio Secunda | Evangelium | Dies |
 | --- | --- | --- | --- | --- |
 | Ad Missam in Vigilia | [Act 3:1–10](files/SA/ppvac.pdf) | [Gal 1:11–20](files/SA/ppvep.pdf) | <span class="gospel-reference" data-textus-key="SA/ppvga">Io 21:15–19</span><br>[Tonus Antiquior](files/SA/ppvga.pdf) · [Tonus Evangelii](files/SA/ppvge.pdf) · [Tonus ad libitum](files/SA/ppvgl.pdf) | 28 Iun. |
+
+#### AD MISSAM IN DIE
+
+<!-- orations:SA/spp:start -->
+
+##### [Orationes](files/SA/sppor.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/SA/sppco.pdf) | [Tonus Sollemnis](files/SA/sppso.pdf) | [Tonus Sollemnis](files/SA/spppc.pdf) |
+
+##### Lectiones
+
+<!-- orations:SA/spp:end -->
+
+| Missa | Lectio Prima | Lectio Secunda | Evangelium | Dies |
+| --- | --- | --- | --- | --- |
 | Ad Missam in die | [Act 12:1–11](files/SA/sppac.pdf) | [2 Tim 4:6–8, 17–18](files/SA/sppep.pdf) | <span class="gospel-reference" data-textus-key="SA/sppga">Mt 16:13–19</span><br>[Tonus Antiquior](files/SA/sppga.pdf) · [Tonus Evangelii](files/SA/sppge.pdf) · [Tonus ad libitum](files/SA/sppgl.pdf) | 29 Iun. |
 
 ### SS. IOACHIM ET ANNÆ, PARENTUM BEATÆ MARIÆ VIRGINIS
@@ -596,6 +1515,18 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 ### IN TRANSFIGURATIONE DOMINI
 
+<!-- orations:SA/tfg:start -->
+
+#### [Orationes](files/SA/tfgor.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/SA/tfgco.pdf) | [Tonus Sollemnis](files/SA/tfgso.pdf) | [Tonus Sollemnis](files/SA/tfgpc.pdf) |
+
+#### Lectiones
+
+<!-- orations:SA/tfg:end -->
+
 | Annus | Lectio Prima | Lectio Secunda | Evangelium | Dies |
 | --- | --- | --- | --- | --- |
 | A | [Dan 7:9–10, 13–14](files/SA/tfgot.pdf) | [2 Petr 1:16–19](files/SA/tfgep.pdf) | <span class="gospel-reference" data-textus-key="SA/tfaga">Mt 17:1–9</span><br>[Tonus Antiquior](files/SA/tfaga.pdf) · [Tonus Evangelii](files/SA/tfage.pdf) · [Tonus ad libitum](files/SA/tfagl.pdf) | 6 Aug. |
@@ -604,12 +1535,55 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 ### IN ASSUMPTIONE BEATÆ MARIÆ VIRGINIS
 
+#### AD MISSAM IN VIGILIA
+
+<!-- orations:SA/asv:start -->
+
+##### [Orationes](files/SA/asvor.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/SA/asvco.pdf) | [Tonus Sollemnis](files/SA/asvso.pdf) | [Tonus Sollemnis](files/SA/asvpc.pdf) |
+
+##### Lectiones
+
+<!-- orations:SA/asv:end -->
+
 | Missa | Lectio Prima | Lectio Secunda | Evangelium | Dies |
 | --- | --- | --- | --- | --- |
 | Ad Missam in Vigilia | [1 Chr 15:3–4, 15–16; 16:1–2](files/SA/asvot.pdf) | [1 Cor 15:54b–57](files/SA/asvep.pdf) | <span class="gospel-reference" data-textus-key="SA/asvga">Lc 11:27–28</span><br>[Tonus Antiquior](files/SA/asvga.pdf) · [Tonus Evangelii](files/SA/asvge.pdf) · [Tonus ad libitum](files/SA/asvgl.pdf) | 14 Aug. |
+
+#### AD MISSAM IN DIE
+
+<!-- orations:SA/asm:start -->
+
+##### [Orationes](files/SA/asmor.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/SA/asmco.pdf) | [Tonus Sollemnis](files/SA/asmso.pdf) | [Tonus Sollemnis](files/SA/asmpc.pdf) |
+
+##### Lectiones
+
+<!-- orations:SA/asm:end -->
+
+| Missa | Lectio Prima | Lectio Secunda | Evangelium | Dies |
+| --- | --- | --- | --- | --- |
 | Ad Missam in die | [Ap 11:19a; 12:1–6a, 10ab](files/SA/asmap.pdf) | [1 Cor 15:20–27](files/SA/asmep.pdf) | <span class="gospel-reference" data-textus-key="SA/asmga">Lc 1:39–56</span><br>[Tonus Antiquior](files/SA/asmga.pdf) · [Tonus Evangelii](files/SA/asmge.pdf) · [Tonus ad libitum](files/SA/asmgl.pdf) | 15 Aug. |
 
 ### IN EXALTATIONE SANCTÆ CRUCIS
+
+<!-- orations:SA/ehc:start -->
+
+#### [Orationes](files/SA/ehcor.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/SA/ehcco.pdf) | [Tonus Sollemnis](files/SA/ehcso.pdf) | [Tonus Sollemnis](files/SA/ehcpc.pdf) |
+
+#### Lectiones
+
+<!-- orations:SA/ehc:end -->
 
 | Lectio Prima | Lectio Secunda | Evangelium | Dies |
 | --- | --- | --- | --- |
@@ -617,11 +1591,35 @@ title: Lectiones Missalis Romani MMII notatione gregoriana
 
 ### OMNIUM SANCTORUM
 
+<!-- orations:SA/ast:start -->
+
+#### [Orationes](files/SA/astor.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/SA/astco.pdf) | [Tonus Sollemnis](files/SA/astso.pdf) | [Tonus Sollemnis](files/SA/astpc.pdf) |
+
+#### Lectiones
+
+<!-- orations:SA/ast:end -->
+
 | Lectio Prima | Lectio Secunda | Evangelium | Dies |
 | --- | --- | --- | --- |
 | [Ap 7:2–4, 9–14](files/SA/astap.pdf) | [1 Io 3:1–3](files/SA/astep.pdf) | <span class="gospel-reference" data-textus-key="SA/astga">Mt 5:1–12a</span><br>[Tonus Antiquior](files/SA/astga.pdf) · [Tonus Evangelii](files/SA/astge.pdf) · [Tonus ad libitum](files/SA/astgl.pdf) | 1 Nov. |
 
 ### IN DEDICATIONE BASILICÆ LATERANENSIS
+
+<!-- orations:SA/ded:start -->
+
+#### [Orationes](files/SA/dedor.pdf)
+
+| Collecta | Super oblata | Post communionem |
+| --- | --- | --- |
+| [Tonus Sollemnis](files/SA/dedco.pdf) | [Tonus Sollemnis](files/SA/dedso.pdf) | [Tonus Sollemnis](files/SA/dedpc.pdf) |
+
+#### Lectiones
+
+<!-- orations:SA/ded:end -->
 
 | Lectio Prima | Lectio Secunda | Evangelium | Dies |
 | --- | --- | --- | --- |

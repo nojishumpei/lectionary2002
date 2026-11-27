@@ -3,6 +3,7 @@
 (() => {
   const script = document.currentScript;
   const url = script?.dataset.textusUrl;
+  const orationsUrl = script?.dataset.orationsUrl;
   const pdfBase = script?.dataset.pdfBase;
   const main = document.querySelector(".catalogue");
   if (!url || !pdfBase || !main) return;
@@ -46,7 +47,7 @@
     body.replaceChildren();
     if (record.intro) body.append(el("p", record.intro, "textus-intro"));
     record.paragraphs.forEach(p => body.append(el("p", p.replaceAll("¿", ""))));
-    body.append(el("p", "Verbum Dómini.", "textus-conclusion"));
+    if (record.kind !== "oration") body.append(el("p", "Verbum Dómini.", "textus-conclusion"));
     footer.replaceChildren();
     record.pdfs.forEach(pdf => {
       const tone = /ga(?:_br)?\.pdf$/.test(pdf) ? "Tonus Antiquior"
@@ -59,10 +60,15 @@
     if (!dialog.open) dialog.showModal();
     dialog.scrollTop = 0; close.focus({preventScroll: true});
   }
-  fetch(url).then(response => {
-    if (!response.ok) throw new Error("Reading text unavailable");
+  const loadRecords = source => fetch(source).then(response => {
+    if (!response.ok) throw new Error("Textus unavailable");
     return response.json();
-  }).then(records => {
+  });
+  Promise.all([
+    loadRecords(url),
+    orationsUrl ? loadRecords(orationsUrl).catch(() => ({})) : Promise.resolve({})
+  ]).then(([readings, orations]) => {
+    const records = {...readings, ...orations};
     const cellReadings = new WeakMap();
     for (const link of main.querySelectorAll('a[href*="files/"]')) {
       const path = new URL(link.href, document.baseURI).pathname;
@@ -80,7 +86,7 @@
       button.type = "button";
       button.setAttribute("aria-haspopup", "dialog"); button.setAttribute("aria-controls", dialog.id);
       button.setAttribute("aria-expanded", "false");
-      button.setAttribute("aria-label", `Textus: ${record.reading}, ${record.reference}${record.form ? ", " + record.form : ""}`);
+      button.setAttribute("aria-label", `Textus: ${[record.reading, record.reference, record.form].filter(Boolean).join(", ")}`);
       button.addEventListener("click", () => open(record, button));
       const reference = cell?.querySelector(`[data-textus-key="${record.id}"]`);
       (reference || link).after(button);
